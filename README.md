@@ -33,11 +33,11 @@ The restoration intends to include:
 ### Publications
 
 - **Part I** (27 pages)
-	- [[IMSLP935307-PMLP1467582-farbigenoten1.pdf|Volume 1: Vorschlag eines neuen vereinfachten Notensystems. Analogie zwischen Farben und Tönen]]
+	- [Volume 1: Vorschlag eines neuen vereinfachten Notensystems. Analogie zwischen Farben und Tönen](masters/IMSLP935307-PMLP1467582-farbigenoten1.pdf)
 - **Part II** (56 pages)
-	- [[IMSLP935308-PMLP1467582-farbigenoten2.pdf|Volume 2: Veiterer Verfolg der neuen Theorie auf das Tonsystem: Grundzüge einer naturgemässen Harmonie- und Compositionslehre]]
+	- [Volume 2: Veiterer Verfolg der neuen Theorie auf das Tonsystem: Grundzüge einer naturgemässen Harmonie- und Compositionslehre](masters/IMSLP935308-PMLP1467582-farbigenoten2.pdf)
 - **Part III** (3 pages)
-	- [[IMSLP935310-PMLP1467582-farbigenoten_erklarung.pdf|Erklärung des farbigen Notensystems]]
+	- [Erklärung des farbigen Notensystems](masters/IMSLP935310-PMLP1467582-farbigenoten_erklarung.pdf)
 
 ### Author
 
