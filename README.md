@@ -9,7 +9,7 @@ The project aims to **preserve, analyse, and reconstruct** the work's textual, t
 
 The restoration intends to include:
 
-- A **transcription** of all the original text
+- **Transcriptions** of all the original text
 - **Translations** of all the original text
 - **Reconstruction** and **restoration** of the original typography
 - **Reconstruction** and **restoration** of the work's ornaments and layout
