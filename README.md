@@ -46,12 +46,13 @@ The restoration intends to include:
 ### Publishing House
 
 *Verlagsanstalt und Druckerei (vormals J.F. Richter)*
+
 Originally, *Verlag von J. F. Richter*
 
 
 ## Progress
 
-### [[transcriptions/README|Transcriptions]]
+### [Transcriptions](transcriptions/README.md)
 
 |           | Pages Complete | Percentage Completion |
 | --------- | -------------- | --------------------- |
@@ -60,7 +61,7 @@ Originally, *Verlag von J. F. Richter*
 | Part III  | 0/3            | 0%                    |
 | **Total** | **0/86**       | **0%**                |
 
-### [[transcriptions/README|Translations]]
+### [Transcriptions](transcriptions/README.md)
 
 |           | Pages Complete | Percentage Completion |
 | --------- | -------------- | --------------------- |
@@ -69,15 +70,15 @@ Originally, *Verlag von J. F. Richter*
 | Part III  | 0/3            | 0%                    |
 | **Total** | **0/86**       | **0%**                |
 
-### [[fonts/README|Fonts]]
+### [Fonts](fonts/README.md)
 
 The fonts have not yet been catalogued for tracking progress.
 
-### [[vectors/README|Graphics]]
+### [Graphics](vectors/README.md)
 
 The graphics have not yet been catalogued for tracking progress.
 
-### [[layouts/README|Layouts]]
+### [Layouts](layouts/README.md)
 
 |           | Pages Complete | Percentage Completion |
 | --------- | -------------- | --------------------- |
