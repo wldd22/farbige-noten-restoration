@@ -45,8 +45,7 @@ The restoration intends to include:
 
 ### Publishing House
 
-*Verlagsanstalt und Druckerei (vormals J.F. Richter)*
-
+*Verlagsanstalt und Druckerei Actien-Gesellschaft (vormals J.F. Richter)*\
 Originally, *Verlag von J. F. Richter*
 
 
