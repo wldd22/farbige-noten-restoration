@@ -145,7 +145,6 @@ def main() -> None:
         table = progress_by_parts_table(parts)
         if not table:
             continue
-
         if not isinstance(files, list):
             handle_error(f"'files' for category '{category}' must be a list.")
             continue
