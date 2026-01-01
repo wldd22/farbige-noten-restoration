@@ -1,7 +1,8 @@
-# Transcriptions
+# Translations
 ## Progress
+### English
 <!-- AUTO-GENERATED START: DO NOT EDIT -->
-<!-- transcriptions -->
+<!-- translations-en -->
 | Part      | Pages Complete | Percentage Completion |
 | --------- | -------------- | --------------------- |
 | Part I    | 0/20           | 0%                    |

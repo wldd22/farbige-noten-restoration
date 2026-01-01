@@ -25,8 +25,8 @@ The restoration intends to include:
 /vectors         - Reconstructed ornaments and graphics
 /layouts         - Reconstructed page layouts
 /docs            - Documentation of research, decisions, and work
+/scripts         - Miscellaneous utility scripts
 ```
-
 
 ## Source Material
 
@@ -53,21 +53,29 @@ Originally, *Verlag von J. F. Richter*
 
 ### [Transcriptions](transcriptions/README.md)
 
-|           | Pages Complete | Percentage Completion |
+<!-- AUTO-GENERATED START: DO NOT EDIT -->
+<!-- transcriptions -->
+| Part      | Pages Complete | Percentage Completion |
 | --------- | -------------- | --------------------- |
-| Part I    | 0/27           | 0%                    |
-| Part II   | 0/56           | 0%                    |
-| Part III  | 0/3            | 0%                    |
-| **Total** | **0/86**       | **0%**                |
+| Part I    | 0/20           | 0%                    |
+| Part II   | 0/15           | 0%                    |
+| Part III  | 0/10           | 0%                    |
+| **Total** | **0/45**       | **0%**                |
+<!-- AUTO-GENERATED END -->
 
-### [Transcriptions](transcriptions/README.md)
+### [Translations](translations/README.md)
 
-|           | Pages Complete | Percentage Completion |
+#### English
+
+<!-- AUTO-GENERATED START: DO NOT EDIT -->
+<!-- translations-en -->
+| Part      | Pages Complete | Percentage Completion |
 | --------- | -------------- | --------------------- |
-| Part I    | 0/27           | 0%                    |
-| Part II   | 0/56           | 0%                    |
-| Part III  | 0/3            | 0%                    |
-| **Total** | **0/86**       | **0%**                |
+| Part I    | 0/20           | 0%                    |
+| Part II   | 0/15           | 0%                    |
+| Part III  | 0/10           | 0%                    |
+| **Total** | **0/45**       | **0%**                |
+<!-- AUTO-GENERATED END -->
 
 ### [Fonts](fonts/README.md)
 
@@ -79,9 +87,12 @@ The graphics have not yet been catalogued for tracking progress.
 
 ### [Layouts](layouts/README.md)
 
-|           | Pages Complete | Percentage Completion |
+<!-- AUTO-GENERATED START: DO NOT EDIT -->
+<!-- layouts -->
+| Part      | Pages Complete | Percentage Completion |
 | --------- | -------------- | --------------------- |
-| Part I    | 0/27           | 0%                    |
-| Part II   | 0/56           | 0%                    |
-| Part III  | 0/3            | 0%                    |
-| **Total** | **0/86**       | **0%**                |
+| Part I    | 0/20           | 0%                    |
+| Part II   | 0/15           | 0%                    |
+| Part III  | 0/10           | 0%                    |
+| **Total** | **0/45**       | **0%**                |
+<!-- AUTO-GENERATED END -->
