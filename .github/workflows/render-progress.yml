@@ -39,9 +39,6 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add README.md
+          git add **/README.md
           git commit -m "Auto-update README" || echo "No changes to commit"
           git push
-
-      - name: Show git status
-        run: git status --short
