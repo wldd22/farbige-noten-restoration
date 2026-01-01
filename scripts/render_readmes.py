@@ -181,6 +181,15 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
+
+    import os
+    from pathlib import Path
+
+    print("CWD:", os.getcwd())
+    print("Repo contents:")
+    for p in Path(".").rglob("README*"):
+        print(p)
+
     if error_messages:
         print(f"{len(error_messages)} error(s) occurred during execution:", file=sys.stderr)
         for i, msg in enumerate(error_messages, start=1):
