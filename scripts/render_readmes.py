@@ -183,6 +183,6 @@ if __name__ == "__main__":
     main()
     if error_messages:
         print(f"{len(error_messages)} error(s) occurred during execution:", file=sys.stderr)
-        for msg in error_messages:
-            print(f"- {msg}", file=sys.stderr)
+        for i, msg in enumerate(error_messages, start=1):
+            print(f"{i}. {msg}", file=sys.stderr)
         sys.exit(1)
