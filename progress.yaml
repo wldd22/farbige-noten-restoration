@@ -2,10 +2,10 @@ transcriptions:
   files: [transcriptions/README.md, ./README.md]
   parts:
     Part I:
-      completed_pages: 10
+      completed_pages: 0
       total_pages: 27
     Part II:
-      completed_pages: 3
+      completed_pages: 0
       total_pages: 56
     Part III:
       completed_pages: 0
@@ -18,7 +18,7 @@ translations-en:
       completed_pages: 0
       total_pages: 27
     Part II:
-      completed_pages: 5
+      completed_pages: 0
       total_pages: 56
     Part III:
       completed_pages: 0
