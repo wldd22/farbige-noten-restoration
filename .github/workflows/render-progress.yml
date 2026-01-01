@@ -1,0 +1,28 @@
+name: Render Progress Tables
+
+on:
+  push:
+    paths:
+      - "progress.yaml"
+      - "scripts/render_readmes.py"
+  pull_request:
+    paths:
+      - "progress.yaml"
+      - "scripts/render_readmes.py"
+
+jobs:
+  render-progress:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Run progress renderer
+        run: |
+          python scripts/render_readmes.py
