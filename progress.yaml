@@ -1,5 +1,5 @@
 transcriptions:
-  files: [transcriptions/README.md, ./README.md]
+  files: [./transcriptions/README.md, ./README.md]
   parts:
     Part I:
       completed_pages: 0
@@ -12,7 +12,7 @@ transcriptions:
       total_pages: 3
 
 translations-en:
-  files: [translations/README.md, ./README.md]
+  files: [./translations/README.md, ./README.md]
   parts:
     Part I:
       completed_pages: 0
@@ -25,7 +25,7 @@ translations-en:
       total_pages: 3
 
 layouts:
-  files: [layouts/README.md, ./README.md]
+  files: [./layouts/README.md, ./README.md]
   parts:
     Part I:
       completed_pages: 0
