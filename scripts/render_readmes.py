@@ -16,7 +16,6 @@ def handle_error(message: str) -> None:
     Change this function to log, raise, or store errors globally.
     """
     error_messages.append(message)
-    print(f"ERROR: {message}", file=sys.stderr)
 
 
 # =========================
@@ -183,5 +182,7 @@ def main() -> None:
 if __name__ == "__main__":
     main()
     if error_messages:
-        print(f"{len(error_messages)} error(s) occurred during execution", file=sys.stderr)
+        print(f"{len(error_messages)} error(s) occurred during execution:", file=sys.stderr)
+        for msg in error_messages:
+            print(f"- {msg}", file=sys.stderr)
         sys.exit(1)
