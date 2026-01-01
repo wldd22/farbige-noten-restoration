@@ -10,6 +10,9 @@ on:
       - "progress.yaml"
       - "scripts/render_readmes.py"
 
+permissions:
+  contents: write
+
 jobs:
   render-progress:
     runs-on: ubuntu-latest
