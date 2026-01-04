@@ -35,13 +35,13 @@ jobs:
         run: |
           python scripts/render_readmes.py
 
+      - name: Show git status
+        run: git status --short
+
       - name: Commit and push changes
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add **/README.md
+          git add README.md **/README.md
           git commit -m "Auto-update progress" || echo "No changes to commit"
           git push
-
-      - name: Show git status
-        run: git status --short
