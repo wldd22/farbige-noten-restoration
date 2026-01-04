@@ -177,6 +177,7 @@ def main() -> None:
 
             except Exception as e:
                 handle_error(f"Failed processing file '{file}': {e}")
+        print(f"Modified files: {files}")
 
 
 if __name__ == "__main__":
