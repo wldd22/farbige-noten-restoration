@@ -20,9 +20,10 @@ The restoration intends to include:
 
 ```
 /masters         - Original source scans
+/working         - Altered sources for easier usage
 /transcriptions  - OCR and manual transcripts, and translations
 /fonts           - Reconstructed font glyphs and fonts
-/vectors         - Reconstructed ornaments and graphics
+/graphics         - Reconstructed ornaments, diagrams, and plates
 /layouts         - Reconstructed page layouts
 /docs            - Documentation of research, decisions, and work
 /scripts         - Miscellaneous utility scripts
@@ -81,18 +82,10 @@ Originally, *Verlag von J. F. Richter*
 
 The fonts have not yet been catalogued for tracking progress.
 
-### [Graphics](vectors/README.md)
+### [Graphics](graphics/README.md)
 
 The graphics have not yet been catalogued for tracking progress.
 
 ### [Layouts](layouts/README.md)
 
-<!-- AUTO-GENERATED START: DO NOT EDIT -->
-<!-- layouts -->
-| Part      | Pages Complete | Percentage Completion |
-| --------- | -------------- | --------------------- |
-| Part I    | 0/27           | 0%                    |
-| Part II   | 0/56           | 0%                    |
-| Part III  | 0/3            | 0%                    |
-| **Total** | **0/86**       | **0%**                |
-<!-- AUTO-GENERATED END -->
+The layouts have not yet been catalogued for tracking progress.

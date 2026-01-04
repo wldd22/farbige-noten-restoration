@@ -3,36 +3,23 @@ transcriptions:
   parts:
     Part I:
       completed_pages: 0
-      total_pages: 27
+      total_pages: 21
     Part II:
       completed_pages: 0
-      total_pages: 56
+      total_pages: 47
     Part III:
       completed_pages: 0
-      total_pages: 3
+      total_pages: 2
 
 translations-en:
   files: [./translations/README.md, ./README.md]
   parts:
     Part I:
       completed_pages: 0
-      total_pages: 27
+      total_pages: 21
     Part II:
       completed_pages: 0
-      total_pages: 56
+      total_pages: 47
     Part III:
       completed_pages: 0
-      total_pages: 3
-
-layouts:
-  files: [./layouts/README.md, ./README.md]
-  parts:
-    Part I:
-      completed_pages: 0
-      total_pages: 27
-    Part II:
-      completed_pages: 0
-      total_pages: 56
-    Part III:
-      completed_pages: 0
-      total_pages: 3
+      total_pages: 2
