@@ -8,6 +8,7 @@ These standards apply to:
 - Pages
 - Fonts
 - Graphics
+- Layouts
 - Metadata references
 - Filenames (where applicable)
 
@@ -30,7 +31,7 @@ All identifiers begin with: `FN`, representing *Farbige Noten*.
 | `P3` | Part III (Explanatory booklet) |
 
 **Notes:**
-- Chronologically, the explanatory booklet (Erklärung des farbigen Notensystems) was published before Volume II, however, it is given Part III to maintain volume order
+- Chronologically, the explanatory booklet (Erklärung des farbigen Notensystems) was published before Volume II, however, it is assigned Part III to maintain volume order
 
 ---
 
@@ -70,7 +71,7 @@ FN-PG-P1-01, P2
 Example: `FN-PG-P1-12`
 
 **Notes:**
-- The page number is based on the sequence of pages as scanned, not the printed pagination
+- The page number is based on the sequence of pages as scanned, not any printed pagination
 
 See: [Page Types](docs/page-types.md)
 
@@ -88,9 +89,26 @@ FN-F-##
 Example: `FN-F-02`
 
 **Notes:**
-- Font indices don't necessarily follow a pattern, but are generally in the order of occurance in the work
+- Font indices don't necessarily follow a pattern, but are generally in order of appearance
 
 See: [Font Catalogue](fonts/README.md)
+
+---
+
+## Font Glyph Identifiers
+
+**Format**
+```
+FN-FG-##-####
+
+##: Two-digit sequential font index
+####: Four-digit glyph ID
+```
+
+Example: `FN-FG-02-053`
+
+**Notes:**
+- Glyph ID is based on the [Glyph Allocations](docs/glyph-allocations.md).
 
 ---
 
@@ -113,3 +131,19 @@ Example: `FN-GR-OR-02`
 See: [Graphic Catalogue](graphics/README.md)
 
 ---
+
+## Layout Identifiers
+
+**Format**
+```
+FN-L-##
+
+##: Two-digit sequential layout index
+```
+
+Example: `FN-L-03`
+
+**Notes:**
+- Layout indices don't necessarily follow a pattern, but are generally in order of appearance
+
+See: [Layout Catalogue](layouts/README.md)

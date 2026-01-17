@@ -35,9 +35,3 @@ Inline graphics conveying conceptual or instructional information.
 Decorative, enlarged initial letters marking the start of a new section.
 
 ---
-
-## SY — Symbol
-
-Non-alphabetic inline glyphs with specific semantic meaning.
-
----
