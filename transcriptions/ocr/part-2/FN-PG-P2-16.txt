@@ -1,0 +1,72 @@
+—
+
+und indem man alsdann DG durch Zirkelschlag auf AG abträgt. Der Rest von AG ist mittlere Proportionale von
+AD und wird mittelst Zirkel auf AD abgeschnitten, bier also AC.
+
+Läne gleiche Construction liesse sich von dem andern Endpunct der Linie AD müchen, sie muss auch erfolgen,
+da die Natur nicht einsellig vorgeht. — In unserer Zeichnung erzielen wir dasselbe Resultat, wenn wir auf C eine
+Senkrechte CB' setzen, dieselbe ist dann sicher genau halb so lang wie AC, schlagen wir BC, wie vorher, auf AB
+mit dem Zirkel ab, und tragen den Rest von AB auf AC ab, hier also AB, so ist dies Resultat wieder mittlere
+Proportionale von AC, und AB st gleich CD, so dass wir also das Gleiche erhielten, als wenn wir auf Punct A eine
+Senkrechte gesetzt hätten, um DB als mittlere Proportionale von DA zu erhalten.
+
+Ganz ebenso wird AB in den goldenen Schnitt zerlegt durch AE, und um die gleiche Strecke DC auch so
+zu theilen, constreirten wie besonders in ganz gleicher Weise: A'E' ist mittlere Proportionale von A'WW', was also
+dasschbe ist wie DF jst mittlere Proportionale von DC.
+
+Nunmehr verfügen wir über eine erkleckliche Menge Proportionen, die sich der gütige Leser heraussuchen
+wolle, während wir nnr bemerken, dass AL jetzt in 3 ganz gleiche grössere Abschnitte A1 — BGC — FD und in z
+ganz gleiche kleinere Abschnitte EB —— CF zerlegt ist, dass ferner  die continnirliche Proporlionskette  von links aus
+AE: AB : AG: AD, dagegen von rechts aus DF : DC : DB : DA lautet,
+
+Die auf den harmonischen Schnitpunkten A, E, B, C, F, D constreirten Senkrechten verlängern. wir anderseits bis
+unten zur Tafel, so dass die erhaltenen lroportionen für alle nachfolgenden Ton— und Farbenleitern Geltung behalten.
+
+Auf der ersten Soala A kommen lediglich die mittleren Proportionalen der gauzen Linie ADD in Gebrauch,
+also AD ist durch AG in den goldenen Schnitt zerlegt, und was dasselbe sagt, DA durch DB. Wie wir aber gesehen
+baben, folge dann daraus, dass AB wieder mittlere Proportionale von AGC ist, ebenso DC von DB. Demnach sind
+die beiden Gleichungen AB : AC == ACG : AD und DC : DB — DB : DÄA am Platze. — Also das Quadrat über AC ist
+inhaltsgleich dem Rechtecke aus AB und AD oder die Länge AC mit sich selber multiplieitt ist gleich dem Producte
+der Längen A1 und AD.
+
+Stellen wir uns die Linie AD als Ring ohne Ende vor, so fällt Punct A mit Punct 1) zusammen, die beiden
+Endpunkte der Linie AD haben also zusammen wir den Werth wie ein Punct aus der Mitte z. B. B, denn wenn uns
+plötzlich die Endpunkte nicht mehr gefällen sollten, so steht uns frei z. B. AB links abzuschneiden und rechts wieder
+anzusctzen, dann Gllt sicherlich A mit D zusammen und der Punct B muss sich gewissermassen theilen, so dass an jeden
+FEndpunkt der neuen Linie ein Theil vom B käme,
+
+Daraus folgt, dass wir bei Reihe A unserer Tafel nur mit 5 Puncteo zu thun haben und zwar , C und D.
+Der Grund, weshalb wir von A und 1 dem 1> den Vorzug geben müssen, liegt auf der Hand. Der Ausguogspunct A
+bleibt bekannt, wenn wir die 3 Verhältnisse AB : AC : AD in Betrachtung zu ziehen haben.
+
+Repräsentirt Linie AD die Tonleiter, so ist AD eine Öctav AGC eine Quint— und AB eine Terzänge, stellt
+sie dagegen die Farbenleiter vor, so ist AD d AG das rothe Quinten— und AB das gelbe
+Terzverhältniss. Zwei dieser 3 Factoren mit einander gemischt geben die complementüre Farbe zum dritten. Betrachten
+wir AD als die Nälfte einer Suite, von der A das eine Ende ist, so bildet sich in D der Knotenpunct für Octav—
+oberton, in C der für Quint— und in B der für Terz—Oberton.
+
+Da nun die Farbenleiter (wie natürlich auch die Tonkeiter) cine unendliche Anzahl Zwischentöne besitzt, 5o
+leuchtet ein, dass wir auf Punct B nur ein möglichst kleines Plätzchen mit gelher Farbe belegen dürfen, da er
+eigentlich keine Dimension hat als gedachter mathematischer Punct der Naturleiter; ebenso ein kleines Plätzchen Roth
+anf Schnittpunct C und dito Blau auf D. Punct A hat gleiche Rechte wie D, deshalb theilen wir das Blau und
+nehmen die Nälfte auf A. Wollten wir die Töne numeriven, so wäre zu sageo, der erste Ton ist Gelb oder die
+Terze, der zweite Roth oder die Quinte und der dritte Blau oder die Octave.  Von Blau als Prime würde man nur
+reden können bei dem mathematischen Punct auf unendlicher Sealentheilung.
+
+Wir betonen hier 1., 2. und 3. Ton als erste Glieder der Lamé'schen Reihe, du wir bei jeder ferneren Leiter
+die folgenden Lamé'schen Proportionsglieder erhalten werden.
+anz selbstredend können wir das ganze Verfahren auch vom Endpanct D aus beginnen, alsdann haben wir
+als ersten Ton Roth oder die Terze, als zweiten Gelb oder die Quinte und als dritten Blau oder die Octave. Es
+wird. unsere Erklärungen vereinfachen, wenn wir jetzt schon verrathen, dass diese letzte Kichtung die Mollklänge schaft
+
+blaue Oetavvorhältniss
+
+und diejenige von links nach rechts die Durklänge oder Trieoloren, später wird ns der Thatbestand klar werden.
+
+Wie man sich erinnert, haben wir hier die Naturleiter vor uns, wo also Gelb und Roth oder Terze und
+Quinte als mathematische Puncle genän auf die Abschnitte der stetigen Proportion liegen. Deshalb haben wir auch
+ungleiche Abstände und wenn wir 1, 2. und 3. Mlatz als erste Glieder der Lamé'schen Zahlenreibe erkannten, so
+dürlen wir nicht an Proportion 1:2:3 Jenken, da dieselbe wur angebracht wäre bei gleichen Abstinden oder der
+temperitten Stimmung (ganz ubgeseben von der grossen Ungenauigkeit dieser allerersten Proporlionsglieder, deren
+Probe 3 >< 1 = 2 > 2 giebt.)
+

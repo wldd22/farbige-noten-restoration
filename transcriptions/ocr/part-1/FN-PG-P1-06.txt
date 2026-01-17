@@ -1,0 +1,74 @@
+Auf die Erklärung dieses Verhältnisses werden wir später zurückkommen.
+Um die ehromatische Tonleiter von 12 Tönen zu erbalten, müssen diese Verhältnisszahlen für die Instrumente
+mit fixen Tönen (z. B. das Plano) in etwas geändert werden, da ein jeder der t2 Töne als gleichberechtigter Grundton
+mit seiner Terse, Quinte und Oefave im Verhältniss von 1 : 1V/s : 1V2 : 2 der Schwingungszahlen den harmonischen
+Accord bilden können muss,
+
+In ganzen Zahlen stellt sich ein Normal—Verhältniss der chromatischen Tonleiter annähernd wie folgt:
+C Cis D Dis E F Eis G Gis A Ais H C
+Verhältniss: 48 : 5t 1 34 : 37 : 60 : G4 : 68 : 72 + 76 : 8o : 85 : g0 : 96.
+Durch das sogenannte Temperixen, das ist das Vertheilen der 12 Töne in die Spanne einer Octave in mathe—
+matisch gleichmässiger Schwebe, entstanden dagegen für die eingestrichene oder mittlere, nach obigem Erklärungschema
+
+des farbigen Notensystemes also die fünfte Octuve des Pianos heispielsweise, folgende Verhältnisse in wr£äcken einfachen
+Schwingungszahlen:
+
+© eist nd. des' — d' dist od. es' — e' 1r hist od. ges' g* gis' od' ast — a' — ais” od. b h' Fal
+do. do d.orebm. re. red.omibm. mi. . fad.osolbm. sol. sold.olabn. la lad.osibm. si do,
+528 9 559 : 503 : 628 & GGs : joS : 747 : jer f 838 : 888 : 94r : 907 : zo6
+
+Man findet diese Zahlen durch folgende Rechnung: um die Octave von doppelter Schwingungszahl zu erhalten,
+
+muss das Intervall x eines sogenannten halben Tones 12 mal als Factor wiederholt das Schwingungsverhältniss 2 geben.
+
+Es ist also x'#—2 oder x — x ist demnach 1,059463. Hat C 328 Schwingungen, so erhält
+
+Cis. Pomams > 328 Schwingungen macht SS9wmim dos
+D. Eastase >< 528 do, > S92sesssee do,
+Dis. Tamer > 528 do, > G27,omsee do.
+E. Tamem > 508 do, > GGSgsers do.
+F. Disommal , 52 do. — Fodyracss do,
+Fis La < 328 da. — 746rises do.
+G. T'ase: > 328 do. » 791,t0se do,
+Gis. Tomwes > 528 do. > 838 utes do.
+A Dozes > 528 do, 387 es do.
+Ais. Iymee > 328 do. % O4omaste do.
+H, Dasmes > 328 do. — 906remee do,
+C. 1,ummose , 528 do. A 103 Syosez do,
+Dagegen zählt der reine C—dur—Accordi C = 528 Schwingungen
+
+®E —= 660 do.
+
+G — 792 do,
+
+C — 1o56 do. nach bekanntem Verhältniss; T : t'fs:J% : z.
+
+Es haben also für die 5. Octuve bei den Instrumenten mit Gxen Tönen die Terze 5 Schwingungen mehr und
+die Quinte doren 1 weniger bekommen, und soll die Bequemlichkeit, die durch solche Temperstur erreicht wird, für
+die Nachtheile der Verstimmung entschädigen.
+
+Stellen wir die Eigenthümlichkeiten aus der Schalllehre denen aus der Licht— oder Farbentehre gegenüber, so
+fllt uns als Hauptcontrast ins Auge, dass wir beim Schall mehrere Octaven unterscheiden, von denen immer die
+einzelnen 12 Töne der nächst höheren Octave genau die doppelten Schwingungszahlen besitzen,
+
+hrend: wir uns nur
+einer Octave der Farbenscals erfreuen. Jede Farbe freilich hat dafür als Aeruivalent unendlich viele Schattirungen
+zwischen dunkel und hell, man denke nur an ein intensives und gesättigtes Carmin neben dem zarten Rosa, welches
+letztere aus ersterem lediglich durch Zusatz von Weiss entstanden ist. — Doch zeigt das Spectrum diese helleren Schüttirungen
+nicht, — Es ist wobl denkbar, dass das menschliche Auge bei einigermaassen Uebung: von mancher Farbe 7 oder 8 Stufen
+zwischen hell und dunkel, ohne zu fehlen, unterscheiden kann, doch wird das beim hellen Pol der Farbenscala, also bei
+Gelb und dessen Umgebung schwer halten, und waren deshalb für frbige Darstellung der Musik, also für farbige Noten,
+diese Schattirungen von Hell und Dunkel nicht in Vorschlag zu bringen, zuch schon wegen der unüberwindlichen
+Schwierigkeit in der Wiedergabe der Noten durch Lithogräphie. Statt 8 Reihen für die musikalischen 8 Octaven hätte
+man dann mur eine für die rechte und eine für die linke Land bedurft. Bleihen wir aber lieber bei eiw» Intensivität
+
+unserer 12 Farben, und wenn uns 8 Linien für die 8 Octaven zu viel werden, dann nehmen wir eine Linde für jede Hand
+und schreiben die gewünschte Octave in Zahlen unter den Ton, doch wird man stets die 8 Octavereihen vorziehen.
+
+Ein fernerer Contrast zwischen beiden Reichen ist der grosse Unterschied in den Schwingungszahlen. — Sämmtliche
+musicalischen Octaven bewegen sich zwischen 40 und 5000 Schwingungen per Secunde, während die eine Farbenoctave
+zwischen ca. 400 und 800 Aölffoner Schwingungen per Secunde machen soll.
+
+|
+i
+

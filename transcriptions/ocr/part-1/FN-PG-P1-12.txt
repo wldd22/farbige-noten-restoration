@@ -1,0 +1,81 @@
+Unser Tonsystem hat sich nach mannigfaltigen Umgestaltungen erst allmählig entwickelt, während die Gesetze
+des Wohlklangs ewig unwandelbar sind.  Sollten wir also nicht genügend Veranlassung nehmen können, die Erklärung
+der Harmonie der Tönc dem Gefolge des Urgesetzes der Schönheit oder der Vollkommenheit anzureihen?
+
+Es giebt keinerlei wohlgefällige Formen, deren Verhältniss der Umrisse nicht nach den Regeln des Gesetzes des
+sogenannten goldenen Schnitts getheilt wären!
+
+Gewöhnlich unbewusst baut der Mensch seine mannigfaltigen Producte nach diesen Regelo, indem er mit dem
+‚Auge das Maass abwägt. Er ernet für den Fall des Gelingens von seinen Mitmenscheu die Zuerkennung von Geschmack.
+
+Würde er sich bemühen, dies höchst einfache Gesetz kennen zu lernen, würde er dasselbe mit Bewusstsein in
+Anwendung bringen, so wäre die Welt nicht mit so unendlich vielen unschönen Sachen beschwert.
+
+Eine Linie nach dem goldenen Schnitt theileu, heisst, dieselbe dergestalt in zwei Theile zu zerlegen, das
+der kleinere Abschnitt zum grösseren verhält, wie dieser zur gegebenen Länge der ganzen Linie,
+Zeichnend erhält man diese mittlere Proportionale, indem man die Hälfte der gegebenen. Linie rcchtwinklich
+
+sich
+
+auf einen Endpunkt derselben setzt, die Hypothenuse oder Diagonale zieht und aus dem der gegebenen Linie gegenüber
+liegenden Winkel des Dreiccks einen Kreis construirt, dessen Halbmesser die Hälfte der gegebenen Linje ist, — Das Stück
+der Diagonale, welches ausserhalb des Kreises liegt, ist nun die mittlere Proportionale der gegebenen Linie, und wird
+diese durch dieselbe in den goldenen Schnitt zerlegt.
+
+Mit bekannten Zahlen rechnend, adklirt mun das Quadrat der gegebenen Linic zu dem Quadrate: der halben
+gegebenen Linic, zieht aus dieser Summe die Quadratwurzel und subtrahirt vom Facit die halbe Länge der gegebenen
+Linic. Es restirt alsdann die mittlere Proportionale der gegebenen Linic.
+
+Ausser der Ligenschaft aller Proportionsverhältnisse, dass das Product der äusseren Glieder dem der inneren
+gleich ist. (hier also: Das Quadrat des grösseren Abschnitts ist gleich dem Rechteck aus der ganzen Linie mit dem
+kleinen Abschnitt), hat der goldene Schnitt noch die Eigenthümlichkeit, dass sich das Verkältuiss des Schnitts nach beiden
+Richtungen hin verfolgen und fortsetzen lässt; trägt man auf den eren Abschnitt den kleineren ab, so wird ersterer
+wiederum in den goldenen Schnitt zerlegt, ebenso kann man die ganze Linje um den grösseren Abschnitt verlängern,
+und es wird stes dasselbe Verhältniss bewahrt.
+
+Es beruht dies auf dem Umstand, dass bei einer Linie, die auf solche Weise continuirlich getbeilt wurde, immer
+der drittfolgende Abschnitt so grose ist, wie die Summe der beiden vorigen.
+
+Man kann deshalb sehr wohl unsere Zahlenreihe benutzen und erhält folgende Proportionsreihe:
+
+kizigigst8Gi}lat : 34 : 5$ } 89: I44 i 23 : 377 : 610 : 987 : 1597 : 2584 etc.
+je weiter man ein Verhältniss, also 3 nacheinanderfolgende Zahlen, vom Anfange entfernt aus dieser Reihe herausmimmt,
+desto genauer entspricht es dem goldenen Schhitt: Also z. B. 34 ist mittlere Proporlionale von 53, oder 55 ist durch
+34 in den goldenen Schuitt getheilt, dann soll sich 2 : 34. verhalten wi
+
+34 : 53 oder das Quadrat von 34 ist gleich dem
+Rechteck aus 55 und z1. Demnach 34x34=—55>21. Ersteres gibt 1156, letztores 17
+für gewöhnliche Zwecke schon gar nicht in Beiracht.
+
+Stellen wir jetzt den Verhältnissen des goldenen Schnitts unsere Tonleiter, sowohl die diatonische wie die chro—
+matische, gegenüber. Die Octave zählt 7 resp. 12 Töne, der drauffolgende %. resp. 13. ist die Octave des Grundtons,
+also unbedingt dazugehörend. Suchen wir auf die Ausdehnung der Octave eine Proportion aus obiger Zahlenreile zu
+legen, so erbalten wir 3 : 5:8 und resp. 5:8:13 als bestpassendes Facit.
+
+Der 3. resp. 5. Ton ist die Terze, der 5. resp. 8. Ton ist die Quinte und der 8, resp. 13. Ton ist die Octavell
+
+Während Grundton und Oetave die gegebene Accordgrässe begrenzen, zeigt ersterer den Ausgangspunct aller
+Verhältnisslängen, so dass jeder Ton des Dreiklungs als gemessene Grösse ein Glied der Proportion des goldenen Schnitts
+repräsentirt.
+
+3. Diese kleine Differenz kommt
+
+5 : 8 : 13 liegt dem Anfange unsercr Zahlenreihe ziemlich naho, 8 mit sich selbst multiplieirt gibt 64, während
+Gs5 das Produet der Multiplication von 3 mit 13 ist.
+Genauer wäre 4,96
+
+58 : B,034442 : 13, und werden wir später sehen, wie solche Differenzen mit den Platzver—
+hältnissen der Töne in Einklang kommen. Hier genügt uns die Thatsache, dass die Glieder des goldenen Schuitts als
+Maassstab für die Accordverhältnisse dienen können und zwar ganz unabhängig von der Anzabl der der Tonleiter ge—
+gebenen Tünc.
+
+Sollten uns dermaleinst die heutigen 12 Töne unserer Tonleiter nicht mehr genügen, so würden wir sicherlich
+solche von 20 Ténen einrichten müssen und dann wäre der 8. Ton die Terze und der 13. die Quinte und der 21. die Octavc.
+
+Genau so, wie wir bei der Farbenseala gesehen, lassen sich zwischen zwei Grundtüne beliebig viele Zwischen—
+töne schalten, will man jedoch Regelmässigkeit und gegenseiliges Verhältniss, also Gesetzmässigkeit für die ganze Scule,
+s0 ist man gezwungen, für die resp. Intervalle drei nacheinander folgende Glieder obiger Proportionsreihe zu wählen.
+
+Wie das weisse Licht aus den drei Grundfarben zusammengesetzt ist, so ist auch die Musik, d. i. der musica—
+lische Ton aus dem harmonischen Dreiklang hervorgegängen, denn ein Ton ist nur dann ein musicalischer Ton, wenn
+

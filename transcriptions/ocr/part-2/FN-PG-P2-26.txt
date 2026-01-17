@@ -1,0 +1,68 @@
+Die Quintenschwingung, also die 3—Theilung der ganzen Saite häben wir hier auf eine gerade Grundlinic gesetzt,
+doch gehört sie auf den Bogen der Ocfavschwingungen, wodurch sich die Wellenschläge etwas verzerren; dann gehört
+ferner die Terzschwingung, das ist 3—Theilung der halben Saite wieder auf diese etwas geänderte Quintenschwingung
+anstatt auf solcher mit gerader Basis u. < Hier wollen wir hauptsächlich die Entfaltung der symmetrischen
+5—Theilung aus der symmetrischen 3—Theilung vorführen und behalten gerade Grundlinien bei, um den Verfolg zu
+
+erleichtern.
+Die Secundenschwingung erkennen wir also an als zwei verschiedene g—theilige Schwingungen auf den
+
+Quintenspannen und können alsdann die Theorie weiter verfolgen.
+
+Eine Welle der Quintenschwingung giebt stets zwei Wellen, eine für Terze, eine für Secunde, und durch die
+3—Theilung solcher Quntenspanne werden 2 Secunden und ein chromatisches Intervall erzeugt:
+
+Bei dieser Leiter tritt uns zuerst ein Unterschied zwischen Dur— und Mail—Scala in die Augen; das O in Dur
+wird N in Moll, genau wie wir bei der Tonleiter—Entwicklung gesehen haben, Man erinnere sich, dass, wenn wir von
+Obertönen, also den aliquoten Tönen, verhandeln, wir nur die Naturleiter mit unendlicher Eintheilung vor uns haben und
+ja nicht an die Kunstleiter mit breiten Tonfeldern denken dürfen. Hier ist also stets Durterze gleich Mollquintc, und
+wumgekehrt Durginte gleich Mollterze,  Während wir bei allen Kunstleitern, einerlei ob 8 13, 21 34— etc. theilig, stets
+zwischen Anfang und Terze eine Toneinheit weniger haben, als zwischen Quiote und Ende der Scals, welche LEr—
+scheinung eben die Wiederholung des Octavtones als niedere Prime in einem Octavverhältniss für Kunstleitern bedingt,
+bemerken wir hier auf der Naturleiter, dass die Lücke durch das chromatische Cis ausgefüllt ist, mit gleicher Länge
+wie das schon bekannte Intervall VG,
+
+Wollen wir nun noch eine fernere Spanne der 3—Theilung unterzichen, um zu beweisen, dass diese . einfache
+Manipulation ad infaitum geht, und zwar stets allen Anforderungen eines rationellen Systems des Oscilation entsprechend,
+so erhalten wir folgende Reihe:
+
+C n n n n n n n n n n F n )
+äindig symmetriscbe Scalal Dur und Moll sind wieder ganz gleich, und besitzen wir hier
+
+Das ist eine volls
+unsere ganze chromatische Leiter, mit Ausnabme des Pen. An Stelle des Pen steht Jn und an dem Platze des Jn das
+Jb! Die Naturleiter will also schon bei der 13—Theilung die 7. diatonische Stufe zur I1. chromatischen Einheit
+haben! Dann würe wnser ominése Dreiklang auf 7. Stufe unser jetziges b d'f, der Füntklang b d f as c, also genau
+wie der Fünfklang von Blu—moll. DDie schwarze B—Taste des Pianos wäre fortgefallen, dafür wäre eine für Jb zwischen
+Ti und C gekommen.
+
+Wir lassen es dahin gestellt, ob man bei Eintichtung der chromatischen Tonleiter solchen Fehler beging oder
+nicht, jedenfalls hatte man nach verschiedenen Richtungen hin abzuwägen und entschied sich für eine Wahl, die den
+Dreiklang auf 7. Stufe statt harmonisch, dissonirend machte. Als dissonirenden Accord haben wir ibn freilich als
+lückenhaften Fünfklang der 5. Stufs, so dass wir eigentlich um einen harmonischen Dreiklang zu kurz kommen.
+
+Das Bs in Reibe 6 erklärt sich wie das S in Reihe 3. Es tritt also bei angewendeter Kunstleiter Bs fort und
+macht dem Tonfeld B als Prime Platz.
+
+Jedenfalls begnügt sich die Natur auch mit dieser letzten Reihe Obertöne noch nicht, es geht bis in die Un—
+endlichkeit fort, und hängt die Reichhaltigkeit lediglich vom Material ab; eine Substanz ist mehr elastisch und empfindlich
+als die andere, muss demnach auch weitere Folgen von Oberton—Intervallen bringen und eignet sich besser für musi—
+calische. Instrumente,
+
+Bisher scheint man angenommen zu haben, dass verschiedenes Material verschiedene Arten Zusammensetzungen
+von Obertönen erzeuge, wenigstens erklärte man so die Klangfarbe der Töne, d. i. den specifischen Charakter derselben,
+aus dem man erkennt, ob Darmsaite, Stahlsaite, ob Flöte oder Horn, ob Harmonica oder Glocke den Ton erzeugte.
+
+Solcher Annahme müssen wir entschieden widersprechen. Verräth jrgend eine etwas gespäunte Materie zu
+allererst musicalischen Charakter im Ton, so wird sich gewisslich ausser Octave— mur Terz— und Quintoberton geltend
+machen, der Ton will uns noch nicht so recht gefallen, r schwirrt noch und erinnert an Geräusch. Er steht ja auch
+an der Grenze vom Geräusch zum Ton und nimmt in diesem Zustande vom C—Octavverhältniss Besitz, also mil 33
+Schwingungen per Secunde. Deshalb musste die Farbe Ilau als Endpunet der Spectrumscala erkannt werden, und war
+Blan fr den Ton C zu nehmen, weil die Natur auf beiden Gebieten gleichartig zu Werke geht und eine Analogie
+durchaus natürlich ist. 8ei den Furben besitzen wir das blaue Octavverhältniss mit den beiden übrigen Grundfarben
+als feste Factoren der Grund—Tricolore, bei den Tönen ist uns das Bewusstsein des harmonischen Grund—Dreiklangs als
+Ausgangspunct nur nicht klar in Vorstellung, die erkünstelle Temperatur und die Tonbenennungen für eine bestimmte
+Höhe konnten solchen Eindruck verwischen. In Wahrheit existirt aber das harmonische Ur—Verhältniss bier wie dort.
+Bei Erfindung von Instrumenten mit verstellbaren Tonarten würde man sicherlich die Einrichtung der Oetavverhältnisse
+in C wählen.
+

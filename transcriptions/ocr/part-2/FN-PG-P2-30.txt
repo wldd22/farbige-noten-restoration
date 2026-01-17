@@ -1,0 +1,79 @@
+Ks ist klar, dass dieser bekannte einfache Apparat das Grundprineip des Edison'schen Phonographen enthält,
+
+Wenn num nach alterTheorie jeder Zacke eine Grundschwingung der ganzen Saite zuertheilt wurde, so
+behalten wir dieselbe Zackenanzahl für die Octavhälfte bei, und wird die Schwingungszahl des Tones dadurch nicht
+verändert, da die Octave nach unserer Theoric alleiniglich für deu angeschlagenen Ton massgebend ist. Das C von
+
+33 Doppelschwingungen bestimmt also das Octavverhältniss von 16V bis 33 Doppelschwingungen. Würde eine Schwingung
+der ganzen Saitenlänge existiren, so müsste die Nadel doch wohl auch die Octaveschwingung in halber Stärke einmal
+oben an der Hauptzucke und einmal unten an derselben markiven, ganz abgesehen von den Quint— und Terzen
+schwingungen, die nur kleinere Abweichungen vom regelmässigen Zickzack verürsachen können.  Vielleicht ist unserc
+Annahme, dass die ganze Saitenlinge. normal angeschlagen, keine |lauptschwingung macht, sondern sich sofort in 2
+
+Hälften theilt, die umwechseind nach oben und unten ausschlagen, später oder früher durch experimentale Versuche
+
+zu bestätigen.  Vielleicht aber erkennt man much einmal, dass die ersten so zu sagen, rohesten Ausfälle der Saite, die
+durch den Anstoss oder
+
+Eine andere Auffwsung der Saitenschwingung zeigt Figur 2 auf Tafel 1. Hier ist die Hälfte der Saite in 2,
+
+Schlag verursucht werden, nicht immer zu den tongebenden Schwingungen gehören,
+
+3, 5 und 8 geicke Abschuitte zerlegt, eine Hauptschwingung der ganzen Saite ist ebenfalls vermieden, Wenn uns
+r Bezichung, jedenfalls über abgesehen von richtiger Wellenläuge, das Wesen
+der Oscillationen zur Darstellung beingen hilft, ein regelrechtes, alle in Frage kommenden Schwierigkeiten lösendes
+System dieser Lehre finden wir nicht darin. In den Theilschnitten erkennen wir die Lamé'schen Zahlen, und können
+sein, dass die Natur sich derselben als ungenaue Proportionen nicht bedienen, sondern unter allen Umständen
+
+diese Zeichnung aun auch in gewis
+
+siche
+nur das exacic Verhältniss der stetigen Proportion verwenden wird, welches wir für das Wellenspiel . der Saiten—
+schwingungen oben wohl genügend entwickelt haben
+
+Immerhin müssen wir den lauptunterschied zwischen neuer und bisheriger Oselllationstheorie_ nochmals vor
+dniss des geehrten Lesers rechnen wollen. Dazu wählen wir eine Saite von
+
+Augen Eibren, wenn wir auf volles Verstä
+bestimmter Länge, z. B. 178 cm, welche angeschlagen ein C ertönen lassen soll. Unlerstützen wir diese Saite genau
+in der Mitte, also bei 89 cm, so ertönt als Hälfte sicherlich das nächst höhere C. assen wir 110 cin Länge (nach
+alter ”Theorie 106%8 cm) vibriven, so hören wir das A. 123 cm (Früher 118”% cm) geben die Quinte G, 144 cm (früher
+142%%s cm) gewähren die Terze . und endlich 157 cm (früher 158% cm) die Sekunde D. Nach bisheriger Lehre
+wurde also die Saitenlänge in die Abschnitte 1, %, , %s, %, Yo zerlegt. und wir behaupten, anf einer Saitenhälfte
+bilden sich die Abschnitte unscrer fünfgetheilten symmetsischen Linic, also in Lamé'schen Zahlen 21, 34, 55, 65, 89,
+und muss man die zweite Saitenhälfte zu jeder Abschnittslänge mitschwingen lassen, um vorstehende Töne zu erhalten,
+
+wodurch obige Saitenlangen #9, 110, 123, E44 157, 178 cm entstehen.
+Durch diese Bestimmung werden sowohl nach alter Theorie wie nach der unserigen die Knotenpuükte der
+Obertöne festgelegt, d. h. jede nach irer Rechnung. Erstere blieb nun aber für die Erklärung der Oberton—Suiten
+
+schwingungen bei solchem PFacit stehen und kümmerte sich nicht um die Keste der Saitenlänge, nämlich '/o, %%, 4s,
+Wir dagegen behaupten, die ObertonSuitenschwingungen finden lediglich in den Restlängen 21, 34 33.
+68 cm statt und haben wir im Vorstehenden auch stets sowahl bei Ton— und Farbenleiter—Entwicklung wie auch bei
+
+vibrirender Saite wur solche symmetrische Linie im Auge gehabt.
+
+Will man auf gespannter C—Leiter von 178 cm Länge plötzlich ein 1) ertönen lussen, so muss man die Saite
+um 21 cm kürzen, also durch einen Steg fost unterstützen, und darf der Rest der Saite dann nicht mittänen.  Solches
+1) hat nun sicher sein eignes Octavverhältniss mit specifischer Quinte, Terze, Secunde etc. und hal es selbst mit allen
+seinen Oberton—Factoren gewisslich nichts gemein mit der Oberton—Secunde des ursprünglichen C's.
+
+Schon der eine Umstund, dass nach der Octave der Quintoberton, dann der der Terze, darauf der der Secunde
+am vornehmasten mit dem musicalischen Tone mittönen, stempelt diese unsere Auffassung zu der richtigeren, denn nach
+alter Theorie müsste ja gerade die Secunde nach dem Grundton am stärksten mittönen, da sie unter den diatonischen
+Obertönen die längste Schwingungsspanne hält ! ”
+
+Terze und Quinte, Secunde und Sexte, dann die chromatische Cis—Einheit und die Septime füllen als Obertöne
+jedesmal die Spanne der Saiterhälfte aus und bildet sich jeder Oberton von jedem Endpunkte der Saiten und Saiten—
+hälfte, wie wir im vorigen Capitel erläuterten,
+
+Wird es uns aber möglich sein, unsere Urklärung der beiden Geschlechter Dur und Moll vollständig mit: obiger
+Auffassung der Obertöne in Einklang zu bringen? Wir denken, ja. — Die Naturleiter giebt vom linken Endpunkt der
+Saite an die Durtüpe cis mit 13, d mit 2t, e mit 34. g mit 55 und c mit 89 cm Saitenlänge, dagegen die Molltüne
+
+auf der zweiten Hälfte derselben Saite c mit 89, h mit 70. a mit 68, g mit 55 und e mit 34 om Tänge. — Das c mit
+89 cm Länge ist also jedesmal die Mitte der Saite und wären die Centimeter auf jeder Hälfte von links nach rechts in der
+Richtung unserer Schreibweise abzumessen, also einmal vom linken ländpunkt, das andere mal von der Mitte der Saite,
+weil bei schwingender Saite, wie wir geschen haben, alle solche Abschnitte schon symmetrisch auf jeder Hälfte zu
+finden sind, und wir ja auch jede Tonleiter ums als zur Deckung gebrachte 2 Saitenhälfte vorstellen müssen.
+

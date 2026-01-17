@@ -1,0 +1,71 @@
+Aus dem Fünfklang mit Auslassung eines Gliedes (gewöhnlich der None) entsteht der Vierklang, genau wie der
+Zweiklang aus dem Dreiklang entsteht, wenn von diesem ein Glied ausgelassen wird. Wirft mau vom Zweiklang noch
+das weniger wichtige Glied fort, so bleibt der Einklang als Repräsentant der einfachen Melodie.
+
+Jedes Octavverhältniss enthält also lediglich 1 Dur— und 1 Moll—Dreiklaug und 1 Dur— und : Moll—Fünfklang,
+alle anderen Klänge ausser den unharmonischen Accorden, die wir gleich kennzeichnen werden, entstehen durch ‚Aus—
+lassungen einzelner Glieder.
+
+Mit diesem wenigen Material behanpten wir, die ganze Fülle, den ganzen Reichthum unserer Iarmoniever—
+bindungen zu besorgen, und berukt hierin die ungeahnte Vereinfachung unserer naturgemässen Harmoniclehre gegenüber
+der bisherigen.
+
+Unsere Erkenntnisse beweisen, dass der Wohlklang des Accorda auf dem Abstand der Glieder im Verhältniss
+des goldenen Schnitts begründet ist; auf der chromatischen Scala wären diese Abstände vom Anfang der Scalu, von
+0—35 die Spanne für die ”Terz, von 0— 8 die Spanne für die Quinte und von 013 die Spanne für die Octave. Ist
+die Prime zur Verstärkung mit ungeschlagen, so liegen anf unserer Leiter zwischen derselben und der Terze 3 Zwischen—
+töne, zwischen Terze und Quinte 2 und zwischen Quinte und Öctave 4.
+
+Solche Accorde aber, die göchmässig zwischen ihren Factoren 2, 3 oder 4 Töne als Lücken hallen, nenat
+man unharmonische, als Gegensatz zum harmonischen Dreiklang. Dieselben werden trotzdem in der Musik gebraucht
+und dienen zu enharmonischen Zwecken. / Ihre Factoren dürfen ziemafs als Terze, Quinte etc. aufgefasst und benannt werden.
+
+Um eine Total—Uebersicht aller denkbaren Accorde unserer chromatischen Leiter zu geben, machen wir folgende
+Aufstellung: die 12 Töne der Leiter geben 12 Dur— und 12 Moll—Dreiklänge, zusammen also 24, haben dagegen nur
+12 Fünfklänge, weil der Füntklang stets aus t Dur— und 1 Moll—Dreiklang zusammengesetzt also beiden Tonarten
+zugehürig ist. (Die 24 Dreiklänge repräsentiren die Tonarten beider Geschlechter der 12 Octavverhältnisse.) Dazu
+können dann nur noch 3 verschiedene Sorten unharmonischer Klänge kommen, die wir je nach der Anzahl der Zwischen.
+töne 4—, 3— und z—lickig benennen wollen. Von der ersteren Sorte sind auf der Leiter 12 Accorde denkbar, von denen
+jeder 2 verschiedenen Tonarten angehören kann, die 3—lückigen Accorde sind viermal vertreten, jeder gehört zu 6 Ton—
+arten und ist in 5 verschiedenen Weisen vom Emnharmoniker zu verwenden, schliesslich giebt es von den 2—lückigen
+Accorden nur 3 verschiedene, von denen jeder zu 8 Tonarten zählt und 7 enharmonische Fortschreitungen crlaubt.
+
+Figur 19 auf Tafel 4 zeigt uns alle Accorde und Klänge für das C—Octavverhältniss und
+Umstellungen derselben in enger Lage dazu.
+
+Je nach dem Geschmacké des Künstlers kann also für den Accord die enge und die weite Lage gewählt werden,
+und es stebt ihm (ei, die Accorde je nach Bedarf der Melodie und der Bequemlichkeit des Fingersatzes ad libitum
+zu umstellen.
+
+igur 20 liefert einige
+
+Von den in der Musik üblichen Ton—Namen: Prime, Secunde, Terze, Quart, Quint, Sexte, Septime, Octavc,
+None, Decime etc, welche die diatonischen Stufen numerien, gebrauchen wir vorzugsweise nur Prime, Terze, Quinte,
+Octave und None. Will man bei einem Fünfklang das Glied zwischen Quinte und None bezeichnen, so kann man nur
+von der Tetze des combinirten Dreiklangs roden und ist die None die Prime dazu. Nach bisheriger Benennung war
+diese Terze die kleine Soptime der Grundleiter. Da Moll stets abwärts und Dur aufwärts zählt, so liegt die None
+eines tonischen Mollaccords am tiefsten und ist Prime des combinirten Dur—Accords.
+
+Während wir beim Dreiklang richtiger die Prine anstatt der Octave auslassen, fälls uicht beide zusammen
+gegeben werden sollen, ist bei den unreinen Tonverhältnissen unserer chromatischen Leiter für den Fünfklang vorzu—
+schlagen, Prime, Terz, Quinte, kleine Septime und None zu nehmen, da hier besser Abstand gehalten wird als bei der
+Reihenfolge: Secunde, Terze, Quinte, kleine Septime, Octave, was die engste Lage des Fünlklangs wärc. Die neue
+Theorie combinirt zum tonischen Blu—Duraccord, Ver—Mollaccord und vice versa. — Verrmoll war bisher g—moll und heisst
+der Nonenaccord (Fünfklang) der chromatischen C—Bluw Durleiter: c, e, g, b, d nach Muster des für den tonischen
+C—Durdreiklang so wichtigen Dominantnonenaccords, welcher auf 5. Stufe der C—Leiter g, h, d‚ [, a giebt. Transponir
+man solche Verhältnisse für F—dur als tonischen Accord, so crhält man für dessen 5. Stufe als Dominantnonennccord
+&, €, g, b, d. Trotzdem konnte man sich bisher immer noch nicht ganz trennen von einem Füniklang 0, &, g, , 4,
+welcher augenscheinlich der diatonischen Leiter angehört, mit welcher wir seit Einführung der chromatischen. nichts mehr
+zu thun haben, wenn wir auch manche diatonische Verhältuisse auf die chromatische Leiter übertragen mussten.
+
+Der Zweck des Fünfklangs ist, von einer Tonart zu nicht verwandten Tonarten zu gelangen, im Gegensatz zu
+leitereigenen Accorden, die stets innerhalb der Verwandtschaft fortschreiten. — Durch deu lFünfklang wird die ausweichende
+Modulation beschafft, während verwandte oder leitereigene Accorde directe Fortschreitungen gestälten. Also kann cin
+Füntklung nicht aus leitereigenen Accorden zusammengesetzt sein, gehört also nicht den diatonischen Verhältnissen an,
+sondern Jediglich den chromatischen.
+
+Die Erkennung der Tonart ist nach neuer Theorie trotz der denkbaren Umstellungen besonders leicht, da man
+die Zwischentöne, die den Abstand der Glieder des Accords ausfüllen, abzählen kann.
+
+Rechnet man für den Dreiklang
+

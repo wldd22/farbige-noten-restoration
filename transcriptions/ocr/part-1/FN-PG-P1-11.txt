@@ -1,0 +1,79 @@
+Schwingungszahlen in den kleinsten ganzen Zahlen, wie aus dem bekannten bestimmten Verhältniss der diatonischen
+oder phrygischen Tonleiter:
+C D E F G A H G
+Wo nn n s n e
+ersichtlich hervorgeht.
+Die Tonleiter, die jedes Naturkind so zu sagen ohne Schulung aus sich selbst herans findet, berukt also lediglich
+
+auf den Multipla des Schwingungezablenverhältnisses des Grundtosies!
+
+Von vorstehenden Platzverhältnissen waren aus dem Vorhergebenden D und H noch unbekannt geblicben,
+D kommt auf Platz 27, weil C auf 24 steht, denn C:D——8:9. Ebenso MiC—=43:24— 15:8.
+
+Die folgende Oetave von Platz 48 bis 96 erlaubt ferner auch die übrigen 3 Töne der chromatischen Tonleiter
+sigem Abstand in die betreffenden Intervalle zu schieben. Wir erhalten in unserer Figur
+
+auf Platze 48 51 54 57 6o 64 68 72 76 8o S5 go 96
+
+C Cis D Dis B F is G Gis A Ais H C.
+Di H (4:5) und Quinte von Gis (2:3).
+Fis ist Quinte von H (2:3) und Quart von Cis (314)—
+Ais ist Quart von F (3:4) und Quinte von Dis (2:3).
+
+Cis ist Quart von Gis (3:4) und Quinte von Fis (2:3).
+
+Gis ist Quinte von Cis (2:3) und Quart von Die (3:4).
+
+Wie wir jedoch schon gesehen haben, hat man, um dieselben Töne einer Tonleiter der Instrumente mit fxen
+Tonen für alle Tonarten gebrauchen zu können, die Schwingungszahlen derselben auf mathematischem Wege in gleich—
+mässigere Schwebe gebracht (temperiren), wodurch das reine Verhältniss der einfachen Zahlen mehroder weniger verloren ging:
+
+Es sci hier bemerkt, dass nuch Vorstehendem eigentlich der Ton Fals Grundton der Musik angeschen werden
+müsste, da die Multpla der Schwingungszahlen von F alle übrigen Tüne unserer Touleiter treffen.
+
+Der Grundton F von 44 Doppelschwingungen mit seinen Multipla oder Octaven 88, 176, 332, 704 etc. erhielt
+demmach für die 3. Octave des Pianos genau wie in der jetzigen Rechnung 704 Schwingungen (lemperist 7o5), folglich
+würde die ganze Tonleiter in nichts geändert.
+
+Bekanntlich entstammt die Höhe unserer Täne dem factischen Nachzählen der Schwingungszuhlen während einer
+Secunde, Man versichte möglichst tiefe Geräusche und Tünc zu erzeugen, nahm den tielsten Ton, der nmusikalischen
+Charakter vercieth, und zählte die Schwingungeo.  Man fund 33 derselben und nannte diesen Ton C. Die Multipla 66,
+132, 264, 528 ote. geben also der mittleren oder 3. Octave ein C von 528 Schwingungen.
+
+So wird denn C als Grundton betrachtet. — Später versuchten Sauveur und Chladni ein C von gt2 Schwingungen
+einzuführen, weil 512 als Multipla auf © zurückzuführen ist: 1, 2, 4, & 16, 32, 64, 128, 256, 512 eto., doch fand solcher
+
+mit gesetzmi
+
+ist Terze — von
+
+Vorschlag keinen Anklang.
+
+Das jetzt also allgemein gebrauchte C von 528 giebt nach dem Verhältniss 315 ein A. von 880 Schwingungen,
+welches jedoch durch die Temperatur auf 888 erhöht wird. — Eine A—Stimmgabel von 444 Schwingungen, wie sie neuer—
+dings unser Deutscher Kaiser der Militairmusik anbefohlen hat, giebt nach heutiger Tnrichtung der Orchester und der
+Instrumente mit fixen Tonen stets ein C von 528 Schwingungen, demnach auch ein F von 705 (anstatt 704) Schwingungen.
+
+Wir sind jetzt an die temperirte Tonleiter, also an Jeicht verstimmte Musik vollständig gewöhnt, wozu die
+allgemeine Verbreitung des Planos viel beigeträgen bat.
+
+Die Erklärung des Wohlklangs zweier Tüne wird auf das regelmässige' Zusammenfallen der Schwingungen
+derselben zurückgeführt; je mehr niedrige Theiltöne zusammenfallen, desto reiner und schärfer begrenzt ist die Consonunz.
+Die Oetave macht so oft zwei Schwingungen, wie der Grundton eine, bei der Quinte kommen drei auf zwei Schwingungen
+des Grundtons, also die erste, dritte, fünfte, siebente etc. Schwingung des Grundtones Gillt resp. mit der ersten, vietten,
+siebenten, zehnten etc. Schwingung der Quinte zusammen. Solche Regelmässigkeit soll dem Ohre gefallen, während
+demnach Vibrationen zweier Töne ohne regelmässiges Zusammenfallen der Schwingungen die unangenehmen Empfindungen
+der Dissonancen hervorbringen müssten. Weiter oben sahen wir bereits, dass C und D nicht mehr consoniten, weil
+das Verhältniss 8 :9, wo also regelmässig auf der 9. Schwingung des C ein Zusammenfallen der Schwingungen stattfndet,
+nicht mehr einfach genug ist. Dasselbe müsste dann aber bei den Dreiklängen der Fall sein, doch zeigt eine leichte
+Rechnung, dass das Verhältniss des Grundtones, der Terze, der Quinte und der Octave (1:1Ve: 1421 2) erst bei der
+60. Schwingung des Grundtons den Standpunct des gleichzeitigen Beginnens der Schwingungen zulässt! Zicht man
+hierze. das verstimmende Temperiren der Töne, so tritt solcher Fal des Zusammentreffens der Schwingungen aller Töne
+wie mehr ein;
+
+Demnach müsste es wohl dem Ohre genügen, das einfache Verhältniss von je zwei Tünen nach einander nnter
+
+genannten 4 Tönen zu verfolgen und zu vergleichen, um uns den Eindruck der Harmonie zum Bewusstsein zu Lringen,
+
+oder — der Grund der Harmonie des Dreiklangs ist anderswo zu suchen.
+

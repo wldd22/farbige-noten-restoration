@@ -1,0 +1,66 @@
+Solange nicht Instrumente erfunden werden, die, auf ein Octaveverhältniss basivend, die verschiedenen Ton—
+arten durch Verlängerung und Verkürzung der Saiten erzeugen, bleibt als einziger Ausweg, um wieder reinere Töne
+zu erhalten, weil wir dann die Temperatur ihrer Vortheile wegen festhalten müssen — cine temperitte Tonleiter mit
+
+mehr als 12 Tönen einzuführen.
+
+Um nicht vorzugreifen, verschieben wir die Entwicklung solcher bereicherten Tonleiter auf später und botrachten
+uns vorerst noch recht genau die jetzt dominivende chromatische Leiter. Nur bei dieser bekannten Leiter ist es thun—
+lich, die neue Theorie zu erklären und zu beweisen, und nehmen wir dazu zum Vergleichen bald den Hinweis auf die
+Bstußige diatonische, bald auf die zttheilige Zukunftsleiter,
+
+Wir zeigten im ersten Theile des Werkes, wie nach alter Lehre die Entstehung der Tonleiter erklärt werden
+könnte durch blosses Vervielfachen der Schwingungszahlen. — Nahmen wir auf den ersten Platz ein F mit x Schwingungen,
+so erhielten wir auf Platz 24 ein C mit 24x Schwingungen, dann auf Platz 27 das D mit 27x Schwingungen u. s. f.
+Plate 30 für E, Platz 32 für F, Platz 36 für G, Platz 40 für A, Platz 43 für H und Platz 48 für C, also genau die
+Schwingungszahlenverhältnisse der alten Theoric:
+vs V s a t We i Me i is f Mf i 2. — Es sind die
+Multipla der ersten ganzen Zahlen 2, 3 und 5, die
+hier die Rolle spielen, während alle Primzahlen
+von 7 inclusive an kein Vieläches liefer, welches
+die Plätze für Töne nach dieser Rechnungsweise
+belegen würde.  Das war neu und interessant zu
+Gunsten der alten Theorie, doch können wir Iedig—
+lich die Unzulänglichkeit letzterer daraus folgern,
+da die Zahlen trotz ihrer Einfachheit keinerlei
+Bezug auf die wirklichen Tonplutzverhältnisse von
+1 bis 13 verrathen. Dagegen erkonnen wir die
+Grundfäctoren 2, 3, 5 als Glieder der Lameé'schen
+Zahlenreibe, und fallen auch auf eben diese Ton—
+plätze solcher Reihen die Tüne des harmonischen
+
+Dreiklangs.
+
+Ferner reprodueirten wir damals die be—
+kannte Berechnung des Intervalls x der chroma—
+tischen Leiter, also x — 47 und erhielten die
+Schwingungszahlen der temperirten Scala, also regel—
+mässig — progressivweise fortschreitend, in mathe—
+
+matischer Schwebe.
+Da wir zu den Beweisen für die Richtigkeit
+der neuen Theorie uns auch von solchem Temperstur—
+Verhältniss ein klares Bild verschaffen müssen, so
+versagen wir uns nicht, unsern Lesern durch eine
+geometrische — Construction _ solchen = Vorgang — vor
+
+Augeo zu führen.
+
+We Die grade Linie BC (Schuc genannt) neben—
+
+stehender Fig. 1 hat eine gegebene Länge von 143,
+
+der Bogen BC ist in 13 egale Abschnitte getheilt, und hat jeder dieser Schnittpuncte seinen Strahl (Halbmesser) zum
+Centrum A.
+
+Es soll nun die Bedingung gestellt sein, dass Senkrechte vom 5. und 8. Schnittpunct des Bogens B58C auf
+die Schne BC, diese von beiden Seiten in den goldenen Schnitt theilen, also von rechts nach links in Punct Sg, von
+links nach rechts in Punct S8.
+
+Daraus folgt: BS* : BS* = BS° : BC
+oder auch: CS° : CS® —| CS® : CB
+und ist B5° = CSA
+Da wir die ganze Länge der Sehne r43 annehmen, so haben wir auch gleich die betreffenden Zahlen zur Hand :
+BS® oder CS° — S40mimes und
+SS° == gögmenn.
+

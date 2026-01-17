@@ -1,0 +1,71 @@
+Wie oben schon erwähnt wurde, liegen bei einem Durzccord zwischen dem Grundton und der Terze 3, zwischen
+Terze und Quinte 2 und zwischen Quinte und der Octave 4 Zwischentöne. Vom Grundton ausgehend, repräsentiren.
+also die Zahlen der die Intervalle des Dreiklangs ausfüllenden Töne die Reihenfolge 3, 2 und 4, während dieselbe bei
+einem Mollaccord 2, 3 und 4 ist. Diese Eigenthümlichkeit bietct ein leichtes KErkennungszeichen der Tonart. Es ist
+dabei durchaus nicht nothwendig, dass der Grundton des Accords die erste oder leitende Note wäre; 3, 2, 4 und 2, 4 3 und 4, 3, 2
+für Dur, dagegen 2, 3, 4 und 3, 4, 2 und 4, 2, 3 für Moll lassen den Grundton stets leicht finden, da bei beiden
+Tonarten die 4 Zwischentöne als letztes der 3 Intervallen, also vor der Öctave des Grundtons liegen.
+
+Beim farbigen Notensystem, welches mehr als bisher mit 12 ganz bestinmten und gleichberechtigten Oetav—
+einheiten rechnet und wo zu der geklärten Gesetzmässigkeit der Notenverhältnisse noch ein gleicher Factor in der sich
+dem Auge klar präsentirenden Gesetzmässigkeit der Priemascala hinzukommt, da lässt dieses Erkennungszeichen auch
+den jüngsten Schüler ferner nicht mehr in Zweifel, in welcher Tonart er irgend einen Accord spielt,  Aber es verräth
+sich die Tonart jedweden Musikstückes auch durch den Charakter der Farbenzusammenstellungen der Melodie, und setzen
+die harmonischen Tricoloren lediglich den Stempel auf das der Tonart eigenthüliche Gepräge.
+
+Vergegenwärtigt man sich, dass das farbige Notensystem durch die Gesetzmässigkeit des Liniengerippes mit den
+Farbenausfüllungen nach Worth und Dauer der Töne auch den exacten stchöarer Rhythmus producirt, so wird man
+zugeben, dass alle diese Factoren aus den Noten eines jeden Musikstückes ein für sich dastehendes und charakteristisches
+Werk schaffen, dem man den inncron Werth abechen kann! ”
+
+Werten wir nun cinen Blick auf das Wesen der Harmonie der Töne im Vergleiche mit den Farben.
+
+1s gilt als Thatsache, dass 2 Tüne um so harmonischer zus&ämmenklingen, je einfacher das Verhältniss ihrer
+Schwingungszahlen jst. Zum Grundton stebt die Octave im Verhältniss 1:2, die Quinte 2:3, die Quarte 3:4, die
+grosse Tetze 41:5, die kleine Terze 5:6 etc. Ks giebt also die Octave mit Grundton den reinsten Klang, die beste
+Consonanz, dann folgt die Quinte, dann die Quarte u. s. w. / Je grösser das Verhältniss wird, desto weniger harmoniren
+die beiden Tüne,
+
+Wie wir schon gesehen haben, hat jeder Ton der reinen diatonischen Tonleiter sein bestimmtes Verhältniss zum
+
+Grundtom, nämlich: © |) E |P |G |A H C
+aos Byn i Sle t Mo t ie s Sfo s M9f iohn
+
+D und H disharmoniren mit dem Grundton C, es ist also das Verhältniss 8:9 oder 8:153 nicht mehr einfach
+und klein genügend, um zu consoniren,
+
+Dies Gebundensein an den kleinsten ganzen Zablen im Schwingungszatlenverhältnisse tritt uns vor Allem bei
+dem harmemischen Dreiklang in die Augen, da derselbe die ersten Glieder unseter Zahlenreibe beansprucht.
+
+In PFig. 20 der Tafel IIL ist in der 1. Reihe A ein C gezeichnet auf den 1. Platz; nohmen wir an, sein
+Schwingungszablenverhältniss sei 1, dem Platze entsprechend, so muss z2 die Octave, also wiederum ein C geben, welches
+in unserer Figur deshalb den 2. Platz in erhöhter Octavreihe erhält. Das Dreifsche des ersten Verhältnisses muss
+die Quinte (2:3), also G sein, erhält also den 3. Plutz in 2. Octavlinic. Das Vierfache glebt wieder C, also
+4. Stelle in 3. Octave,  Der 5. Platz erhält E, die grosse Terze im Verhältnis 4:5. Der 6. Platz ist die höhere Octave
+vom 3. Platz, also G.
+
+Dis hierher erhielten wir 3 C, 2 & und T E und erkannten sowobl die Verhältnissahlen 1:2, 2:3 und 4:5,
+als auch das harmonische Dreiklangverhältniss 1 : 1V4 : 1%2 : 2.
+
+Bei weiterem Verfolg dieser Manipulation erhalten wir noch in der 9. Stelle das D und in der 15. das H.
+Wir würden aber, von C ausgehend, niemals F und A treffen, weil die Multipla von C, also 2, 4, 8, 16, 32 etc., nicht
+durch 3 dividirbar sind, C aber zu F steht, wie 3:4, ebenso C:A=3:5,
+
+Um auf diese Weise alle Töne der Tonleiter zu erhalten, geben wir auf Reihe B unserer Figur 20 dem ersten
+C der Reihe A ar ein Drittheil des Platzes und setzen es auf Stelle 3. Alsdann tritt F sofort auf Platz 4, da
+C:F——3:4, ebenso A auf Platz 5. Hat 4 aber ein F, so muss auch der 2. Platz als niedere Öetave F haben, ebenso
+und aus demselben Grunde erhält der erste Platz ein F.
+
+Platz 6 verlangt C als Öctave von 3. Platz 7 bleibt frei. Platz 8 hat F als Octave von 4. Platz 9 erhält G,
+da Platz 6 C hat {2:3) Platz 10 hat A als Octave von 3. Platz zt bleibt frei. Platz 12 hat C als Octave von 6.
+Platz 13 und 14 sind fref. Platz 15 erhält E, da 12 ein C hat (415). Platz 16 hat F, als Octave von 8. Platz 17
+bleibt frei. — Platz 18 hat G, als Octave von 9. Platz 19 bleibt frei, Platz 20 hat A, als hühere Octave von 10. Frei
+bleiben die Plätze der Primzahlen 7, 11, 13, 17, 19 etc. und deren Multipk,
+
+Ein weiteres Vorgehen dieser Methode giebt für die nächste Octavreihe von 24 bis 48
+
+— auf Platzz 24 27 go 32 36 40 45 48
+C D E F G A at G,
+
+also genau ie diatonische Tonleiter, und repräsentiven diese 8 Platzverhältnisse auch zugleich das richtige Vorhältniss der
+
