@@ -21,7 +21,8 @@ The restoration intends to include:
 ```
 /masters         - Original source scans
 /working         - Altered sources for easier usage
-/transcriptions  - OCR and manual transcripts, and translations
+/transcriptions  - OCR and manual transcripts
+/translations    - Translations of the transcriptions
 /fonts           - Reconstructed font glyphs and fonts
 /graphics        - Reconstructed ornaments, diagrams, and plates
 /layouts         - Reconstructed page layouts
