@@ -2,20 +2,8 @@
   "$schema": "http://json-schema.org/draft-07/schema#",
   "title": "Progress YAML Schema",
   "type": "object",
-  "required": ["meta", "sections"],
+  "required": ["sections"],
   "properties": {
-    "meta": {
-      "type": "object",
-      "required": ["last_updated"],
-      "properties": {
-        "last_updated": {
-          "type": "string",
-          "format": "date",
-          "description": "RFC 3339 date when this file was last updated"
-        }
-      },
-      "additionalProperties": false
-    },
     "sections": {
       "type": "object",
       "patternProperties": {

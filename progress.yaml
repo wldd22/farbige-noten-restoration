@@ -1,7 +1,5 @@
 # yaml-language-server: $schema=./progress-schema.json
 
-meta:
-  last_updated: 2025-01-18
 sections:
   transcriptions:
     title: "Transcriptions"
