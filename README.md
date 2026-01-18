@@ -11,8 +11,8 @@ The restoration intends to include:
 
 - **Transcriptions** of all the original text
 - **Translations** of all the original text
-- **Reconstruction** and **restoration** of the original typography
-- **Reconstruction** and **restoration** of the work's ornaments and layout
+- **Reconstruction** of the original typography
+- **Reconstruction** of the work's graphics and layout
 - **Documentation** of sources, methods, and decisions
 
 
@@ -23,7 +23,7 @@ The restoration intends to include:
 /working         - Altered sources for easier usage
 /transcriptions  - OCR and manual transcripts, and translations
 /fonts           - Reconstructed font glyphs and fonts
-/graphics         - Reconstructed ornaments, diagrams, and plates
+/graphics        - Reconstructed ornaments, diagrams, and plates
 /layouts         - Reconstructed page layouts
 /docs            - Documentation of research, decisions, and work
 /scripts         - Miscellaneous utility scripts

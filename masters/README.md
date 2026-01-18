@@ -25,7 +25,7 @@
 		- **1** - Title page (TP)
 		- **2** - Table of contents (TC)
 		- **3** - Preface (PR)
-		- **4-50** - Body text (BT)
+		- **4-50** - Body text (BT) (**42, 43** contain only graphics)
 		- **51-55** - Plates I-V (PL)
 		- **56** - Series list (SL)
 - **Part III** (3 pages)

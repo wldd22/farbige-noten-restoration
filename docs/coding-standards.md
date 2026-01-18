@@ -77,6 +77,41 @@ See: [Page Types](docs/page-types.md)
 
 ---
 
+## Transcription Identifiers
+
+**Format**
+```
+FN-TR-P#-##
+
+P#: Part number (P1, P2, or P3)
+##: Two-digit sequential page number
+```
+
+Example: `FN-TR-P1-12`
+
+**Notes:**
+- Not all page numbers have a corresponding transcription. Pages with only graphics don't contain body text and so, don't have a transcription.
+
+---
+
+## Translation Identifiers
+
+**Format**
+```
+FN-TL-P#-##-XX
+
+P#: Part number (P1, P2, or P3)
+##: Two-digit sequential page number
+XX: Two-character language (ISO 639-1)
+```
+
+Example: `FN-TL-P1-12-EN`
+
+**Notes:**
+- Not all page numbers have a corresponding transcription. Pages with only graphics don't contain body text and so, don't have a transcription.
+
+---
+
 ## Font Identifiers
 
 **Format**
