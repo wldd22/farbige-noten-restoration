@@ -370,6 +370,7 @@ def render_section_svg(
 
     # Centralised CSS (class definitions left intentionally unfilled for per-state colors)
     css_lines = [
+        '* { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Noto Sans", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji"; }',
         '.bg { fill: #0d1116; rx: 10px; ry: 10px; }',
         '.title { font: bold 20px sans-serif; fill: #fff; }',
         '.path { font: 16px sans-serif; fill: #fff; }',
