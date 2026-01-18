@@ -4,11 +4,11 @@ on:
   push:
     paths:
       - "progress.yaml"
-      - "scripts/render_readmes.py"
+      - "scripts/render_progress_svgs.py"
   pull_request:
     paths:
       - "progress.yaml"
-      - "scripts/render_readmes.py"
+      - "scripts/render_progress_svgs.py"
 
 permissions:
   contents: write
@@ -33,7 +33,7 @@ jobs:
 
       - name: Run progress renderer
         run: |
-          python scripts/render_readmes.py
+          python scripts/render_progress_svgs.py
 
       - name: Show git status
         run: git status --short
@@ -42,6 +42,6 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add README.md **/README.md
+          git add progress/
           git commit -m "Auto-update progress" || echo "No changes to commit"
           git push

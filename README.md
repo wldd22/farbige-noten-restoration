@@ -11,8 +11,8 @@ The restoration intends to include:
 
 - **Transcriptions** of all the original text
 - **Translations** of all the original text
-- **Reconstruction** of the original typography
-- **Reconstruction** of the work's graphics and layout
+- Reconstruction of the original **typography**
+- Reconstruction of the work's **graphics** and **layout**
 - **Documentation** of sources, methods, and decisions
 
 
@@ -28,6 +28,7 @@ The restoration intends to include:
 /layouts         - Reconstructed page layouts
 /docs            - Documentation of research, decisions, and work
 /scripts         - Miscellaneous utility scripts
+/progress        - Auto-generated SVGs for progress reports
 ```
 
 ## Source Material
@@ -55,38 +56,20 @@ Originally, *Verlag von J. F. Richter*
 
 ### [Transcriptions](transcriptions/README.md)
 
-<!-- AUTO-GENERATED START: DO NOT EDIT -->
-<!-- transcriptions -->
-| Part      | Pages Complete | Percentage Completion |
-| --------- | -------------- | --------------------- |
-| Part I    | 0/21           | 0%                    |
-| Part II   | 0/49           | 0%                    |
-| Part III  | 0/2            | 0%                    |
-| **Total** | **0/72**       | **0%**                |
-<!-- AUTO-GENERATED END -->
+![Transcriptions](progress/transcriptions.svg)
 
 ### [Translations](translations/README.md)
 
-#### English
-
-<!-- AUTO-GENERATED START: DO NOT EDIT -->
-<!-- translations-en -->
-| Part      | Pages Complete | Percentage Completion |
-| --------- | -------------- | --------------------- |
-| Part I    | 0/21           | 0%                    |
-| Part II   | 0/49           | 0%                    |
-| Part III  | 0/2            | 0%                    |
-| **Total** | **0/72**       | **0%**                |
-<!-- AUTO-GENERATED END -->
+![Translations](progress/translations.svg)
 
 ### [Fonts](fonts/README.md)
 
-The fonts have not yet been catalogued for tracking progress.
+![Fonts](progress/fonts.svg)
 
 ### [Graphics](graphics/README.md)
 
-The graphics have not yet been catalogued for tracking progress.
+![Graphics](progress/graphics.svg)
 
 ### [Layouts](layouts/README.md)
 
-The layouts have not yet been catalogued for tracking progress.
+![Layouts](progress/layouts.svg)

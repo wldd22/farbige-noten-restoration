@@ -1,0 +1,101 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="500" viewBox="0 0 500 468">
+<style>
+.bg { fill: #0d1116; rx: 10px; ry: 10px; }
+.title { font: bold 20px sans-serif; fill: #fff; }
+.path { font: 16px sans-serif; fill: #fff; }
+.legend { font: 16px sans-serif; fill: #fff; }
+.body { font: 16px sans-serif; fill: #fff; }
+.square { rx: 2px; fill: none; }
+.square.state-0 { fill: #161c23; }
+.square.state-1 { fill: #006E34; }
+.square.state-2 { fill: #39d255; }
+</style>
+<rect x="0" y="0" width="500" height="468" rx="0" ry="0" class="bg" />
+<text x="24" y="38" class="path">English/Part I</text>
+<g id="grid">
+<rect x="24" y="48" width="24" height="24" rx="2" ry="2" class="square state-0" />
+<rect x="56" y="48" width="24" height="24" rx="2" ry="2" class="square state-0" />
+<rect x="88" y="48" width="24" height="24" rx="2" ry="2" class="square state-0" />
+<rect x="120" y="48" width="24" height="24" rx="2" ry="2" class="square state-0" />
+<rect x="152" y="48" width="24" height="24" rx="2" ry="2" class="square state-0" />
+<rect x="184" y="48" width="24" height="24" rx="2" ry="2" class="square state-0" />
+<rect x="216" y="48" width="24" height="24" rx="2" ry="2" class="square state-0" />
+<rect x="248" y="48" width="24" height="24" rx="2" ry="2" class="square state-0" />
+<rect x="280" y="48" width="24" height="24" rx="2" ry="2" class="square state-0" />
+<rect x="312" y="48" width="24" height="24" rx="2" ry="2" class="square state-0" />
+<rect x="344" y="48" width="24" height="24" rx="2" ry="2" class="square state-0" />
+<rect x="376" y="48" width="24" height="24" rx="2" ry="2" class="square state-0" />
+<rect x="24" y="80" width="24" height="24" rx="2" ry="2" class="square state-0" />
+<rect x="56" y="80" width="24" height="24" rx="2" ry="2" class="square state-0" />
+<rect x="88" y="80" width="24" height="24" rx="2" ry="2" class="square state-0" />
+<rect x="120" y="80" width="24" height="24" rx="2" ry="2" class="square state-0" />
+<rect x="152" y="80" width="24" height="24" rx="2" ry="2" class="square state-0" />
+<rect x="184" y="80" width="24" height="24" rx="2" ry="2" class="square state-0" />
+<rect x="216" y="80" width="24" height="24" rx="2" ry="2" class="square state-0" />
+<rect x="248" y="80" width="24" height="24" rx="2" ry="2" class="square state-0" />
+<rect x="280" y="80" width="24" height="24" rx="2" ry="2" class="square state-0" />
+</g>
+<text x="24" y="134" class="path">English/Part II</text>
+<g id="grid">
+<rect x="24" y="144" width="24" height="24" rx="2" ry="2" class="square state-0" />
+<rect x="56" y="144" width="24" height="24" rx="2" ry="2" class="square state-0" />
+<rect x="88" y="144" width="24" height="24" rx="2" ry="2" class="square state-0" />
+<rect x="120" y="144" width="24" height="24" rx="2" ry="2" class="square state-0" />
+<rect x="152" y="144" width="24" height="24" rx="2" ry="2" class="square state-0" />
+<rect x="184" y="144" width="24" height="24" rx="2" ry="2" class="square state-0" />
+<rect x="216" y="144" width="24" height="24" rx="2" ry="2" class="square state-0" />
+<rect x="248" y="144" width="24" height="24" rx="2" ry="2" class="square state-0" />
+<rect x="280" y="144" width="24" height="24" rx="2" ry="2" class="square state-0" />
+<rect x="312" y="144" width="24" height="24" rx="2" ry="2" class="square state-0" />
+<rect x="344" y="144" width="24" height="24" rx="2" ry="2" class="square state-0" />
+<rect x="376" y="144" width="24" height="24" rx="2" ry="2" class="square state-0" />
+<rect x="24" y="176" width="24" height="24" rx="2" ry="2" class="square state-0" />
+<rect x="56" y="176" width="24" height="24" rx="2" ry="2" class="square state-0" />
+<rect x="88" y="176" width="24" height="24" rx="2" ry="2" class="square state-0" />
+<rect x="120" y="176" width="24" height="24" rx="2" ry="2" class="square state-0" />
+<rect x="152" y="176" width="24" height="24" rx="2" ry="2" class="square state-0" />
+<rect x="184" y="176" width="24" height="24" rx="2" ry="2" class="square state-0" />
+<rect x="216" y="176" width="24" height="24" rx="2" ry="2" class="square state-0" />
+<rect x="248" y="176" width="24" height="24" rx="2" ry="2" class="square state-0" />
+<rect x="280" y="176" width="24" height="24" rx="2" ry="2" class="square state-0" />
+<rect x="312" y="176" width="24" height="24" rx="2" ry="2" class="square state-0" />
+<rect x="344" y="176" width="24" height="24" rx="2" ry="2" class="square state-0" />
+<rect x="376" y="176" width="24" height="24" rx="2" ry="2" class="square state-0" />
+<rect x="24" y="208" width="24" height="24" rx="2" ry="2" class="square state-0" />
+<rect x="56" y="208" width="24" height="24" rx="2" ry="2" class="square state-0" />
+<rect x="88" y="208" width="24" height="24" rx="2" ry="2" class="square state-0" />
+<rect x="120" y="208" width="24" height="24" rx="2" ry="2" class="square state-0" />
+<rect x="152" y="208" width="24" height="24" rx="2" ry="2" class="square state-0" />
+<rect x="184" y="208" width="24" height="24" rx="2" ry="2" class="square state-0" />
+<rect x="216" y="208" width="24" height="24" rx="2" ry="2" class="square state-0" />
+<rect x="248" y="208" width="24" height="24" rx="2" ry="2" class="square state-0" />
+<rect x="280" y="208" width="24" height="24" rx="2" ry="2" class="square state-0" />
+<rect x="312" y="208" width="24" height="24" rx="2" ry="2" class="square state-0" />
+<rect x="344" y="208" width="24" height="24" rx="2" ry="2" class="square state-0" />
+<rect x="376" y="208" width="24" height="24" rx="2" ry="2" class="square state-0" />
+<rect x="24" y="240" width="24" height="24" rx="2" ry="2" class="square state-0" />
+<rect x="56" y="240" width="24" height="24" rx="2" ry="2" class="square state-0" />
+<rect x="88" y="240" width="24" height="24" rx="2" ry="2" class="square state-0" />
+<rect x="120" y="240" width="24" height="24" rx="2" ry="2" class="square state-0" />
+<rect x="152" y="240" width="24" height="24" rx="2" ry="2" class="square state-0" />
+<rect x="184" y="240" width="24" height="24" rx="2" ry="2" class="square state-0" />
+<rect x="216" y="240" width="24" height="24" rx="2" ry="2" class="square state-0" />
+<rect x="248" y="240" width="24" height="24" rx="2" ry="2" class="square state-0" />
+<rect x="280" y="240" width="24" height="24" rx="2" ry="2" class="square state-0" />
+<rect x="312" y="240" width="24" height="24" rx="2" ry="2" class="square state-0" />
+<rect x="344" y="240" width="24" height="24" rx="2" ry="2" class="square state-0" />
+<rect x="376" y="240" width="24" height="24" rx="2" ry="2" class="square state-0" />
+<rect x="24" y="272" width="24" height="24" rx="2" ry="2" class="square state-0" />
+</g>
+<text x="24" y="326" class="path">English/Part III</text>
+<g id="grid">
+<rect x="24" y="336" width="24" height="24" rx="2" ry="2" class="square state-0" />
+<rect x="56" y="336" width="24" height="24" rx="2" ry="2" class="square state-0" />
+</g>
+<rect x="24" y="378" width="16" height="16" rx="2" ry="2" class="square state-0" />
+<text x="48" y="392" class="legend">Not started</text>
+<rect x="24" y="398" width="16" height="16" rx="2" ry="2" class="square state-1" />
+<text x="48" y="412" class="legend">In progress (0/0 pages, 0.0%)</text>
+<rect x="24" y="418" width="16" height="16" rx="2" ry="2" class="square state-2" />
+<text x="48" y="432" class="legend">Complete (0/0 pages, 0.0%)</text>
+</svg>

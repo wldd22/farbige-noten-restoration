@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="500" viewBox="0 0 500 448">
+<style>
+.bg { fill: #0d1116; rx: 10px; ry: 10px; }
+.title { font: bold 20px sans-serif; fill: #fff; }
+.path { font: 16px sans-serif; fill: #fff; }
+.legend { font: 16px sans-serif; fill: #fff; }
+.body { font: 16px sans-serif; fill: #fff; }
+.square { rx: 2px; fill: none; }
+.square.state-0 { fill: #161c23; }
+.square.state-1 { fill: #006E34; }
+.square.state-2 { fill: #39d255; }
+</style>
+<rect x="0" y="0" width="500" height="448" rx="0" ry="0" class="bg" />
+<text x="24" y="38" class="path">Plates</text>
+<g id="grid">
+<rect x="24" y="48" width="24" height="24" rx="2" ry="2" class="square state-0" />
+<rect x="56" y="48" width="24" height="24" rx="2" ry="2" class="square state-0" />
+<rect x="88" y="48" width="24" height="24" rx="2" ry="2" class="square state-0" />
+<rect x="120" y="48" width="24" height="24" rx="2" ry="2" class="square state-0" />
+<rect x="152" y="48" width="24" height="24" rx="2" ry="2" class="square state-0" />
+<rect x="184" y="48" width="24" height="24" rx="2" ry="2" class="square state-0" />
+<rect x="216" y="48" width="24" height="24" rx="2" ry="2" class="square state-0" />
+<rect x="248" y="48" width="24" height="24" rx="2" ry="2" class="square state-0" />
+<rect x="280" y="48" width="24" height="24" rx="2" ry="2" class="square state-0" />
+<rect x="312" y="48" width="24" height="24" rx="2" ry="2" class="square state-0" />
+<rect x="344" y="48" width="24" height="24" rx="2" ry="2" class="square state-0" />
+<rect x="376" y="48" width="24" height="24" rx="2" ry="2" class="square state-0" />
+</g>
+<text x="24" y="102" class="path">Ornaments</text>
+<g id="grid">
+<rect x="24" y="112" width="24" height="24" rx="2" ry="2" class="square state-0" />
+<rect x="56" y="112" width="24" height="24" rx="2" ry="2" class="square state-0" />
+<rect x="88" y="112" width="24" height="24" rx="2" ry="2" class="square state-0" />
+<rect x="120" y="112" width="24" height="24" rx="2" ry="2" class="square state-0" />
+<rect x="152" y="112" width="24" height="24" rx="2" ry="2" class="square state-0" />
+<rect x="184" y="112" width="24" height="24" rx="2" ry="2" class="square state-0" />
+<rect x="216" y="112" width="24" height="24" rx="2" ry="2" class="square state-0" />
+<rect x="248" y="112" width="24" height="24" rx="2" ry="2" class="square state-0" />
+<rect x="280" y="112" width="24" height="24" rx="2" ry="2" class="square state-0" />
+<rect x="312" y="112" width="24" height="24" rx="2" ry="2" class="square state-0" />
+<rect x="344" y="112" width="24" height="24" rx="2" ry="2" class="square state-0" />
+<rect x="376" y="112" width="24" height="24" rx="2" ry="2" class="square state-0" />
+<rect x="24" y="144" width="24" height="24" rx="2" ry="2" class="square state-0" />
+<rect x="56" y="144" width="24" height="24" rx="2" ry="2" class="square state-0" />
+<rect x="88" y="144" width="24" height="24" rx="2" ry="2" class="square state-0" />
+<rect x="120" y="144" width="24" height="24" rx="2" ry="2" class="square state-0" />
+</g>
+<text x="24" y="198" class="path">Tables</text>
+<text x="24" y="222" class="body">Units have not yet been catalogued for tracking progress.</text>
+<text x="24" y="252" class="path">Diagrams</text>
+<text x="24" y="276" class="body">Units have not yet been catalogued for tracking progress.</text>
+<text x="24" y="306" class="path">Initials</text>
+<g id="grid">
+<rect x="24" y="316" width="24" height="24" rx="2" ry="2" class="square state-0" />
+<rect x="56" y="316" width="24" height="24" rx="2" ry="2" class="square state-0" />
+<rect x="88" y="316" width="24" height="24" rx="2" ry="2" class="square state-0" />
+<rect x="120" y="316" width="24" height="24" rx="2" ry="2" class="square state-0" />
+</g>
+<rect x="24" y="358" width="16" height="16" rx="2" ry="2" class="square state-0" />
+<text x="48" y="372" class="legend">Not started</text>
+<rect x="24" y="378" width="16" height="16" rx="2" ry="2" class="square state-1" />
+<text x="48" y="392" class="legend">Catalogued (0/0 graphics, 0.0%)</text>
+<rect x="24" y="398" width="16" height="16" rx="2" ry="2" class="square state-2" />
+<text x="48" y="412" class="legend">Designed (0/0 graphics, 0.0%)</text>
+</svg>
