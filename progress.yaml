@@ -1,25 +1,178 @@
-transcriptions:
-  files: [./transcriptions/README.md, ./README.md]
-  parts:
-    Part I:
-      completed_pages: 0
-      total_pages: 21
-    Part II:
-      completed_pages: 0
-      total_pages: 49
-    Part III:
-      completed_pages: 0
-      total_pages: 2
+# yaml-language-server: $schema=./progress-schema.json
 
-translations-en:
-  files: [./translations/README.md, ./README.md]
-  parts:
-    Part I:
-      completed_pages: 0
-      total_pages: 21
-    Part II:
-      completed_pages: 0
-      total_pages: 49
-    Part III:
-      completed_pages: 0
-      total_pages: 2
+meta:
+  last_updated: 2025-01-18
+sections:
+  transcriptions:
+    title: "Transcriptions"
+    unit:
+      name: "page"
+      plural: "pages"
+    states:
+      0: "Not started"
+      1: "OCR complete"
+      2: "Manual correction complete"
+    final_state: 2
+    groups:
+      - id: P1
+        label: "Part I"
+        total: 21
+        units:
+          FN-TR-P1-01: 1
+          FN-TR-P1-02: 1
+          FN-TR-P1-03: 1
+          FN-TR-P1-04: 1
+          FN-TR-P1-05: 1
+          FN-TR-P1-06: 1
+          FN-TR-P1-07: 1
+          FN-TR-P1-08: 1
+          FN-TR-P1-09: 1
+          FN-TR-P1-10: 1
+          FN-TR-P1-11: 1
+          FN-TR-P1-12: 1
+          FN-TR-P1-13: 1
+          FN-TR-P1-14: 1
+          FN-TR-P1-15: 1
+          FN-TR-P1-16: 1
+          FN-TR-P1-17: 1
+          FN-TR-P1-18: 1
+          FN-TR-P1-19: 1
+          FN-TR-P1-20: 1
+          FN-TR-P1-27: 1
+      - id: P2
+        label: "Part II"
+        total: 49
+        units:
+          FN-TR-P2-01: 1
+          FN-TR-P2-02: 1
+          FN-TR-P2-03: 1
+          FN-TR-P2-04: 1
+          FN-TR-P2-05: 1
+          FN-TR-P2-06: 1
+          FN-TR-P2-07: 1
+          FN-TR-P2-08: 1
+          FN-TR-P2-09: 1
+          FN-TR-P2-10: 1
+          FN-TR-P2-11: 1
+          FN-TR-P2-12: 1
+          FN-TR-P2-13: 1
+          FN-TR-P2-14: 1
+          FN-TR-P2-15: 1
+          FN-TR-P2-16: 1
+          FN-TR-P2-17: 1
+          FN-TR-P2-18: 1
+          FN-TR-P2-19: 1
+          FN-TR-P2-20: 1
+          FN-TR-P2-21: 1
+          FN-TR-P2-22: 1
+          FN-TR-P2-23: 1
+          FN-TR-P2-24: 1
+          FN-TR-P2-25: 1
+          FN-TR-P2-26: 1
+          FN-TR-P2-27: 1
+          FN-TR-P2-28: 1
+          FN-TR-P2-29: 1
+          FN-TR-P2-30: 1
+          FN-TR-P2-31: 1
+          FN-TR-P2-32: 1
+          FN-TR-P2-33: 1
+          FN-TR-P2-34: 1
+          FN-TR-P2-35: 1
+          FN-TR-P2-36: 1
+          FN-TR-P2-37: 1
+          FN-TR-P2-38: 1
+          FN-TR-P2-39: 1
+          FN-TR-P2-40: 1
+          FN-TR-P2-41: 1
+          FN-TR-P2-44: 1
+          FN-TR-P2-45: 1
+          FN-TR-P2-46: 1
+          FN-TR-P2-47: 1
+          FN-TR-P2-48: 1
+          FN-TR-P2-49: 1
+          FN-TR-P2-50: 1
+          FN-TR-P2-56: 1
+      - id: P3
+        label: "Part III"
+        total: 2
+        units:
+          FN-TR-P3-01: 1
+          FN-TR-P3-03: 1
+  translations:
+    title: "Translations"
+    unit:
+      name: "page"
+      plural: "pages"
+    states:
+      0: "Not started"
+      1: "In progress"
+      2: "Complete"
+    final_state: 2
+    groups:
+      - id: en
+        label: "English"
+        subgroups:
+          - id: P1
+            label: "Part I"
+            total: 21
+            units: {}
+          - id: P2
+            label: "Part II"
+            total: 49
+            units: {}
+          - id: P3
+            label: "Part III"
+            total: 2
+            units: {}
+  graphics:
+    title: "Graphics"
+    unit:
+      name: "graphic"
+      plural: "graphics"
+    states:
+      0: "Not started"
+      1: "Catalogued"
+      2: "Designed"
+    final_state: 2
+    groups:
+      - id: PL
+        label: "Plates"
+        total: 12
+        units: {}
+      - id: OR
+        label: "Ornaments"
+        total: 16
+        units: {}
+      - id: TA
+        label: "Tables"
+        units: {}
+      - id: DI
+        label: "Diagrams"
+        units: {}
+      - id: IN
+        label: "Initials"
+        total: 4
+        units: {}
+  fonts:
+    title: "Fonts"
+    unit:
+      name: "glyph"
+      plural: "glyphs"
+    states:
+      0: "Not started"
+      1: "Catalogued"
+      2: "Designed"
+      3: "Metadata complete"
+    final_state: 3
+    groups: []
+  layouts:
+    title: "Layouts"
+    unit:
+      name: "layout"
+      plural: "layouts"
+    states:
+      0: "Not started"
+      1: "Catalogued"
+      2: "Designed"
+    final_state: 2
+    units: {}

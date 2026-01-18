@@ -1,0 +1,156 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Progress YAML Schema",
+  "type": "object",
+  "required": ["meta", "sections"],
+  "properties": {
+    "meta": {
+      "type": "object",
+      "required": ["last_updated"],
+      "properties": {
+        "last_updated": {
+          "type": "string",
+          "format": "date",
+          "description": "RFC 3339 date when this file was last updated"
+        }
+      },
+      "additionalProperties": false
+    },
+    "sections": {
+      "type": "object",
+      "patternProperties": {
+        "^[a-z0-9_]+$": {
+          "type": "object",
+          "required": ["title", "unit", "states", "final_state"],
+          "properties": {
+            "title": {
+              "type": "string",
+              "description": "Human readable name for the section"
+            },
+            "unit": {
+              "type": "object",
+              "required": ["name", "plural"],
+              "properties": {
+                "name": {
+                  "type": "string",
+                  "description": "Singular form of the unit name (e.g., 'page')"
+                },
+                "plural": {
+                  "type": "string",
+                  "description": "Plural form of the unit name (e.g., 'pages')"
+                }
+              },
+              "additionalProperties": false
+            },
+            "states": {
+              "type": "object",
+              "minProperties": 1,
+              "patternProperties": {
+                "^[0-9]+$": {
+                  "type": "string",
+                  "description": "Human readable label for this state"
+                }
+              },
+              "additionalProperties": false
+            },
+            "final_state": {
+              "type": "integer",
+              "minimum": 0,
+              "description": "Final state value indicating completion of a unit"
+            },
+            "groups": {
+              "type": "array",
+              "items": { "$ref": "#/definitions/groupNode" },
+              "description": "Top-level group nodes"
+            },
+            "total": {
+              "type": "integer",
+              "minimum": 0,
+              "description": "Optional expected count of units (for ungrouped sections)"
+            },
+            "units": {
+              "type": "object",
+              "description": "Direct unit mapping for ungrouped sections (unit-id -> integer value)",
+              "patternProperties": {
+                ".*": { "type": "integer", "minimum": 0 }
+              },
+              "additionalProperties": false
+            }
+          },
+          "oneOf": [
+            {
+              "required": ["units"],
+              "not": {
+                "required": ["groups"]
+              }
+            },
+            {
+              "required": ["groups"],
+              "not": {
+                "anyOf": [
+                  { "required": ["units"] },
+                  { "required": ["total"] }
+                ]
+              }
+            }
+          ],
+          "additionalProperties": false
+        }
+      },
+      "additionalProperties": false
+    }
+  },
+  "definitions": {
+    "groupNode": {
+      "type": "object",
+      "required": ["id"],
+      "properties": {
+        "id": {
+          "type": "string",
+          "description": "Group identifier (e.g. P1, EN, FN-T01, ornaments)"
+        },
+        "label": {
+          "type": "string",
+          "description": "Human-readable group label"
+        },
+        "total": {
+          "type": "integer",
+          "minimum": 0,
+          "description": "Optional expected count of units in this group"
+        },
+        "units": {
+          "type": "object",
+          "description": "Unit map for this group (unit-id -> integer value)",
+          "patternProperties": {
+            ".*": { "type": "integer", "minimum": 0 }
+          },
+          "additionalProperties": false
+        },
+        "subgroups": {
+          "type": "array",
+          "items": { "$ref": "#/definitions/groupNode" },
+          "description": "Child groups (recursive)"
+        }
+      },
+      "oneOf": [
+        {
+          "required": ["units"],
+          "not": {
+            "required": ["subgroups"]
+          }
+        },
+        {
+          "required": ["subgroups"],
+          "not": {
+            "anyOf": [
+              { "required": ["units"] },
+              { "required": ["totals"] }
+            ]
+          }
+        }
+      ],
+      "additionalProperties": false
+    }
+  },
+  "additionalProperties": false
+}
