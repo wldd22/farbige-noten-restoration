@@ -1,4 +1,4 @@
-name: Render Progress Tables
+name: Render Progress SVGs
 
 on:
   push:
@@ -43,5 +43,5 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add progress/
-          git commit -m "Auto-update progress" || echo "No changes to commit"
+          git commit -m "Auto-render progress SVGs" || echo "No changes to commit"
           git push
