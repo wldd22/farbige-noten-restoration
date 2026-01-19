@@ -9,15 +9,16 @@ sections:
     states:
       0: "Not started"
       1: "OCR complete"
-      2: "Manual correction complete"
+      2: "Manual checking complete"
+      3: "Final verification complete"
     final_state: 2
     groups:
       - id: P1
         label: "Part I"
         total: 21
         units:
-          FN-TR-P1-01: 1
-          FN-TR-P1-02: 1
+          FN-TR-P1-01: 3
+          FN-TR-P1-02: 2
           FN-TR-P1-03: 1
           FN-TR-P1-04: 1
           FN-TR-P1-05: 1
