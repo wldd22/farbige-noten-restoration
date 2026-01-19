@@ -96,7 +96,7 @@ def compute_state_counters(section):
             if "units" in node:
                 for _, val in node["units"].items():
                     unit_states.append(int(val))
-                    total_units += 1
+                total_units += max(node.get("total", 0), len(node["units"]))
             for sub in node.get("subgroups", []):
                 collect_units(sub)
 
