@@ -60,7 +60,7 @@
 <rect x="24" y="358" width="16" height="16" rx="2" ry="2" class="square state-0" />
 <text x="48" y="372" class="legend">Not started</text>
 <rect x="24" y="378" width="16" height="16" rx="2" ry="2" class="square state-1" />
-<text x="48" y="392" class="legend">Catalogued (0/0 graphics, 0.0%)</text>
+<text x="48" y="392" class="legend">Catalogued (0/32 graphics, 0.0%)</text>
 <rect x="24" y="398" width="16" height="16" rx="2" ry="2" class="square state-2" />
-<text x="48" y="412" class="legend">Designed (0/0 graphics, 0.0%)</text>
+<text x="48" y="412" class="legend">Designed (0/32 graphics, 0.0%)</text>
 </svg>
