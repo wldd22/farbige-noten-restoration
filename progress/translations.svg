@@ -96,7 +96,7 @@
 <rect x="24" y="378" width="16" height="16" rx="2" ry="2" class="square state-0" />
 <text x="48" y="392" class="legend">Not started</text>
 <rect x="24" y="398" width="16" height="16" rx="2" ry="2" class="square state-1" />
-<text x="48" y="412" class="legend">In progress (0/0 pages, 0.0%)</text>
+<text x="48" y="412" class="legend">In progress (0/72 pages, 0.0%)</text>
 <rect x="24" y="418" width="16" height="16" rx="2" ry="2" class="square state-2" />
-<text x="48" y="432" class="legend">Complete (0/0 pages, 0.0%)</text>
+<text x="48" y="432" class="legend">Complete (0/72 pages, 0.0%)</text>
 </svg>
