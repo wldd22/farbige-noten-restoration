@@ -9,7 +9,7 @@
       "patternProperties": {
         "^[a-z0-9_]+$": {
           "type": "object",
-          "required": ["title", "unit", "states", "final_state"],
+          "required": ["title", "unit", "states"],
           "properties": {
             "title": {
               "type": "string",
@@ -40,11 +40,6 @@
                 }
               },
               "additionalProperties": false
-            },
-            "final_state": {
-              "type": "integer",
-              "minimum": 0,
-              "description": "Final state value indicating completion of a unit"
             },
             "groups": {
               "type": "array",

@@ -11,7 +11,6 @@ sections:
       1: "OCR complete"
       2: "Manual checking complete"
       3: "Final verification complete"
-    final_state: 2
     groups:
       - id: P1
         label: "Part I"
@@ -106,7 +105,6 @@ sections:
       0: "Not started"
       1: "In progress"
       2: "Complete"
-    final_state: 2
     groups:
       - id: en
         label: "English"
@@ -132,7 +130,6 @@ sections:
       0: "Not started"
       1: "Catalogued"
       2: "Designed"
-    final_state: 2
     groups:
       - id: PL
         label: "Plates"
@@ -162,7 +159,6 @@ sections:
       1: "Catalogued"
       2: "Designed"
       3: "Metadata complete"
-    final_state: 3
     groups: []
   layouts:
     title: "Layouts"
@@ -173,5 +169,4 @@ sections:
       0: "Not started"
       1: "Catalogued"
       2: "Designed"
-    final_state: 2
     units: {}
