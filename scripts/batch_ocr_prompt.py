@@ -184,7 +184,7 @@ def interactive_config():
     """).strip())
     # Root input folder
     while True:
-        png_root = Path(prompt_with_default("Root folder containing images", "working/bw-scans")).expanduser().resolve()
+        png_root = Path(prompt_with_default("Root folder containing images", "working/ocr-ready")).expanduser().resolve()
         if png_root.exists() and png_root.is_dir():
             break
         create = prompt_yes_no(f"Folder '{png_root}' does not exist. Create it?", default_yes=False)
@@ -302,6 +302,8 @@ def main():
         except Exception:
             # fallback: use name only
             rel = img_path.name
+        # Replace PG in the filename with TR
+        rel = Path(str(rel).replace("PG", "TR"))
         out_path = (cfg['out_root'] / rel).with_suffix('.txt')
         out_path.parent.mkdir(parents=True, exist_ok=True)
 
