@@ -16,8 +16,8 @@
 <text x="24" y="38" class="path">Part I</text>
 <g id="grid">
 <rect x="24" y="48" width="24" height="24" rx="2" ry="2" class="square state-3" />
-<rect x="56" y="48" width="24" height="24" rx="2" ry="2" class="square state-2" />
-<rect x="88" y="48" width="24" height="24" rx="2" ry="2" class="square state-1" />
+<rect x="56" y="48" width="24" height="24" rx="2" ry="2" class="square state-3" />
+<rect x="88" y="48" width="24" height="24" rx="2" ry="2" class="square state-2" />
 <rect x="120" y="48" width="24" height="24" rx="2" ry="2" class="square state-1" />
 <rect x="152" y="48" width="24" height="24" rx="2" ry="2" class="square state-1" />
 <rect x="184" y="48" width="24" height="24" rx="2" ry="2" class="square state-1" />
@@ -99,7 +99,7 @@
 <rect x="24" y="398" width="16" height="16" rx="2" ry="2" class="square state-1" />
 <text x="48" y="412" class="legend">OCR complete (72/72 pages, 100.0%)</text>
 <rect x="24" y="418" width="16" height="16" rx="2" ry="2" class="square state-2" />
-<text x="48" y="432" class="legend">Manual checking complete (2/72 pages, 2.8%)</text>
+<text x="48" y="432" class="legend">Manual checking complete (3/72 pages, 4.2%)</text>
 <rect x="24" y="438" width="16" height="16" rx="2" ry="2" class="square state-3" />
-<text x="48" y="452" class="legend">Final verification complete (1/72 pages, 1.4%)</text>
+<text x="48" y="452" class="legend">Final verification complete (2/72 pages, 2.8%)</text>
 </svg>
