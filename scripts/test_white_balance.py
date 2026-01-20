@@ -1,9 +1,8 @@
-import sys
 import tkinter as tk
 from PIL import Image, ImageTk
 
 # ==========================
-# FILTER (UNCHANGED LOGIC)
+# FILTER
 # ==========================
 
 def apply_filter(img,
@@ -41,7 +40,7 @@ def apply_filter(img,
 #     sys.exit(1)
 
 # original_image = Image.open(sys.argv[1])
-original_image = Image.open(".\\working\\png-scans\\part-1\\temp\\IMSLP935307-PMLP1467582-farbigenoten1 27 of 27.png")
+original_image = Image.open(".\\working\\png-scans\\part-2\\FN-PG-P2-02.png")
 
 root = tk.Tk()
 root.title("Filter Tester")
@@ -145,7 +144,8 @@ def on_mouse_up(event):
 
     x1, y1 = drag_start
     x2, y2 = event.x, event.y
-    canvas.delete(display_rect)
+    if display_rect:
+        canvas.delete(display_rect)
 
     if abs(x2 - x1) < 10 or abs(y2 - y1) < 10:
         drag_start = None
