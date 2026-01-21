@@ -13,7 +13,7 @@
 .square.state-3 { fill: #39d255; }
 </style>
 <rect x="0" y="0" width="500" height="166" rx="0" ry="0" class="bg" />
-<text x="24" y="38" class="body">Units have not yet been catalogued for tracking progress.</text>
+<text x="24" y="38" class="body">Fonts have not yet been catalogued for tracking progress.</text>
 <rect x="24" y="56" width="16" height="16" rx="2" ry="2" class="square state-0" />
 <text x="48" y="70" class="legend">Not started</text>
 <rect x="24" y="76" width="16" height="16" rx="2" ry="2" class="square state-1" />

@@ -47,9 +47,9 @@
 <rect x="120" y="144" width="24" height="24" rx="2" ry="2" class="square state-0" />
 </g>
 <text x="24" y="198" class="path">Tables</text>
-<text x="24" y="222" class="body">Units have not yet been catalogued for tracking progress.</text>
+<text x="24" y="222" class="body">Tables have not yet been catalogued for tracking progress.</text>
 <text x="24" y="252" class="path">Diagrams</text>
-<text x="24" y="276" class="body">Units have not yet been catalogued for tracking progress.</text>
+<text x="24" y="276" class="body">Diagrams have not yet been catalogued for tracking progress.</text>
 <text x="24" y="306" class="path">Initials</text>
 <g id="grid">
 <rect x="24" y="316" width="24" height="24" rx="2" ry="2" class="square state-0" />
