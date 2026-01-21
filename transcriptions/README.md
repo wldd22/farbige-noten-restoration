@@ -7,13 +7,14 @@
 
 ## Allowed Markdown
 
-Manual transcriptions are in the `.md` format. For simplicity of parsing and downstream processing, only a selected subset of Markdown features is used. Below is an exhaustive list of all Markdown features permitted for use in the transcriptions:
+Manual transcriptions are in the `.md` format. For simplicity of parsing and downstream processing, only a selected subset of Markdown features is used. Below is an exhaustive list of all Markdown features permitted for use in the transcriptions (when appropriate):
 
 - Paragraphs*
 - Emphasis (*italic*)
 - Strong emphasis (**bold**)
 - Headings (`#` through `######`)
 - Horizontal rule** (---)
+- Ordered lists (1., 2., 3., ...)
 
 \*Single line breaks indicate the end of a line, with the following line beginning as a new indented paragraph. Double line breaks indicate an actual gap in the text of the source material, caused by a graphic, a heading, or other element.
 
