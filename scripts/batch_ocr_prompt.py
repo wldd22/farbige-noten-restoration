@@ -1,7 +1,5 @@
 """
-batch_ocr_prompt.py
-
-Interactive batch OCR for PNGs (and configurable extensions) using pytesseract.
+Batch OCR for PNGs using pytesseract.
 For each image under a root folder (default: ./pngs) it writes a transcript to a mirrored
 path under an output root (default: ./transcripts). e.g.:
   pngs/path/to/img-001.png -> transcripts/path/to/img-001.txt
