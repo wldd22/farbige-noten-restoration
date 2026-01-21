@@ -435,7 +435,7 @@ def render_section_svg(
         units_map = section.get("units", {})
         if len(units_map) == 0:
             handle_warning(f"Section '{section.get('title','')}' has no units; considered uncatalogued.")
-            append_text_at(f'{section.get('title','')} have not yet been catalogued for tracking progress.', x, y, "body")
+            append_text_at(f'{section.get("title","")} have not yet been catalogued for tracking progress.', x, y, "body")
             y += UNCATALOGUED_SPACING
         else:
             # build a synthetic group for top-level units
