@@ -1,63 +1,60 @@
-— 793 Schwingungen
+die Quinte G = Ros 528 + 137 + 41 + 43 4+ 46 ........... == 795 Schwingungen
 
-die Quinte — G — Ros 528 4 137 + 4t 4
+Gis = Car 528 + 137 4+ 130 4{ 48 ................. = 843 do.
+» Sexte A == Lil 528 + 137 + 130 4 48 + g1 2......... == 894 do.
+Ais = Pen 528 |+ 137 + 130 + 48 4+ 51 4+ 530..1... = 947 do.
+» Septime H = In 528 + 137 + 130 + 48 4 51 + 53 454 = 1001 do.
+» Octave C = Blu 528 4+ 137 4+ 130 4+ 261 ................ == 1056 do.
 
-Gis = Car 528 | 337 —| 130 + is 843 do.
-> Sexte = A = Lil 528 4 337 + t30 4 F an = 804 do,
-Ais Pen 528 4 137 b 130 4+ 48 4 st 4 s3 22222 947 do.
-» Septime H In 528 4 i37 4 30 4 45 |— 5t 4 53 — s4 toot do.
-
-» Ootave — C == Blo 528 4 137 4 330 4 261 22.......2. .. —= to56 do,
-Wenn nun auch solcbes Resultat noch weit abbleibt von den gefundenen Schwingungszahlen 528 : 689/90: S08/9 : 1036
-der Naturtöne, so durfen wir s doch nicht versagen, diese Art Rechnung hier vorzuführen und zwar aus folgenden
-
+Wenn nun auch solches Resultat noch weit abbleibt von den gefundenen Schwingungszahlen 528 : 689/90: 808/9 : 10356
+der Naturtöne, so durften wir uns doch nicht versagen, diese Art Rechnung hier vorzuführen und zwar aus folgenden
 Gründen.
-Angenommen, das menschliche Genie erfindet heute oder morgen ein Instrument mit fixen Tönen, welches auf
 
-ein. bestimmtes Octaveverhältniss eingerichtet ist, so dass andere Tonarten durch Verlängern und Verkürzen der Saiten
-geschafft werden, dann kommen sicherlich die natütlichen exacten Schwingungssahlen anslalt der temperirten zur Geltung,
+Angenommen, das menschliche Genie erfindet heute oder morgen ein Instrument mit fixen Tönen, welches auf
+ein bestimmtes ÖOctaveverhältniss eingerichtet ist, so dass andere Tonarten durch Verlängern und Verkürzen der Saiten
+geschafft werden, dann kommen sicherlich die natürlichen exacten Schwingungszahlen anstatt der temperirten zur Geltung,
 weil jedweder Mensch die Brillanten den Glasstücken derselben Grösse vorzieht.
 
-Teider würden wir dann aber auf Molltonart, die uns lieb geworden ist, versichten müssen, weil, wie wir im
-folgenden Capitel sehen werden, auf natürlicher Leiter Mollquinte mit Durterze und Mollterze mit Dorquinte, — ebenso
-Mollprime und Octave mit resp. Duroctave und Prime zusammenfallen.  Deshalb existirt ja auf natürlicher Leiter, also
-z. Dh auf schwingender Saite nur eine Art aliquoter Obertöne (nämlich Dur), wenigstens so weit unsere Aufüssung,
-die an Rstufiger und t3theiliger Scaln gebunden ist, es benennen könnte.
+Leider würden wir dann aber auf Molltonart, die uns lieb geworden ist, verzichten müssen, weil, wie wir im
+folgenden Capitel sehen werden, auf natürlicher Leiter Mollquinte mit Durterze und Mollterze mit Durquinte, ebenso
+Mollprime und Octave mit resp. Duroctave und Prime zusammenfallen. Deshalb existirt ja auf natürlicher Leiter, also
+z. B. auf schwingender Saite nur eine Art aliquoter Obertöne (nämlich Dur), wenigstens so weit unsere Auffassung,
+die an Sstufiger und i3theiliger Scala gebunden ist, es benennen könnte.
 
-Fs würde also die Frage entstehen, ob man auf Molltonarten verzichten will, um völlig reine Nuturtone zu
-erhalten, oder ob an dieselben beibehält und Schwingungszahlenverhältnisse wählt, die otwe Tomperatur dem Ideale
+Es würde also die Frage entstehen, ob man auf Molltonarten verzichten will, um völlig reine Naturtöne zu
+erhalten, oder ob man dieselben beibehält und Schwingungszahlenverhältnisse wählt, die o4ze Temperatur dem Ideale
 möglichst nahe kommen und dabei dem Mollgeschlechte, mehr als die Temperatur es zulässt, gleiche Rechte wie dem
-Durgeschlechte einräumt,
+Durgeschlechte einräumt.
 
 Da wären dann für die 13theilige Leiter die Resultate der letzten Rechnung am Platze, welche, wie der Augen—
-schein zeigt, betreff Reinheit besser sind, als die der temperiten Scaln. Nach Einführung einer zrtheiligen Scala
+schein zeigt, betreffs Reinheit besser sind, als die der temperirten Scala. Nach Einführung einer 21theiligen Scala
 würde eine solche Art Theilung besonders reine Töne und Tonverhältnisse schaffen.
 
-Zum Schlusse dieses Capitels wachen wir noch darauf aufmerksam, dass alle vorstehenden Berechnungen
-ebensowohl für die Farhenleiter zur Anwendung kommen können, wie für Tonleiter. Wir bitten den freundlichen
+Zum Schlusse dieses Capitels machen wir noch darauf aufmerksam, dass alle vorstehenden Berechnungen
+ebensowohl für die Farbenleiter zur Anwendung kommen können, wie für Tonleiter. Wir bitten den freundlichen
 Leser, sich dieses Umstandes bei jeder Gelegenheit vergegenwärtigen zu wollen, da wir nach wie vor stets beide Arten
-Leitern meinen, wenn wir die eine oder die andere zur Entwicklung der neuen Theorie heranziehen. Die Paraliel—
-stellung von Ton— und Farbenleiter ist also nach jeder denkbaren Richtung hin berechtigt und zulüssig. Bei beiden
-sind wir in gleicher Weise gebunden, uns künstlich eine Anzabl. Einbeiten zu schaffen, weil wir die Unendlichkeit der
+Leitern meinen, wenn wir die eine oder die andere zur Entwicklung der neuen Theorie heranziehen. Die Parallel—
+stellung von Ton— und Farbenleiter ist also nach jeder denkbaren Richtung hin berechtigt und zulässig. Bei beiden
+sind wir in gleicher Weise gebunden, uns künstlich eine Anzahl Einheiten zu schaffen, weil wir die Unendlichkeit der
 
 Uebergänge anders nicht bewältigen können.
 
 Die Entwicklung der Tonleiter.
 
-Der beutige Begriff Tonleiter zeigt die Unzulänglichkeit der menschlichen Auffassung. | Die Nutur liefert auf
+Der heutige Begriff Tonleiter zeigt die Unzulänglichkeit der menschlichen Auffassung. Die Natur liefert auf
 Farben— und Tonleiter eine unendliche Anzahl Uebergangsintervalle, und haben dieselben nichts gemein mit irgend einer
-bestimmten Anzahl Einheiten. — Die 8, 13— oder 21—Theilung von Leitern wird also von der Natur nicht executirt,
-sondern ist gekünstelt. — Wohl aber setzt die Natur auf jede Leiter zuerst die mittlere Proportionale der ganzen Länge
-fest, dann die mittlere Proportionale von der Quinten—Spanne, damn die von der Terzen—Spanne und so ferner bis in
-die Unendlichkeit.  Aber das sind mathematisch gedachte Puncte oder Linien und, wohl verstanden, — keine Tonfelder.
-Nicht die mathematisch gedachten Endpuncte repräsentiven den Ton, sondern die Spannenlnge selbst, die vom Anfange
-der Leiter zu rechuen sind. Jeder Ton besitzt nicht nur sein Tonfeld vom vorhergehenden bis zum foigenden, sondern
-titt in Proportion zu andern Tönen mit der Länge seiner Spanne vom Anfaag des Octwveverhältnisses bis zum Ende
-seines Tonfeldes. Der Anfang der Leiter liegt für die Hällte der Töne am linken, für die andere Hälfte am rechten Ende,
+bestimmten Anzahl Einheiten. Die 8—, 13— oder 21—Theilung von Leitern wird also von der Natur nicht executirt,
+sondern ist gekünstelt. Wohl aber setzt die Natur auf jede Leiter zuerst die mittlere Proportionale der ganzen Länge
+fest, dann die mittlere Proportionale von der Quinten—Spanne, dann die von der Terzen—Spanne und so ferner bis in
+die Unendlichkeit.  Aber das sind mathematisch gedachte Puncte oder Linien und, wohl verstanden, keine Tonfelder.
+Nicht die mathematisch gedachten Endpuncte repräsentiren den Ton, sondern die Spannenlänge selbst, die vom Anfange
+der Leiter zu rechnen sind. Jeder Ton besitzt nicht nur sein Tonfeld vom vorhergehenden bis zum folgenden, sondern
+tritt in Proportion zu andern Tönen mit der Länge seiner Spanne vom Anfang des Octaveverhältnisses bis zum Ende
+seines Tonfeldes. Der Anfang der Leiter liegt für die Hälfte der Töne am linken, für die andere Hälfte am rechten Ende.
 
 Die vibrirende Seite zeigt uns, dass dies sich so verhält, nicht die Knotenpunkte geben den Ton, sondern der
 schwingende Ausfall der Spannen.
 
-Wenn wir also von 8, 13 oder 2itheiliger Scala sprechen, so verstehen wir die ganze Länge des Octaveverhält—
-nisses Zückenfrei in 8, 13 oder 21 Abschnitte getheilt, und ob wir dann gleich grosse oder ungleiche Tonfelder oder
-Intervalle wählen wollen, ist eine undere Frage. — Bei der musikalischen Leiter liegt es in der Natur der Sache, dass
+Wenn wir also von 8, 13 oder 21theiliger Scala sprechen, so verstehen wir die ganze Länge des Octaveverhält—
+nisses Zckenfrei in 8, 13 oder 21 Abschnitte getheilt, und ob wir dann gleich grosse oder ungleiche Tonfelder oder
+Intervalle wählen wollen, ist eine andere Frage. Bei der musikalischen Leiter liegt es in der Natur der Sache, dass

@@ -1,66 +1,58 @@
-Zu dem Zwecke zeigt Fig. 17 acht aneinandergereibte chromatische Tonleiter im Octavverhältniss C, wo also
-& zweimal nobeneinander kommt.  Links bezeichnet die Construction der mittleren Proportionalen die Durfactoren, rechts
-dagegen die gleiche Construction die Mullfactoren. Statt nun die mittlere Proportionale noch weiter als Octavlänge zu
+Zu dem Zwecke zeigt Fig. 17 acht aneinandergereihte chromatische Tonleiter im Octavverhältniss C, wo also
+c zweimal nebeneinander kommt. Links bezeichnet die Construction der mittleren Proportionalen die Durfactoren, rechts
+dagegen die gleiche Construction die Mollfactoren. Statt nun die mittlere Proportionale noch weiter als Octavlänge zu
 construiren, beliebe man lediglich die Tonfelder für die Lamé'schen Zahlen abzuzählen. Von beiden Enden also für
-die Octaylänge 1, 2, 3, 5, 8 und 13, dann über die erste Octaye hinans Platz 21, ferner 34, 55, 89. Weiter gelangen
-wir nicht mit unsern 8 Octuven. Da diese Rechnung nun nichts mit der Hörwcite des menschlichen Ohres zu thun
+die Octavlänge 1, 2, 3, 5, 8 und 13, dann über die erste Octave hinaus Platz 21, ferner 34, 55, 89. Weiter gelangen
+wir nicht mit unsern 8 Öctaven. Da diese Rechnung nun nichts mit der Hörweite des menschlichen Ohres zu thun
 hat, sondern nur darthun soll, welche Töne, abgesehen von der Höhe, nacheinander von der Mathematik als zusammen—
-gehörend. bestimmt worden, so bringen wir mit Fig. 18 eine gedrängtere Aufstellung, derart, dass jediglich die gesuchten
-Töne nebeneinander gestellt sind, jeder Platz also ein Lamé'sches Glied in regelrechter Folge repräsentirt. — Wir wollen
-hier nur nebenbei erwähnen, dass der r05., also letzte Platz, oder besser das 105. Glied der Laméschen Reihe einige
-Drillionen von Topciheiten chromatischer Grösse hält.
+gehörend bestimmt werden, so bringen wir mit Fig. 18 eine gedrängtere Aufstellung, derart, dass lediglich die gesuchten
+Töne nebeneinander gestellt sind, jeder Platz also ein Lamé'sches Glied in regelrechter Folge repräsentirt. Wir wollen
+hier nur nebenbei erwähnen, dass der 105., also letzte Platz, oder besser das 105. Glied der Lamé'schen Reihe einige
+Drillionen von Toneinheiten chromatischer Grösse hält.
 
-Gewiss ergebt es manchem unserer freundlichen Leser, wie es uns selbst erging. — Als wir uns bewusst wurden,
-dass die Töne, welche von der fortgesetzten Laméschen Reibe auf den aneinandergereihten verschiedenen Tonleitern
-getroffen. werden, für die Musik und ibre Erkenntniss von hochwichtiger Bedeutung sein müssten, da überkam uns ein
-gelinder Schuer, wenn wir die unendliche Länge der Zahlenreihe bedachten.
+Gewiss ergeht es manchem unserer freundlichen Leser, wie es uns selbst erging. Als wir uns bewusst wurden,
+dass die Töne, welche von der fortgesetzten Lamé'schen Reihe auf den aneinandergereihten verschiedenen Tonleitern
+getroffen werden, für die Musik und ihre Erkenntniss von hochwichtiger Bedeutung sein müssten, da überkam uns ein
+gelinder Schauer, wenn wir die unendliche Länge der Zahlenreihe bedachten.
 
 Aber die Erlösung aus diesem Alpdrücken erfolgte sofort, nachdem wir jede Reihe der 3 Tonleitern eine Strecke
-lang verfolgt hatten. Wir bemerkten für jede Art Leiter eine bestimmte, höchst eigenthünmliche Periodieität und kamen
+lang verfolgt hatten. Wir bemerkten für jede Art Leiter eine bestimmte, höchst eigenthümliche Periodicität und kamen
 zur Erkenntniss, dass die Harmoniegesetze sich innerhalb bestimmter Schranken systematisch bewegen.
 
-lis veprüsentiren in unserer Fig. 18 Reibe a diatonisch Dur, b diatonisch Moll, © chromatisch Dur, d chromatisch
-Moll, e harmonisch Dur, f harmonisch Moll. — Um nun aber anch diese Manipulationsart auf aneinandergereihter 12—theilige
-Tonleiter oAue Verdoppelung des Octav— resp. Prime—Tanes zu zeigen, fügen wir Reibe g und h hinzu, und beliebe der
+Es repräsentiren in unserer Fig. 18 Reihe a diatonisch Dur, b diatonisch Moll, c chromatisch Dur, d chromatisch
+Moll, e harmonisch Dur, f harmonisch Moll. Um nun aber auch diese Manipulationsart auf aneinandergereihter 12—theilige
+Tonleiter o4nxe Verdoppelung des Octav— resp. Prime—Tones zu zeigen, fügen wir Reihe g und h hinzu, und beliebe der
+gütige Leser aus den Figuren selbst die Unterschiede herauszufinden.
 
-gitige Leser aus den Figuren selbst die Unterschiede herauszufinden.
-
-Die diatoni
-2 54 14 = 28 Gliedern und die harmanische wieder eine kurze von 16 Gliedern. Jede Periode und chromatisch jede
-halbe Periode besteht aus zwei Abtheilungen, von welchen die erstere den bekannten Dreiklang des einfachen Octav—
-verhältnisses birgt, wührend die Ietztere in ganz analog liegender Weise einen Gegendreiklang liefert, über dessen
+Die diatonischen Reihen zeigen eine kurze Periodicität von 12 Gliedern, die chromatischen eine doppelte von
+2 > 14 = 28 Gliedern und die harmonische wieder eine kurze von 16 Gliedern. Jede Periode und chromatisch jede
+halbe Periode besteht aus zwei Abtheilungen, von welchen die erstere den bekannten Dreiklang des einfachen ÖOctav—
+verhältnisses birgt, während die letztere in ganz analog liegender Weise einen Gegendreiklang liefert, über dessen
 Zugehörigkeit zum tonischen Dreiklang wir im folgenden Capitel zu verhandeln gedenken.
-
-dhen Reihen zeigen eine kurze Periodicität von 12 Gliedern, die chromatischen eine doppelte von
 
 Die Grundzüge einer naturgemässen Harmonielehre.
 
-Das bisherige Tonsystem basit auf der Anschauung, dass aus dem DurDreiklang durch Trübung der Torze,
-d. i. das Emniedrigen derselben um eine chromatische Toneinheit, die Molltonart entsteht.  Ohne eine tiefer — gehende
-Erklärung gefünden zu haben, hiek man sich kramphaft an diese Auffässung und verirrte sich dann darin, noch recht
+Das bisherige Tonsystem basirt auf der Anschauung, dass aus dem Dur—Dreiklang durch Trübung der Terze,
+d. i. das Erniedrigen derselben um eine chromatische Toneinheit, die Molltonart entsteht. Ohne eine tiefer gehende
+Erklärung gefunden zu haben, hielt man sich krampthaft an diese Auffassung und verirrte sich dann darin, noch recht
 viele andere Trübungen zu gestatten.
 
-Dagegen ist das Hauptverdienst der neueo Theorie, die hier entfaltet werden soll, für jeden harmonischen
+Dagegen ist das Hauptverdienst der neuen Theorie, die hier entfaltet werden soll, für jeden harmonischen
 Dreiklang genau und unter allen Umständen denjenigen Abstand unangetastet zu halten, den die stetige Proportion
-oder der goldene Sehnitt durch den Vertreter: die Lamé'schen Zahlen, bestimmt.
+oder der goldene Schnitt durch den Vertreter: die Lamé'schen Zahlen, bestimmt.
 
-Ausdrücke, wie klein, vermindert, gross, übermät
-unsere Theoric nicht, sie arbeitet zur Bezeichnung der Dreiklänge ausschliesslich mit reiner oder vollkommener
+Ausdrücke, wie klein, vermindert, gross, übermässig, alterirt, falsch etc. für Glieder eines Accordes, kennt
+unsere Theorie nicht, sie arbeitet zur Bezeichnung der Dreiklänge ausschliesslich mit reiner oder vollkommener
 Prime, Terze, Quinte und Octave.
 
 Der harmonische Dreiklang ist die einzige Quelle aller Harmonie, er besteht aus Terze, Quinte und Octave
+und kann, wie schon häufiger erwähnt, die Prime als Wiederholung der Octave zur Verstärkung mit angeschlagen werden.
 
-sig, alterirt, falsch etc. für Glieder eines Accordes, kennt
-
-und kann, wie schon häufiger erwähnt, die Prime als Wiederholung der Öctave zur Verstürkung mit angeschlagen werden.
-Jedes Octavverhältniss, d. i. die Spaune von Prime bis Octavton, beide Töne cingeschlussen, enthält 2 har—
-monische Dreiklänge.  Auf chromatischer Leiter bestimmen die Zahlen 5 :
+Jedes Octavverhältniss, d. i. die Spanne von Prime bis Octavton, beide Töne eingeschlossen, enthält 2 har—
+monische Dreiklänge. Auf chromatischer Leiter bestimmen die Zahlen 5 :8 : 13, auf die Tonplätze angewendet, von
 links nach rechts den Dur—Dreiklang, von rechts nach links den Moll—Dreiklang.
-1s können sich zwei Dreiklänge aus verschiedenen Octavverhältnissen zu einem Klang vereinigen, jedoch nur
 
-:15, auf die Tonplätze angewendet, von
-
-für einen bestimesten Fall, um den Füntklung zu bilden. Derselbe entsteht also aus zwei combinirten Dreiklängen
-verschiedenen Geschlechts mit gemeinsamer Quinte. — Die Prime des zum tonischen Accord combinirten Dreiklangs ist
-
+Es können sich zwei Dreiklänge aus verschiedenen Octavverhältnissen zu einem Klang vereinigen, jedoch nur
+für einen bestimmten Fall, um den Füntklang zu bilden. Derselbe entsteht also aus zwei combinirten Dreiklängen
+verschiedenen Geschlechts mit gemeinsamer Quinte. Die Prime des zum tonischen Accord combinirten Dreiklangs ist
 dann stets die None, d. j. die 9. diatonische Stufe, also eine diatonische Toneinheit über die Octave hinaus.

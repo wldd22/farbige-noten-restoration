@@ -1,65 +1,69 @@
-Solange picht Instrumente erfunden werden, die, auf ein Octaveverhältniss basivend, die verschiedenen Ton
-arlen durch Verlängerung und Verkürzung der Saiten erzeugen, bleibt als einziger Ausweg, um wieder reinere Töne
-zu erhalten, weil wir dann die Temperatur ihrer Vortheile wegen festhalten müssen — cine temperitte Tonleiter mit
+Solange nicht Instrumente erfunden werden, die‚ auf ein Octaveverhältniss basirend, die verschiedenen Ton—
+arten durch Verlängerung und Verkürzung der Saiten erzeugen, bleibt als einziger Ausweg, um wieder reinere Töne
+zu erhalten, weil wir dann die Temperatur ihrer Vortheile wegen festhalten müssen — eine temperirte Tonleiter mit
+
 mehr als 12 Tönen einzuführen.
 
 Um nicht vorzugreifen, verschieben wir die Entwicklung solcher bereicherten Tonleiter auf später und betrachten
-uns vorerst noch recht genau die jetzt dominivende chromatische Leiter. Nur bei dieser bekannten Leiter ist es thun
+uns vorerst noch recht genau die jetzt dominirende chromatische Leiter. Nur bei dieser bekannten Leiter ist es thun—
 lich, die neue Theorie zu erklären und zu beweisen, und nehmen wir dazu zum Vergleichen bald den Hinweis auf die
-Sstußge diatonische, bald auf die zttheilige Zukunftsleiter,
+Sstufige diatonische, bald auf die 21theilige Zukunftsleiter.
 
 Wir zeigten im ersten Theile des Werkes, wie nach alter Lehre die Entstehung der Tonleiter erklärt werden
-könnte durch blosses Vervielfachen der Schwingungszahlen.  Nahmen wir auf den ersten Platz ein F mit x Schwingungen,
-so erhielten wir auf Platz 24 ein C mit 24x Schwingungen, dam auf Platz 27 das D mil 27x Schwingungen u. s. f.
-Piatz 30 für E, Platz 32 für F, Platz 36 für G, Platz 40 für A, P'latz 43 für H und Platz 48 für C, also genau die
+könnte durch blosses Vervielfachen der Schwingungszahlen. Nahmen wir auf den ersten Platz ein F mit x Schwingungen,
+so erhielten wir auf Platz 24 ein C mit 24x Schwingungen, dann auf Platz 27 das D mit 27x Schwingungen u. s. f.
 
-Schwingungszahlenverhältnisse. der alten Theoric:
-ts Y s a t We i Me i is f Mf i z. — Es sind die
+Platz 30 für E, Platz 32 für F, Platz 36 für G, Platz 40 für A, Platz 45 für H und Platz 48 für C, also genau die
+Schwingungszahlenverhältnisse der alten Theorie:
 
+1 : ”/s : 5/a : */ : /2 : / : 3/ : 2. Es sind die
 Multipla der ersten ganzen Zahlen 2, 3 und 5, die
 hier die Rolle spielen, während alle Primzahlen
-von 7 inelusive an kein Vielfäches liefern, welches
+von 7 inclusive an kein Vielfaches liefern, welches
 die Plätze für Töne nach dieser Rechnungsweise
-ML belegen würde. Das war neu und interessant zu
-ssx Gunsten der alten Theorie, doch können wir ledig—
-an lich die Unzulänglichkeit letzterer daraus folgern,
-da die Zahlen trotz ihrer Einfachheit keinerlei
+belegen würde. Das war neu und interessant zu
+Gunsten der alten Theorie, doch können wir ledig—
+BF :BG—BG:BH lich die Unzulänglichkeit letzterer daraus folgern,
 
-Bezug auf die wirklichen Tonplutzverhältnisse von
+fä;f£ da die Zahlen trotz ihrer Einfachheit keinerlei
 
-1 bis 13 verrathen. Dagegen erkonnen wir die
-Grundfactoren 2, 3, 5 als Glieder der Lameé'schen
-Zahlenreibe, und falien auch auf eben diese Ton—
-plätze solcher Reihen die Tüne des harmonischen
+Bezug auf die wirklichen Tonplatzverhältnisse von
+1 bis 13 verrathen. Dagegen erkennen wir die
+Grundfactoren 2, 3, 5 als Glieder der Lamé'schen
+Zahlenreihe, und fallen auch auf eben diese Ton—
+plätze solcher Reihen die Töne des harmonischen
 
 Dreiklangs.
 
-Ferner reprodueirten wir damals die be—
+Ferner reproducirten wir damals die be—
 kannte Berechnung des Intervalls x der chroma—
-tischen Leiter, also x — 475 und erhielten die
+tischen Leiter, also x — i72— und erhielten die
 
 Schwingungszahlen der temperirten Scala, also regel—
-mässig — progressivweise fortschreitend, in mathe—
-matischer. Schwebe.
+mässig progressivweise fortschreitend, in mathe—
+
+matischer Schwebe.
 
 Da wir zu den Beweisen für die Richtigkeit
-der neuen Theorie uns auch von solchem Temperstur—
+der neuen Theorie uns auch von solchem Temperatur—
 Verhältniss ein klares Bild verschaffen müssen, so
 versagen wir uns nicht, unsern Lesern durch eine
-geometrische — Construction : solchen = Vorgang — vor
-Augeo zu führen.
+geometrische Construction solchen Vorgang vor
+Augen zu führen.
 
-1# n Die grade Linie BC (Schue genannt) neben—
+Fig. . Die grade Linie B C (Sehne genannt) neben—
 stehender Fig. 1 hat eine gegebene Länge von 143,
-der Bogen BC ist in 13 egale Abschnitte getheilt, und hal jeder dieser Schnittpuncte seinen Strahl (Halbmesser) zum
+der Bogen BC ist in 13 egale Abschnitte getheilt, und hat jeder dieser Schnittpuncte seinen Strahl (Halbmesser) zum
 
 Centrum A.
-1s soll uun die Bedingung gestellt sein, dass Senkrechte vom 3. und 8. Schnittpunct des Bogens B58C auf
-die Schuc BC, diese von beiden Seiten in den goldenen Schnitt theilen, also von rechts nach links in Pünct S5, von
+
+Es soll nun die Bedingung gestellt sein, dass Senkrechte vom 5. und 8. Schnittpunct des Bogens B58C auf
+die Sehne BC, diese von beiden Seiten in den goldenen Schnitt theilen, also von rechts nach links in Punct S5, von
 links nach rechts in Punct S8.
-Daraus folgt: BS* : BS* = BS° : BC
-oder auch: CS® : CS® — CS® : CB
-und ist B5° = CS®.
-Da wir die ganze Länge der Schne 143 annehmen, so haben wir auch gleich die betreffenden Zahlen zur Hand :
-BS® oder CS® — S40misiss und
-SS° == gögsmnn.
+
+Daraus folgt: BS® : BS® == BSS : BC
+oder auch: CS® : CS$S = CS5 : CB
+und ist BS$ = CS®.
+Da wir die ganze Länge der Sehne 143 annehmen, so haben wir auch gleich die betreffenden Zahlen zur Hand:
+BS® oder CS® = 54‚,s2u1sses und
+55S$ = 33,7at720s.

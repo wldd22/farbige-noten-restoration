@@ -1,63 +1,57 @@
-20 Tömen, jedesmal mit dazu gehörendem Octavton. Bei allen Octaven solcher verschiedenen Gradutrung finden wir
+20 Tönen, jedesmal mit dazu gehörendem Octavton. Bei allen Octaven solcher verschiedenen Graduirung finden wir
 Gelb und Roth, also E und G, mitten um die zwei starken Linien vertheilt, die eben die mittlere Proportionale auf
-die Grundlinie zeichnen.  Würde man andere Zablen als 8, 15, 27, 34, 55, 89 etc. wählen, so würden E und G, also
-Gelb und Roth, mirhr auf diese Linien fallen.
+die Grundlinie zeichnen. Würde man andere Zahlen als 8, 13, 21, 34, 55, 89 etc. wählen, so würden E und G, also
+Gelb und Roth, z4Z auf diese Linien fallen.
 
-Die Basis dieser Veranschaulichnag ist die accuräte Theilung der Kreisbügen in $, 13 resp. 21 gicke Theile,
-und kommen zur Fixirung der Tonleiter nicht diese gleichartigen Bogeneintbeilungen in Betracht, sondern die Schnittpuncte,
-die auf der dem Bogen zukommenden Secante erzeugt werden, und zwar entweder durch Strablen von den Theilpuncten
+Die Basis dieser Veranschaulichung ist die accurate Theilung der Kreisbögen in 8, 13 resp. 21 g/ezcke Theile,
+und kommen zur Fixirung der Tonleiter nicht diese gleichartigen Bogeneintheilungen in Betracht, sondern die Schnittpuncte,
+die auf der dem Bogen zukommenden Secante erzeugt werden, und zwar entweder durch Strahlen von den Theilpuncten
+des Bogens zum Centrum, oder durch Parallele über diese Theilpuncte des Bogens rechtwinklich zur Secante. In beiden
+Fällen ist ein angemessenes Verhältniss zwischen Kreisbogen— und Radius—Länge erforderlich. Dann ist aber stets das
+Zusammenfallen von Terze und Quinte mit den Gliedern des goldenen Schnitts sicher, und höchst wahrscheinlich werden
+auch alle übrigen Töne in der gleichen Weise richtig verzeichnet.
 
-des Bogens zum Centram, oder durch Parallele über diese Theilpuncte des Bogens zechtwinklich zur Secante.  In beiden
-inge erforderlich.  Dann ist aber stets das
-
-Fällen ist ein angemessenes Verhältniss zwischen Kreisbogen— und Radius
-Zusammenfallen von Tetze und Quinte mit den Gliedern des goldenen Schnitts sicher, und höchst wahrscheinlich werden
-auch alle übrigen Tone in der gleichen Weise richtig verzeichnet.
-
-Der letztgenannte Fall, wo also die Parallelen auf die Sccante die Tonleiter verzeichnen, könnte Anwendung
-finden auf die schwingende Saite, falls nämlich diese die richtige Bogenswölbung zur Bogenlänge liefert. — Alsdann reprüsentirt
-die grade Mittellinie einer Doppelschwingung, wo also abwechseind nach oben und nach unten Büögen gebildet werden,
-das Feld der Oetave. Diese grade Mittellinic der Doppelschwingung ist die Secante des Bogens, auch die Lage der
+Der letztgenannte Fall, wo also die Parallelen auf die Secante die Tonleiter verzeichnen, könnte Anwendung
+finden auf die schwingende Saite, falls nämlich diese die richtige Bogenwölbung zur Bogenlänge liefert. Alsdann repräsentirt
+die grade Mittellinie einer Doppelschwingung, wo also abwechselnd nach oben und nach unten Bögen gebildet werden,
+das Feld der Octave. Diese grade Mittellinie der Doppelschwingung ist die Secante des Bogens, auch die Lage der
 ruhenden Saite.
 
-Dann entsteht der goldeue Schnitt auf der Hälfte einer graden Linie, wenn solche, in Schwingungen versetzt,
-Kreisbogenform annimmt und die einfache Theilung der gwwzen gebogenen Linie in 2, 3 und 5 gleiche Theile durch
+Dann entsteht der goldene Schnitt auf der Hälfte einer graden Linie, wenn solche, in Schwingungen versetzt,
+Kreisbogenform annimmt und die einfache Theilung der gaaxsex gebogenen Linie in 2, 3 und 5 gleiche Theile durch
 Verbindung der homologen Theilpuncte der 2 Kreisbögen einer Doppelschwingung der Linienhälfte Parallele bildet, die
-Schnittpuncte auf die Mittellinie der ersten rubenden Lage verzeichnen,
+Schnittpuncte auf die Mittellinie der ersten ruhenden Lage verzeichnen.
 
 So also treibt Mutter Natur Mathematik !
 
-Wir aber wollen. den gütigen Leser nicht ermüden und den weiteren Verfolg dieses Themas für spätere Gelegenheit
-aufbewahren. — Auch ist es nicht unsere Absicht, irgend einen Vorschlag zu einer Aenderung des Tonsystems zu machen,
-so verlöckend auch die Aussicht wäre, zu constatiten, dass solch neuer Dreiklang sich grösserer Reinheit erfreut, als
-der alte im Verhältniss T:1WVa:1Y2:2 oder 328 ;6601792 : 1O$6. So lange nicht noue Instrumente erfunden werden,
+Wir aber wollen den gütigen Leser nicht ermüden und den weiteren Verfolg dieses Themas für spätere Gelegenheit
+aufbewahren. Auch ist es nicht unsere Absicht, irgend einen Vorschlag zu einer Aenderung des Tonsystems zu machen,
+so verlockend auch die Aussicht wäre, zu constatiren, dass solch neuer Dreiklang sich grösserer Reinheit erfreut, als
+der alte im Verhältniss 1:1!'/4:1I!/%2:2 oder 528 :660 :792 : 1036. So lange nicht neue Instrumente erfunden werden,
 wo die Tonarten durch Verkürzung und Verlängerung der Saiten jedesmal nach Wunsch gestellt werden können, werden
-wir die tomperirte Tonleiter 528 : 655 : 791 : 1056 Lehalten.
+wir die temperirte Tonleiter 528 : 665 : 791 : 1056 behalten.
 
-Um die wahren Schwingungssahlen unseres neuen Accords auszurechnen, zerlegt inan die Spanne von II bis
-zum nächsthöheren C in die Verhältnisse des' goldenen Schnitts und zwar von beiden Endpuncten aus. 1H hat
-495 Schwingungen, nehmen wir au, diese Zahl ware guch für unser Verhältniss richtig, so haben wir als Länge der
-Spanne 1056 :493 —561, davon die mittlere Proportionale, giebt 346 für die Quinte und 2igss für die Terze,
-also zuzüglich 495 gäbe es für wirkliche Schwingungszahlen B42 und 709, falls nämlich jedes Plutzverhältniss in einer
-Öctave stets die gleichen Schwingungszahlendifferenzen hätte. Dem ist aber nicht so. Ein gleichmässiges Intervall
-gabe jedem Felde unserer alten Tonleiter 44 Schwingungen, also wie folgt:
+Um die wahren Schwingungszahlen unseres neuen Accords auszurechnen, zerlegt man die Spanne von H bis
+zum nächsthöheren C in die Verhältnisse des goldenen Schnitts und zwar von beiden Endpuncten aus. H hat
+495 Schwingungen, nehmen wir an, diese Zahl wäre auch für unser Verhältniss richtig, so haben wir als Länge der
+Spanne 1056> 495 = 561, davon die mittlere Proportionale, giebt 346,7: für die Quinte und 214288 für die Terze,
+also zuzüglich 495 gäbe es für wirkliche Schwingungszahlen 842 und 709, falls nämlich jedes Platzverhältniss in einer
+Octave stets die gleichen Schwingungszahlendifferenzen hätte. Dem ist aber nicht so. Ein gleichmässiges Intervall
+gäbe jedem Felde unserer alten Tonleiter 44 Schwingungen, also wie folgt:
 
-C Cis D Dis E F Eis [ Gis A Ais — 1V C
+C Cis D Dis E F Fis G Gis A Ais H C
 
-gaB — sya  Gi6 666 | jo4 748 zg2 836 BWo 924 | 968 iotz ro56
+528 572 616 660 7o4 748 792 836 880 924 968 1012 1036
 dagegen das alte Accordverhältniss :
 
-F n n ” — — — do36,
-
-wodurch die Terze um '/is, die Quinte aber um Vi) reducitt wird. — Verfahren wir ebenso mit obigen Zahlen, so erhalten
-wir für unser neues Accordverhältniss: 528 :605 ; 798 : 1056 Schwingungen. Nun erklärt cs sich, dass C und E trotz
-des Temperitens so gut consoniven und dass die Pianoslimmer den Ausdruck gebrauchen können: sie dürfen die Quinte
+528 —— —— —— 660 —— —— 792 — — — — ||[T056,
+wodurch die Terze um '/i5, die Quinte aber um '/9 reducirt wird. Verfahren wir ebenso mit obigen Zahlen, so erhalten
+wir für unser neues Accordverhältniss: 528 : 665 ; 798 : 1056 Schwingungen. Nun erklärt es sich, dass C und E trotz
+des Temperirens so gut consoniren und dass die Pianostimmer den Ausdruck gebrauchen können: sie dürfen die Quinte
 G beim Stimmen nicht ausschwingen lassen.
 
-Schliesslich sei woch erwähnt, dass der Verfasser nicht erfahren konnte, ob eine Tonleiter von 20 Tönen wirklich
-existirt. — Man liest von einer enbarmonischen Tonleiter mit Vierteltönen, guch sollen die Chinesen und die Araber
-Vierteltöne verwenden, wie viele solcher Vierteltäne jedoch auf eine Octave kommen, ist nirgends zu finden. Wir
-behaupten aber, dass Tonleiter mit mehr als 12 Tonen, fälls sie sich überhaupt eines vernänfigen Systems erfreuen, in
-
+Schliesslich sei noch erwähnt, dass der Verfasser nicht erfahren konnte, ob eine Tonleiter von 20 Tönen wirklich
+existirt.  Man liest von einer enharmonischen Tonleiter mit Vierteltönen, auch sollen die Chinesen und die Araber
+Vierteltöne verwenden, wie viele solcher Vierteltöne jedoch auf eine Octave kommen, ist nirgends zu finden. Wir
+behaupten aber, dass Tonleiter mit mehr als 12 Tönen, falls sie sich überhaupt eines vernünftigen Systems erfreuen, in
 der That 20 Grade zählen oder gar die darauf folgende Scala von 33 Tönen bekleiden.
-

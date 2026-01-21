@@ -1,51 +1,57 @@
-Diese Terznoten bilden Jediglich ein Pendaut zu den Quintkuoten, weil der Mittelpunct der Saite die End—
-station beider Oetavverhältnisse, also der Octavcknotenpunct, ebenfalls als Ausgangspunct die ganze Octavspanne in
-den goldenen Schuitt zeriegt. Ferner aber ist jeder Terzknoten von den Endpuncten der Saite aus als mittlere
-Proportionale der Quintenspanne anzusehen, Wir haben hier den Fall umgekehrt: von den 3 Wellenschlägen BG, GR
-und RB bat der mittlere die kleinere Länge als Secundenschwingung, und findet diese Erscheinung ihre folgerichtige
-Erklärung in der weiteren Fortsetzung, wo sich aus solcher symmetrischen j—Theilung die symmetrische 5—Theilung:
-entwickelt, indem die beiden Terz—Abschnitte wieder in Secunde und die nächst höbere Ordnung zerfallen.
+Diese Terznoten bilden lediglich ein Pendant zu den Quintknoten, weil der Mittelpunct der Saite die End—
+station beider Octavverhältnisse, also der Octaveknotenpunct, ebenfalls als Ausgangspunct die ganze Octavspanne in
+den goldenen Schnitt zerlegt. Ferner aber ist jeder Terzknoten von den Endpuncten der Saite aus als mittlere
+Proportionale der Quintenspanne anzusehen. Wir haben hier den Fall umgekehrt: von den 3 Wellenschlägen BG, GR
+und RB hat der mittlere die kleinere Länge als Secundenschwingung, und findet diese Erscheinung ihre folgerichtige
+Erklärung in der weiteren Fortsetzung, wo sich aus solcher symmetrischen 3—Theilung die symmetrische 5—Theilung
+entwickelt, indem die beiden Terz—Abschnitte wieder in Secunde und die nächst höhere Ordnung zerfallen.
 
 Doch nur unter Vorbehalt dürfen wir von 5—Theilung reden, da dieselbe sich stets in eine 2— und eine
-3—Theilung zerlegen lässt.  Die folgende Reibe macht uns das klar
-4) Knotenbildung der Secunde B. .. . V. . G. 222 R. 2Lu l 2B v Vl 2 G l 222 R Ls l 2B
+3—Theilung zerlegen lässt. Die folgende Reihe macht uns das klar:
 
-Da haben wir zwischen B und B freilich die 5 Abschnitte der symmetrischen Linic, doch bemerkten wir
-bereits, dass die Endpuncte der Quintenspannen ebenfalls das Rcht beanspruchen, mittlere Proportionalen zu fiiren.
+4) Knotenbildung der Secunde B .. .. V ..G....R..L.2..10B....V..Gl....R..L.. .. .B
 
-Fip s
+Da haben wir zwischen B und B freilich die 5 Abschnitte der symmetrischen Linie, doch bemerkten wir
+bereits, dass die Endpuncte der Quintenspannen ebenfalls das Recht beanspruchen, mittlere Proportionalen zu fixiren.
 
-A. Die Oetevschwingung
+Fig. 3.
+DD'
 
-B. Die Quiseehwisgung > 220 3
-in awei möglichen Arten. /
+— | AB: AC—AC : AD
 
-Die Terzschwingung, G — _/\n\__/
-De zihellige symmelrinche R
-sie
+F. |B IAC \ _D
 
-p
+:D'
 
-D, ie Sccundenschwingumt
-Die giheilige spame
-aus der güheil, somm. 1
+A. Die Octavschwingung
 
-Also wenn vom Endpunct B das G gelegt wird, so liefert die Endstation R. der Quintenspanoe als gleichartiges Pendant V.
+B. Die Quintschwingung P e
+
+in zwei möglichen Arten.
+
+C. Die Terzschwingung.
+Die ztheilige symmetrische
+Linie
+
+D. Die Secundenschwingung.
+Die gtheilige symmetrische
+aus der ztheil. symm, Linie
+
+Also wenn vom Endpunct B das G gelegt wird, so liefert die Endstation R der Quintenspanne als gleichartiges Pendant V.
 In ganz gleicher Weise wird L geliefert, wenn man die Quintenspanne GB vornimmt.
 
-Eine 2—Theilung kommt also mur bei Bildung des Knotens für Octavton vor als Theilung der ganzen Saite
-in zwei gleiche Octavverhältnisse. Wenn wir vordem erwähnten, die 5—Theilung zerfiele in eine 3— und eine
-2—Theilung, so haben wir jetzt gesehen, wie solche 2—Theilung zu einer zweiten 3—Theilung gehört, weil der mittlere
+Eine 2—Theilung kommt also nur bei Bildung des Knotens für Octavton vor als Theilung der ganzen Saite
+in zwei gleiche Öctavverhältnisse. Wenn wir vordem erwähnten, die 5—Theilung zerfiele in eine 3— und eine
+2—Theilung, so haben wir jetzt gesehen, wie solche 2—Theilung zu einer zweiten 3—Theilung gehört, we1] der mittlere
 Abschnitt zweimal, also für jede neue 3—Theilung einmal zu nehmen ist.
 
-KNun ist es klar, welch. eine exchisive Stellung die Octavschwingung gegenüber den übrigen Oberlönen ein—
-nimmt, und weshalb wir wns sträuben, sie überhaupt darunter zu rechnen.
+Nun ist es klar, welch. eine exclusive Stellung die Octavschwingung gegenüber den übrigen Obertönen ein—
+nimmt, und weshalb wir uns sträuben, sie überhaupt darunter zu rechnen.
 
-Die Natur bedient sich betrefs der Welleneintheilung der schwingenden Materic also ausser der Octave—
-schwingung lediglich der goldenen Drei.  Diese emninent einfache Theilung giebt den Schlüssel zum geheimmissvollen
-Wesen der Osciliationenl
+Die Natur bedient sich betreffs der Welleneintheilung der schwingenden Materie also ausser der Octave—
+schwingung lediglich der goldenen Drei. Diese eminent einfache Theilung giebt den Schlüssel zum geheimnissvollen
+Wesen der Oscillationen!
 
 Man hat die Figur, welche durch eine doppelte Octavschwingung gebildet wird, wo also die eine Hälfte nach
-oben, die andere nach unten ausschlägt, die Schönbeitslinie geuannt, und haben wir jetzt Ursache, derselben einige
-andere, die sich besonderer Symmetrie erfreuen, als ebenbürtig an Wichtigkeit binzuzufügen, siche Fig. 5.
-
+oben, die andere nach unten ausschlägt, die Schönheitslinie geuannt, und haben wir jetzt Ursache, derselben einige
+andere, die sich besonderer Symmetrie erfreuen, als ebenbürtig an Wichtigkeit hinzuzufügen, siehe Fig. 3.

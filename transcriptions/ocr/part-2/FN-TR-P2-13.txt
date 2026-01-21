@@ -1,72 +1,74 @@
-Der Halbmesser AB = 19350
+Der Halbmesser AB
+Die Sehne BC.....
+Der Winkel BAC..
 
-Die Schne BC..... — 143 genau wie bei Fig. 1.
-Der Winkel BAC.. == 43g*2t! rs"J
-Um nn den Bogen BC in dem Verhältnisse zu theilen, wie Sehoe der Fig. 1, mulüplieien wir jeden Ab—
-schnict der letzteren mit X = Tyosws, welches dem Verhältniss von Bogen zur Sehne bei der Grösse des obigen
-Centriwinkels entspricht
-Ba' = (ogereas — afk” == so aa — 11,.wns
-ab => atee — at —> d hosee — aa == Missesise
-alad == atleeisen — le aa —
-alet —> 1 1 eos aV == 1 uoii
-afm REZS #C — tomieme
-Baf — pesser a'am == geeereie a5C 55.neaoe
+193,3c6377 l
+I43
+430 21'18”
 
-Dann ist Ba” = goe und arc B
+l genau wie bei Fig. 1.
 
-14Gas
+Um nun den Bogen BC in dem Verhältnisse zu theilen, wie Sehne der Fig. 1, multipliciren wir jeden Ab—
+schnitt der letzteren mit x = I‚os45», welches dem Verhältniss von Bogen zur Sehne bei der Grösse des obigen
 
-Je 3 Zahlen stehen in genauem steligem Proportions—
+Centriwinkels entspricht.
 
-verhältniss: 9ogenta > Joprene == I4éasoarc > Syeamees,
-ferner goywnna ++ SSysasmer => 14fasare
+Wir erhalten auf BD folgende Abschnitte:
+
+Ba! = IO,s42045 aY'a5 == Il,519071 aa = I11,1c0515
+ala® == 1lI‚,os3s79 aba't = I IT,ssse1o aY a19ö == I I,psesiss
+a'ab = 1 1,er7e00 a'laf = Mi,o | atet = 11987290
+a'at =: I l,sesiss alla!? = I l1‚,ossste
+a'tab — 11p400513 a'?C == 1O,942043
+Ba” = 55‚j91c362 aa = 3b4geö7e73e a'C == 55,946362
+Dann ist Ba® == g9o,ses14 und arc BC = 146,459176.
+
+Je 3 Zahlen stehen in genauem stetigem Proportions—
+verhältniss: 9gO,sess114: > 9O,ses114 — I46G,aoat6 >< 55,94163525,
+ferner go,s2es114 —| 55,916s62 == I146,109476.
+
 Während wir nun wieder, um möglichst kurz zu
-
 bleiben, die Berechnung der jetzt verschiedenen 13 Centri—
 winkel, die den ersten Schritt zur weiteren Entwicklung
 abgiebt, für uns behalten, nennen wir ohne Weiteres die
-Abschnitt> der Sehne BC, welche durch Senkrechte von den
-Bogenabschnitten zur Sehne, auf dieselbe entslehen; es sind :
+Abschnitts der Sehne BC, welche durch Senkrechte von den
+Bogenabschnitten zur Sehne, auf dieselbe entstehen; es sind :
 
-== 10,mus HE S'59 = ttanen
+Bs! == 1O,1g210s s's' == I I,40g983 s's9 == II,sti94
+s'is* = IO,578440 s's't == Il‚sseoso s's'' == ILI‚1s9240
+ste5 = IO,orsiSS s'is8 — I 1I,‚,496083 si'%s!! = 1O,9r1s7ss
+s'%s't = Ilpisee4o s!!lg!®' = 1O,978440
+s'is8 = I1l‚stion s'°C = 1O,1s2108
+Bs'” == 54,234 s2 s'S3 = 34,530806 s°C = 54,234552
 
-10 sseie 17 esse ss == kiuee
+das macht zusammen I43.
 
-— (Osmmss = Tlgoreens — SWSÖU — 1Oponerse
-T1aseseo Ps 10i
-
-S'st = 1tmeu S'°C — roee
-Sdme ss s 34issosse sSC = G4mase
-
-das macht zusammen 143.
-
-Ueher diese Sehnen—Schniltpuncte sind von A aus
+Ueber diese Sehnen—Schnittpuncte sind von A aus
 Strahlen zu legen, die von der Transversalen BD aufgefangen
-werden, unter der Bedingung, dass das erste Feld BU nur
-halb so gross wird, als der letzte Abschnitt +#D. — Es zeigt
+werden, unter der Bedingung, dass das erste Feld Bt! nur
+halb so gross wird, als der letzte Abschnitt t!*D. Es zeigt
 sich, dass die Neigung der Transversalen zur Sehne jetzt
-ie e anders ausfällt als bei Fig. 1. Damals war << CBD =
-249 59° 165 und hier 249 55t 22°*,
+anders ausfällt als bei Fig. 1. Damals war <x CBD =
+24° 59' 16°” und hier 24° 55' 22°”.
 
-Wir crhalten auf BD folgende Abschnitte:
+Bt! = 9,092859 t't! — I4,16es12 t°t? = IG6,soo72s
 
-B Opasses T4acesr 1L == 1G,soores
-CP = 1ogma Brab anderm © == 17esen
-kt == 1 Toccason 1H = Iöoseisn 197 >> 1 Bsenso
-Db” —> Töganss UA == 18,esim
-UB == rpoiem v7D
-1e Zuasenze Bid 45 ueases ©”D
+t't? = 1O,347141 t't' = 15,074649 t't!?° == 17,5s4st1
 
-und ist die ganze Länge der Transversalen B1D == Igä,ams.
+t't3 == I1‚,azssoo t't? = IG5pyssise t!t!! == 18,288735
 
-Zur Berechnung der Schwingungszahlen (528 für die Prime) haben wir wieder BD + Bt' —— 193.amme + Ds
-== 183mus: für 528 Schwingungen auf die 12 Abschnitte zu vertheiten,
+ttt = 12g,sseatss t1t!? = 18,so778o
 
-Hat die Prime — C = B vul uu el ei ue uu u uu zus uu 2222 — 528 Schwingungen, so erhält
-Cis — Se 528 4 3o ... l — 35B do.
-» Secunde D == Ver $28 4 30 | 3äulcll ve ee ee ie u 391 do.
-Dis = Mo 528 4 30 4 33cB 36......... 627 do.
-+ Terze / E — Gel 328 4 30 4 35 4+ 36 4 382 os do.
-> Quarte | F Or 528 49 tg7 Frane — 706 do.
-== Ner 528 4 137 4 41 4 43 202..... 749 do,
+Bt? = 57,230289 t't3 — 45,199643 tD = 9gouystsse
+und ist die ganze Länge der Transversalen BD = 193,407284.
 
+Zur Berechnung der Schwingungszahlen (528 für die Prime) haben wir wieder BD —+ Bt! = 193,497284 —+ 9,e9z350
+= 183142 für 528 Schwingungen auf die 12 Abschnitte zu vertheilen.
+
+Hat die Prime C = Blu ........ aa ke ke ke ke aa ke e 4 528 Schwingungen, so erhält
+Cis = Se 528 —[ 30 .2............elssse.le...... .. . == 55B do.
+» Secunde D == Ver 528 + 3o + 33..... nn = 591 do.
+Dis == Mo 528 + 30 + 330F 36 ........... ..... == 627 do.
+» Terze E = Gel 528 4+ 3o + 33 4+ 36 4+ 38 ........... = 665 do.
+» Quarte F = Or 528 4+ 137 F 41 ........................ = 706 do.
+Fis = Ner 528 + 137 4+ 41 4+ 43 ................. = 749 do.

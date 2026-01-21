@@ -1,67 +1,62 @@
-muss das Intervall eines Tones so viel mal als Factor wiederholt das Schwingungsverhältniss 2
+muss das Intervall eines Tones so viel mal als Factor wiederholt das Schwingungsverhältniss 2 (das des Octavtons)
+geben, wie die Octave eben Toneinheiten besitzen soll. Die gesuchte Grösse des Intervalls nennen wir x. Alsdann
 
-(das des Octavtons)
+ist dasselbe bei diatonischer Leiter ]7/'2 also x = I‚,10409.
+Hat die Prime |C = Blt... .. .. .0. .. s ee e e e e ee . 528 Schwingungen, so erhält
 
-Alsdann
+> Secunde D == Ver x = I‚10109 X 528............ = 583 do.
+> Terze _E = Gel x' = I,zigo1s X 528............ —= 644 do.
+» Quarte F —— Or x == I,sasoce X 528...........0. = 711 do.
+» Quinte G = Ros x' = I‚,assoo7 >X 528............ = 785 do.
 
-geben, wie die Öctave ehen Toneinheiten besitzen soll. Die gesuchte Grösse des Intervalls nennen wir x.
-ist dasselbe bei diatonischer Leiter 72 also %x = Lmm.
-Hat die Prime C —— Blu. .. .. .. .. ... zke ke n ee ee 528 Schwingungen, so erhält
-> Secunde D = Ver x Trioame 0 526222222222 583 do.
-> Terue — E == Gel xt Tyeieis > 528. .. — 644 do.
-3 Quarte 15 == Or ot == Tygsser > 528.2....... = ui do.
-> Quinte G == Ros —— Tyanegen > 528. . 785 do,
-— Sexte A l x° 1,odobre > 528. . .. 866 do.
-+ Septime H In | xS Lenes >X 528. . 956 do.
-+ Öctave C Blu x” 2 aos > 528 . . = 1056 do.
+Sexte A = Lil x = I,c14067t4 X 528............ == 866 do.
+» Septime H == In |x = I,ema4se X 528......0.0.0.0.00 = 956 do.
+» ÖOctave C = Blu x' = 2,000006 >X 528............ = 1056 do.
 
-Die detaillirte Berechnung der rztheiligen tomperirten chromatischen Toulei
+Die detaillirte Berechnung der i:3theiligen temperirten chromatischen Tonleiter brachten wir im ersten Theile,
+und für die nächstfolgende 21theilige Scala stellt sich die Rechnung wie folgt:
 
-und für die nächstfolgende zrtheilige Scala stellt sich die Rechnung wie folgt:
+Das Intervall x = V'2_ == I1,095265.
+Hat die Prime C = Blu oder B wie immer......................... 528 Schwingungen, so erhält”
+der 2. Ton Blus > Bs x — I,osszes X 528 ........... = 547 do.
+> ||3. 3> Cis — Se » 5 x' — I‚,otitise >< 528 .........0.0. == 566 do.
+» 4. 3 Sev D Sy x — I‚,1095697 >< 528 ........... == 586 do.
+5. > die Secunde D = Ver » V xf = I,r1ssesst >X 528 ........... = 607 do.
+» |6. > Dis = Mo > M x° == I‚,1so2o7e A< 528 ........... = 628 do.
+7. |» Mog > Mg x'” = I‚,2sm44 X 528 ...0.0.0..0.0.00 = 650 do.
+> 8. > die Terze |E = Gel > G x' = I,27ascot X 528 .........010. = ©673 do.
+3 |Q 3 Go > Go x$ == 1,7eses > 528 ........... = 697 do.
+» 10. » die Quarte F = Or > O |x — I,seso40s X 528 ...1........ = 721 do.
+» II. |> Fis = Ner > N x!' — T,a4e14 >X 528 ....1..0.0... == 747 do.
+> 12. |> Nor > Nr x!'—= I‚,d4use > 528 .......0.0.0.9. = 773 do.
+» 13. > die Quinte G = Ros > R x!'= L,siusmat X 528 ......... . = 800 do.
+» 14. > Roc 3> Rec x!3—= I,seo1e0 X 528 ........... = 828 do.
+» 15. 3» Gis = Car > C |x!kt—=— Ii‚se1s0e X> 528 ...1.1....... = 858 do.
+» 16. > die Sexte A = Lil > L | x!' — T,sai7ios X 528 ...1.....1... = 888 do.
+> 17. 0> Lip > Lp x!'—= h,7au7toe X 528 ..........0. = 9gig do.
+> 1I8. » Ais = Pen > P x!'= I‚,soesoe X> 528 ........... = 952 do.
+> 19. > die Septime H == In > 1 | x'3—= I‚,sesoer >< 528 ..........0. = 985 do.
+» 20. >» Ib > Ib x'P = 1,9siet4 X 528 ...1.10....0.0 == 1020 do.
+> 21. > die Octave C = Blu > B |x == 2,000001 X 528 .....1..0...01 == 1056 do.
+Die darauffolgende 34theilige Leiter hat x = i}5‘ == I‚o212s7t. Hat die Prime 528 Schwingungen, so erhält
+die Terze x!' = I,2se66s >X 528 ........... == 679 do.
+» Quinte x'* = I‚s2200s > 528 ......1..... —= 804 do.
+» ÖOctave x = 2 > 528 ........... = 1056 do.
+Die jetzt kommende S5theilige Leiter hat x == f}2— == I‚12919. Hat die Prime 528 Schwingungen, so erhält
+die Terze x? = I1‚,292681 >X 528 ........... == 683 do.
+» Quinte x'° = I,se74se X 528 ...1.1.0.0...0 = 806 do.
+» Öctave x'' = 2 X 528 2... 2..... == 1056 do.
 
-äter brachten wir im ersten Theile,
+Nunmehr haben wir 5 Tonleiter beisammen und können die Hauptfactoren also Prime, Terze, Quinte und
 
-Das Intervall x = i‚72' — T yoasoss.
-Hat die Prime C == Blu oder B wie immer. . 328 Schwingungen, so erhält”
-der — 2. Ton Blus + Bs xc — Tyomaes >< 528 .. = s47 do,
-+ g= Cis — Se — > 8 ox — Lonmes >< 528 566 do,
-C ie Sev — » — Tyronsen > 528 . 586 do,
-5. » die Secunde D = Ver + 1guaemer >< 528 2 .. 22222 2. Go7 do.
-k 6 03 Dis =— Mo > Trmaore > 528 . = 628 do,
-F Mog > Tomeis >< 528 . — 6530 do.
-» 8, » die Terze | E — Gel + — Tyarasoor ><, 528 . = 673 do.
-3 0. 3 Go |> Eynnosen < 528 = Go7 do,
-k 10. s die Quarte |F == Or | » Tysoeoass > 528 = gt do.
-2 1n 3 Fis — Ner > zma > 528 = 747 do.
-3 1m 3 Nor + Tmamse < 538 .. .. .. = 773 do.
-» 13. » die Quinte G = Ros » Imimat > 328 2222222 = 8oo do,
-3 14 > Roc —> eoren > 528 222222222 = Be8 do.
-+ o1p > Gis —> Car —> Tyenanen ><, 528 . .. => B58 do.
-+ 16. > die Sexte | A —— Lil + Toemersn > 528 .. = 888 do.
-D s A) Lip > Treizen > 528 . 91g do.
-+ 18. 9 Ais = Pen > wwonsen > 528 . 952 do.
-> 19. » die Septime H == In » Iooseoen > 52B .. 2222 .. — 985 do,
-+ 20. 3 Ib |> b Tommame > 528 . . . — 1o20 do.
-+ 21. & die Octave C == Blu r B mB — Zonwor > 528 = z056 do.
-Die darauffolgende 3ätheilige Leiter hat x == ([}g” = T‚st.  Hat die Prime 528 Schwingungen, so erhält
-die Terze Txmeoes , 528 — 679 do.
-» Quinte Tyoenons > 528 —= Ro4 do,
-> Oetave x”” 2 X 528 .. — rog6 do.
-Die jetzt kommende g$theilige Leiter hat x = {;; == Lorsm. Hatdie Prine 528 Schwingungen, so erhält
-die Terze Xx — Taees > 528 ..... = 683 do.
-> Quinte x” — Tynase X 528 806 do.
-> — Octavex®! — 2 X 528 = ios6 do,
+Octave confrontiren :
+Diatonisch entsprechen die Tonplätze 1, 3 : 5 : 8 den Schwingungszahlen 528 : 644 : 785 : 1056
 
-Nunmehr baben wir 5 Tonleiter beisammen und können die Hauptfactoren, also Prime, Terze, Quinte und
-
-Octave confrontiren:
-
-Diatonisch entsprechen die Tonplätze t, 3 : 5 : 8 den Schwingungsrahlen 528 : 644 : 785 : 1050
-Chromatisch » > — 105308 a3 9 » 538 : 665 : zur : ro56
-Harmonisch > + > 1‚ 8i o3 gar » gaB : G73 : Boo : 1056
-34heilig — » » t, a3 s z6t 34+ — 528 : 679 : Bo4 : 1036
-ggtheilig » » » 1 26 i 34 : 5$ 9 » 528 : G83 : 8o6 : ros6
+Chromatisch P » » I‚, 5 : 8 : I3 |> » 528 : 665 : 79I : IOSÖ
+Harmonisch » » » 1, 8 : 13 : 21 > » 528 : 673 : 800 : 1056
+34theilig » » » I‚, 13 : 21 : 34 39 » 528 : 679 : 804 : 1056
+SStheilig » » » 1‚, 21 : 34 : 55 3 » 528 : 683 : 806 : 1056
 
 Aus dem Umstand, dass die Schwingungszahlen von Terze und Quinte mit jeder folgenden Scala stets kleinere
 Differenzen aufweisen, und wir unsere Rechnung auf ungetheilte Schwingungszahlen beschränken, lassen sich mit
-zweifelloser Sicherheit die Schwingungszahlen des barmonischen Dreiklangs auf natürlicher Tonleiter mit unendlicher
+zweifelloser Sicherheit die Schwingungszahlen des harmonischen Dreiklangs auf natürlicher Tonleiter mit unendlicher

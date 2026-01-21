@@ -1,68 +1,53 @@
 Was die neue Theorie bringt und enthüllt. —
 
-Maito: Das Alte stürzt, cs ändert sich die Zeit,
-Und neues Leben Wläht ess den Kuinen.
-(Sichüler.)
+Motto: Das Alte stürzt, es ändert sich die Zeit,
+Und neues Leben blüht aus den Ruinen.
+{Schiller.}
 
-ontniss
+tt «
 
-bringen,
-so geschicht es, um zu zeigen, dass dieselben an massgebender Stelle hätten recht wohl aus den im ersten
+@ Eenn wir hier bei Beginn des zweiten Theils unseres Werkes gleichsam ein Register der neuen Erkenntnisse bringen,
+so geschieht es, um zu zeigen, dass dieselben an massgebender Stelle hätten recht wohl aus den im ersten
+Theil gegebenen Andeutungen als Consequenz gezogen werden können; wir fallen also nicht mit der Thür ins
 
-@ EÄ ”Theit gegebenen Andentungen als Consequenz gezugen werden können; wir fallen also nicht mit der Thür ins
-
-ch—
-
-Haus, sondern ziehen ein Facit aus dem bisher Gebrachten und geben eine Uebersicht von dem, was wir mit Na
+Haus, sondern ziehen ein Facit aus dem bisher Gebrachten und geben eine Uebersicht von dem, was wir mit Nach—
 
 folgendem bekräftigen und beweisen wollen.
-No. 1. Die bisherige Annahme der diatonischen Tonverkätltnis
-Ve > 2 war verkeirt! Nur der goldene Schnitt vermag auf einem Tonleiter— nder Octave—
-Er bestimmt in ganzen Zahlen, also bei Verzicht auf Bruchtheile, vor jedise
 
-as Mn s Me i MJa i Bie s fn : 9ty o 2 und . des
-
-Avcordverkältnisses: 34
-verbältniss die Töne richtig zu fixiren
-KEndpunct der diatonischen 8— (nicht 7—) theiligen oder stufgen Leiter die Plätze 1:2:3:5:8, das sind die Anfangs
+No. 1. Die bisherige Annahme der diatonischen Tonverhältnisse: 1 : °}s : Ja : M8 : 9]2 : 4s : Eg : 2 und | des
+Arcordverhältnisses: 1 : Ma : '}2 : 2 war verkehrt! Nur der goldene Schnitt vermag auf einem Tonleiter— oder Octave—
+verhältniss die Töne richtig zu fixiren. Er bestimmt in ganzen Zahlen, also bei Verzicht auf Bruchtheile, vox jedene
+Enudpunct der diatonischen 8— (nicht 7—) theiligen oder stufigen Leiter die Plätze 1: 2 :3:5 : 8, das sind die Anfangs—
 glieder der Lamé'schen Zahlenreihe, und werden so dadurch alle 8 diatonischen Töne regelrecht getroffen, so dass diese
-Scala, genau wie die 7 Regenbogenfarben, deshalb am deutlichsten aus der Unendlichkeit der Ton— und Farben—Geber—
-gänge hervortritt und /ür alle Leiter irgend welcker rationellen Eintheitung die Gesangs— oder Melodie—Leiter bildet.
-Ko. 2. Es war ein Pehler, Yonverkältnisse durch Schwingungssakten zu bestimmen. Tonhöhe ist Schwingungs—
+Scala, genau wie die 7 Regenbogenfarben, deshalb am deutlichsten aus der Unendlichkeit der Ton— und Farben—Ueber—
+gänge hervortritt und für alle Leiter irgend welcher rationellen Eintheilung die Gesangs— oder Melodie—Leiter bildet.
+
+No. 2. Es war ein Fehler, Tonverhältnisse durch Schwingungszahlen zu bestimmen. Tonhöhe ist Schwingungs—
 zahl, aber dem Verhältniss einer Schwingungszahl zur andern liegen nicht allzuleicht zu entwirrende Verrechnungen
-zu Grunde. — Nur die Stellung der Töne innerhalb eines Octaveverhältnisses bringt die Zugehörigkeit nach Massgabe der
-Die Tonart ist aufzufassen als Charakter eines Tonleiter— oder Octuveverhältnisses,
-
-mittleren Proportionalen zur Geltung.
+zu Grunde. Nur die Stellung der Töne innerhalb eines Octaveverhältnisses bringt die Zugehörigkeit nach Massgabe der
+mittleren Proportionalen zur Geltung. Die Tonart ist aufzufassen als Charakter eines Tonleiter— oder Octaveverhältnisses,
 und jeder Ton wird gemessen durch die Entfernungsspanne vom Anfange dieses Verhältnisses an, z. B.: die Spanne
-zur Quinte ist mittlere Proportionale von der ganzen Länge der Leiter, die Spanne vom Anfange
-
-vom Anfange bis
+vom Anfange bis zur Quinte ist mittlere Proportionale von der ganzen Länge der Leiter, die Spanne vom Anfange
 bis zur Terze ist mittlere Proportionale der Quinten—Spanne etc.
 
-No. 3. Geht ein Verhältniss zweier Töne über den Octaveton hinaus, so muss zur Herechnung der Z
-gehörigkeit dieser Töne als Glieder einer Proportion bei Aueinanderreilung zweier Öctavelängen der Octavton der
-eimal und nebeneinander!
+No. 3. Geht ein Verhältniss zweier Töne über den Octaveton hinaus, so muss zur Berechnung der Zusammen—
+gehörigkeit dieser Töne als Glieder einer Proportion bei Aneinanderreihung zweier Octavelängen der Öctavton der
+ersteren neben der Prime der zweiten stehen, also deuselben Ton zweimal und nebeneinander !
 
-sammen—
+No. 4. Unrichtig ist es, den sogenannten Grundton, also die Prime einer Leiter allzusehr in den Vordergrund
+zu bringen. Der Dreiklang heisst nicht c, e, g, sondern e, g, c. Dagegen heisst der Molldreiklang derselben Leiter
+c, f, as (diatonisch a)‚ dann ist das © aber Octavton, trotzdem es am tiefsten steht! Haben wir einer Leiter eine
+bestimmte Anzahl Töne gegeben, die Natur verabfolgt nur die Theilung in unendlicher Anzahl Zntervalle, so erfordert
+jeder Ton ein Tonfeld, welches die Lücke ausfüllt vom vorhergehenden bis zum folgenden Ton. Die Prime kann aber
+erst vom Ende des ihr zukommenden Feldes an rechnen und durchaus nicht vom Anfang der Scala. Jeder Zollstock
+beginnt mit Null und trägt die Eins (= Prime, früher Grundton) innerhalb seiner Länge genau einen Zoll vom Anfange
+entfernt. Danach ist es geradezu incorrect, c, e, g anstatt e, g, c zu spielen. Bei c, e, g ist das c entweder Ersatz
+für die richtigere Octave, oder der Octaveton des vorhergehenden Octaveverhältnisses, aber niemals Grundton oder Prime!
 
-ersteren neben der Prime der zweiten stehen, also dense/bei Zor
+No. 3. Die gleiche Gesetzmässigkeit, die wir für Farben— und Tonleiter erkannten, beherrscht auch die tönende
+Materice. Die gespannte schwingende Saite z. B. repräsentirt durch die Knotenpuncte, welche die Obertöne bestimmen,
+eine Naturleiter mit unendlicher Intervalleneintheilung. Der goldene Schnitt fixirt von beiden Seiten harmonische Ab—
+schnitte durch solche Knotenpuncte, zuvörderst und der Reihe nach am stärksten hervortretend: erstens sogenannte
+Octave (Mitte der Saite), zweitens Quinte, dann Terze, dann Secunde u. s. w. Diese lateinischen Zahlwörter, welche
 
-No. 4. Unricktig ist es, den sogenannten Grundton, also die Prime einer Leiter allzuschr in den Vordergrund
-zu bringen. Der Dreiklang keisst nicht &, e, g, sondern e, g, c. Dagegen heisst der Moildreiklung derselben Leiter
-©, f, as (distonisch a), dann ist das © aber Öctavton, trotzdem es am licfsten steht! Haben wir einer Leiter eine
-bestimmte Anzahl Töne gegeben, die Nutr verabfülgt nur die Theilung in wnendlicher Anzakl Intervalle, so erfordert
-jeder Ton ein Tonteld, welches die Lücke ausfüllt vom vorhergehenden bis zum folgenden Ton. Die Prime kann aber
-erst vom Ende des ihr zukommenden Teldes an rechnen und durchaus nicht vom Anfang der Seala. Jeder Zollstock
-— Prime, früher Grundton) innerhalb seiner Länge genau einen Zoll vom Anfange
-
-beginnt mit Null und trägt die Eins
-entfernt.  Danach ist es geradezu incorsect, c, e, g anstatt e, g‚ c zu spielen. Rei o, e, g ist das © entweder Ersatz
-für die richtigere Octave, oder der Octaveton des vorhergehenden Octaveverhältnisses, aber niemals Grundtov oder Prime !
-
-No, 5. — Die gleiche Gesetsmässigkeit, die wir für Farben— und Tonteiter erkannten, bekerrscht auch die fönende
-Materic. Die gespannte schwingende Saite z. B. repräsentirt durch die Knotenpuncte, welche die Obertöne bestimmen,
-eine Naturleiter mit unendlicher Intervalleneintheilung. Der goldene Schnitt fixit von beiden Seiten harmonische Ab—
-schnitte durch solche Knotenpuncte, zuvörderst und der Reibe nach am stärksten hervortretend : erstens sogenannte
-Octave (Mitte der Saite), zweitens Quinte, dann Terze, dano Secunde u. s. w. Diese lateinischen Zahlwörter, welche
-die Stufen der Stheiligen diatonischen Leiter bezeichnen, sind der Deutlichkeit wegen besser beizubehalten. — Wir hören
+die Stufen der 8theiligen diatonischen Leiter bezeichnen, sind der Deutlichkeit wegen besser beizubehalten. Wir hören
