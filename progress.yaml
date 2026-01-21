@@ -41,7 +41,7 @@ sections:
         label: "Part II"
         total: 49
         units:
-          FN-TR-P2-01: 1
+          FN-TR-P2-01: 3
           FN-TR-P2-02: 1
           FN-TR-P2-03: 1
           FN-TR-P2-04: 1
@@ -94,8 +94,8 @@ sections:
         label: "Part III"
         total: 2
         units:
-          FN-TR-P3-01: 1
-          FN-TR-P3-03: 1
+          FN-TR-P3-01: 3
+          FN-TR-P3-03: 2
   translations:
     title: "Translations"
     unit:
