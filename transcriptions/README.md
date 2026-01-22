@@ -23,4 +23,4 @@ Manual transcriptions are in the `.md` format. For simplicity of parsing and dow
 
 ## Progress
 
-![Transcriptions](progress/transcriptions.svg)
+![Transcriptions](/progress/transcriptions.svg)

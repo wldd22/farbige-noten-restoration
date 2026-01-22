@@ -1,4 +1,4 @@
 # Translations
 ## Progress
 
-![Translations](progress/translations.svg)
+![Translations](/progress/translations.svg)

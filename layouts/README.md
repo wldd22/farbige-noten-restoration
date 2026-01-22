@@ -4,4 +4,4 @@
 
 ## Progress
 
-![Layouts](progress/layouts.svg)
+![Layouts](/progress/layouts.svg)

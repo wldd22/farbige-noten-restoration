@@ -5,4 +5,4 @@
 
 ## Progress
 
-![Fonts](progress/fonts.svg)
+![Fonts](/progress/fonts.svg)
