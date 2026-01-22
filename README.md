@@ -36,11 +36,11 @@ The restoration intends to include:
 ### Publications
 
 - **Part I** (27 pages)
-	- [Volume 1: Vorschlag eines neuen vereinfachten Notensystems. Analogie zwischen Farben und Tönen](masters/IMSLP935307-PMLP1467582-farbigenoten1.pdf)
+	- [Volume 1: Vorschlag eines neuen vereinfachten Notensystems. Analogie zwischen Farben und Tönen](/masters/IMSLP935307-PMLP1467582-farbigenoten1.pdf)
 - **Part II** (56 pages)
-	- [Volume 2: Veiterer Verfolg der neuen Theorie auf das Tonsystem: Grundzüge einer naturgemässen Harmonie- und Compositionslehre](masters/IMSLP935308-PMLP1467582-farbigenoten2.pdf)
+	- [Volume 2: Veiterer Verfolg der neuen Theorie auf das Tonsystem: Grundzüge einer naturgemässen Harmonie- und Compositionslehre](/masters/IMSLP935308-PMLP1467582-farbigenoten2.pdf)
 - **Part III** (3 pages)
-	- [Erklärung des farbigen Notensystems](masters/IMSLP935310-PMLP1467582-farbigenoten_erklarung.pdf)
+	- [Erklärung des farbigen Notensystems](/masters/IMSLP935310-PMLP1467582-farbigenoten_erklarung.pdf)
 
 ### Author
 
@@ -54,22 +54,22 @@ Originally, *Verlag von J. F. Richter*
 
 ## Progress
 
-### [Transcriptions](transcriptions/README.md)
+### [Transcriptions](/transcriptions/README.md)
 
-![Transcriptions](progress/transcriptions.svg)
+![Transcriptions](/progress/transcriptions.svg)
 
-### [Translations](translations/README.md)
+### [Translations](/translations/README.md)
 
-![Translations](progress/translations.svg)
+![Translations](/progress/translations.svg)
 
-### [Fonts](fonts/README.md)
+### [Fonts](/fonts/README.md)
 
-![Fonts](progress/fonts.svg)
+![Fonts](/progress/fonts.svg)
 
-### [Graphics](graphics/README.md)
+### [Graphics](/graphics/README.md)
 
-![Graphics](progress/graphics.svg)
+![Graphics](/progress/graphics.svg)
 
-### [Layouts](layouts/README.md)
+### [Layouts](/layouts/README.md)
 
-![Layouts](progress/layouts.svg)
+![Layouts](/progress/layouts.svg)
