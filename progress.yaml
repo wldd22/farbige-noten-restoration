@@ -134,7 +134,19 @@ sections:
       - id: PL
         label: "Plates"
         total: 12
-        units: {}
+        units:
+          FN-GR-PL-01: 1
+          FN-GR-PL-02: 1
+          FN-GR-PL-03: 1
+          FN-GR-PL-04: 1
+          FN-GR-PL-05: 1
+          FN-GR-PL-06: 1
+          FN-GR-PL-07: 1
+          FN-GR-PL-08: 1
+          FN-GR-PL-09: 1
+          FN-GR-PL-10: 1
+          FN-GR-PL-11: 1
+          FN-GR-PL-12: 1
       - id: OR
         label: "Ornaments"
         total: 16
@@ -148,7 +160,11 @@ sections:
       - id: IN
         label: "Initials"
         total: 4
-        units: {}
+        units:
+          FN-GR-IN-01: 1
+          FN-GR-IN-02: 1
+          FN-GR-IN-03: 1
+          FN-GR-IN-04: 1
   fonts:
     title: "Fonts"
     unit:
