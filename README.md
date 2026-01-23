@@ -9,10 +9,10 @@ The project aims to **preserve, analyse, and reconstruct** the work's textual, t
 
 The restoration intends to include:
 
-- **Transcriptions** of all the original text
-- **Translations** of all the original text
-- Reconstruction of the original **typography**
-- Reconstruction of the work's **graphics** and **layout**
+- [**Transcriptions**](/transcriptions/README.md) of all the original text
+- [**Translations**](/translations/README.md) of all the original text
+- Reconstruction of the original [**typography**](/fonts/README.md)
+- Reconstruction of the work's [**graphics**](/graphics/README.md) and [**layout**](/graphics/README.md)
 - **Documentation** of sources, methods, and decisions
 
 
