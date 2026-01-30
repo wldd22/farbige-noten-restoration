@@ -129,7 +129,10 @@ sections:
     states:
       0: "Not started"
       1: "Catalogued"
-      2: "Designed"
+      2: "Text transcribed (optional)"
+      3: "Designed"
+      4: "Text positioned (optional)"
+      5: "Metadata complete"
     groups:
       - id: PL
         label: "Plates"
