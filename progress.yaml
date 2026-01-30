@@ -153,9 +153,11 @@ sections:
         units: {}
       - id: TA
         label: "Tables"
+        total: 27
         units: {}
       - id: DI
         label: "Diagrams"
+        total: 14
         units: {}
       - id: IN
         label: "Initials"

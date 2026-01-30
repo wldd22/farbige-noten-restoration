@@ -35,7 +35,9 @@ All identifiers begin with: `FN`, representing *Farbige Noten*.
 
 ---
 
-## Page Identifiers
+## Identifiers
+
+### Page Identifiers
 
 **Format**
 ```
@@ -75,9 +77,7 @@ Example: `FN-PG-P1-12`
 
 See: [Page Types](docs/page-types.md)
 
----
-
-## Transcription Identifiers
+### Transcription Identifiers
 
 **Format**
 ```
@@ -92,9 +92,7 @@ Example: `FN-TR-P1-12`
 **Notes:**
 - Not all page numbers have a corresponding transcription. Pages with only graphics don't contain body text and so, don't have a transcription.
 
----
-
-## Translation Identifiers
+### Translation Identifiers
 
 **Format**
 ```
@@ -110,9 +108,7 @@ Example: `FN-TL-P1-12-EN`
 **Notes:**
 - Not all page numbers have a corresponding transcription. Pages with only graphics don't contain body text and so, don't have a transcription.
 
----
-
-## Font Identifiers
+### Font Identifiers
 
 **Format**
 ```
@@ -128,9 +124,7 @@ Example: `FN-F-02`
 
 See: [Font Catalogue](fonts/README.md)
 
----
-
-## Font Glyph Identifiers
+### Font Glyph Identifiers
 
 **Format**
 ```
@@ -145,9 +139,7 @@ Example: `FN-FG-02-053`
 **Notes:**
 - Glyph ID is based on the [Glyph Allocations](docs/glyph-allocations.md).
 
----
-
-## Graphic Identifiers
+### Graphic Identifiers
 
 **Format**
 ```
@@ -165,9 +157,7 @@ Example: `FN-GR-OR-02`
 
 See: [Graphic Catalogue](graphics/README.md)
 
----
-
-## Layout Identifiers
+### Layout Identifiers
 
 **Format**
 ```
@@ -182,3 +172,17 @@ Example: `FN-L-03`
 - Layout indices don't necessarily follow a pattern, but are generally in order of appearance
 
 See: [Layout Catalogue](layouts/README.md)
+
+---
+
+## Descriptions
+
+## Graphic Descriptions
+
+Graphics are described briefly in their catalogue. The description is intended not to disambiguate between graphics (the graphic identifier is used for that), but to briefly state their purpose.
+
+**Notes:**
+- If multiple graphics are similar, they will either be given numbers at the end to distinguish variations, or, if one is more common than the other, the less common variant is labelled an `alt` (alternative).
+- If a single graphic spans multiple pages, each page is considered a different graphic, with a sequential part number in brackets
+
+See: [Graphics Catalogue](graphics/README.md)

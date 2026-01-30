@@ -20,13 +20,13 @@ Decorative typographic elements without semantic content.
 
 # TA - Table
 
-Inline information in the form of a grid.
+Inline information in the form of a grid. May or may not have grid lines. Can be any text content arranged in a grid.
 
 ---
 
 ## DI - Diagram
 
-Inline graphics conveying conceptual or instructional information.
+Inline graphics conveying conceptual or instructional information. May include text content that isn't possible to replicate with body text or tables.
 
 ---
 
