@@ -288,7 +288,6 @@ def generate_grid_commands(
 def render_section_svg(
     section,
     out_path,
-    canvas_width=600,
     margin=24,
     show_title=False,
     title_gap=32,
@@ -471,13 +470,13 @@ def render_section_svg(
         cmds.append(f'TEXT|{sq_x + sq_size + LEGEND_TEXT_OFFSET}|{sq_y}|legend|{text}')
         legend_y += legend_spacing
 
+    final_width = margin*2+grid_cols*grid_cell_size+(grid_cols-1)*grid_gap
     final_height = legend_y + legend_padding_bottom
 
-    cmds.insert(0, 'RECT|0|0|{0}|{1}|0|0|bg'.format(canvas_width, final_height))
+    cmds.insert(0, 'RECT|0|0|{0}|{1}|0|0|bg'.format(final_width, final_height))
 
     # Call helper to generate svg
-    generate_svg_from_lines(cmds, out_path, svg_width=canvas_width, svg_height=final_height)
-
+    generate_svg_from_lines(cmds, out_path, svg_width=final_width, svg_height=final_height)
 
 # =========================
 # Interpretation Logic
