@@ -154,11 +154,37 @@ sections:
         units: {}
       - id: TA
         label: "Tables"
-        total: 27
-        units: {}
+        total: 26
+        units:
+          FN-GR-TA-01: 1
+          FN-GR-TA-02: 1
+          FN-GR-TA-03: 1
+          FN-GR-TA-04: 1
+          FN-GR-TA-05: 1
+          FN-GR-TA-06: 1
+          FN-GR-TA-07: 1
+          FN-GR-TA-08: 1
+          FN-GR-TA-09: 1
+          FN-GR-TA-10: 1
+          FN-GR-TA-11: 1
+          FN-GR-TA-12: 1
+          FN-GR-TA-13: 1
+          FN-GR-TA-14: 1
+          FN-GR-TA-15: 1
+          FN-GR-TA-16: 1
+          FN-GR-TA-17: 1
+          FN-GR-TA-18: 1
+          FN-GR-TA-19: 1
+          FN-GR-TA-20: 1
+          FN-GR-TA-21: 1
+          FN-GR-TA-22: 1
+          FN-GR-TA-23: 1
+          FN-GR-TA-24: 1
+          FN-GR-TA-25: 1
+          FN-GR-TA-26: 1
       - id: DI
         label: "Diagrams"
-        total: 14
+        total: 16
         units: {}
       - id: IN
         label: "Initials"
