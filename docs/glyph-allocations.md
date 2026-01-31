@@ -1,6 +1,6 @@
 # Glyph Allocations
 
-> For identifier formats, see [Coding & Identifier Standards](docs/coding-standards.md)
+> For identifier formats, see [Coding & Identifier Standards](/docs/coding-standards.md)
 
 Each font glyph receives an ID based on its position in the glyph allocation blocks specified here.
 

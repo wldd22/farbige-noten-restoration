@@ -1,6 +1,6 @@
 # Page Types
 
-> For identifier formats, see [Coding & Identifier Standards](docs/coding-standards.md)
+> For identifier formats, see [Coding & Identifier Standards](/docs/coding-standards.md)
 
 Each page receives **exactly one primary type** based on its function in the original publication.
 

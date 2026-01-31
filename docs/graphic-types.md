@@ -1,6 +1,6 @@
 # Graphic Types
 
-> For identifier formats, see [Coding & Identifier Standards](docs/coding-standards.md)
+> For identifier formats, see [Coding & Identifier Standards](/docs/coding-standards.md)
 
 Each graphic receives **exactly one primary type** based on its function in the original publication.
 

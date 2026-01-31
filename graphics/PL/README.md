@@ -1,7 +1,7 @@
 ## Catalogue
 
-> For identifier formats, see [Coding & Identifier Standards](docs/coding-standards.md)
-> For graphic type codes, see [Graphic Types](docs/graphic-types.md)
+> For identifier formats, see [Coding & Identifier Standards](/docs/coding-standards.md)
+> For graphic type codes, see [Graphic Types](/docs/graphic-types.md)
 
 | Graphic Code                                 | Description      | Found on pages |
 | -------------------------------------------- | ---------------- | -------------- |

@@ -75,7 +75,7 @@ Example: `FN-PG-P1-12`
 **Notes:**
 - The page number is based on the sequence of pages as scanned, not any printed pagination
 
-See: [Page Types](docs/page-types.md)
+See: [Page Types](/docs/page-types.md)
 
 ### Transcription Identifiers
 
@@ -122,7 +122,7 @@ Example: `FN-F-02`
 **Notes:**
 - Font indices don't necessarily follow a pattern, but are generally in order of appearance
 
-See: [Font Catalogue](fonts/README.md)
+See: [Font Catalogue](/fonts/README.md)
 
 ### Font Glyph Identifiers
 
@@ -137,7 +137,7 @@ FN-FG-##-####
 Example: `FN-FG-02-053`
 
 **Notes:**
-- Glyph ID is based on the [Glyph Allocations](docs/glyph-allocations.md).
+- Glyph ID is based on the [Glyph Allocations](/docs/glyph-allocations.md)
 
 ### Graphic Identifiers
 
@@ -153,9 +153,9 @@ Example: `FN-GR-OR-02`
 
 **Notes:**
 - Graphic indices don't necessarily follow a pattern, but are generally sorted and grouped in order of appearance
-- Type codes are defined in [Graphic Types](docs/graphic-types.md)
+- Type codes are defined in [Graphic Types](/docs/graphic-types.md)
 
-See: [Graphic Catalogue](graphics/README.md)
+See: [Graphic Catalogue](/graphics/README.md)
 
 ### Layout Identifiers
 
@@ -171,7 +171,7 @@ Example: `FN-L-03`
 **Notes:**
 - Layout indices don't necessarily follow a pattern, but are generally in order of appearance
 
-See: [Layout Catalogue](layouts/README.md)
+See: [Layout Catalogue](/layouts/README.md)
 
 ---
 
@@ -183,6 +183,6 @@ Graphics are described briefly in their catalogue. The description is intended n
 
 **Notes:**
 - If multiple graphics are similar, they will either be given numbers at the end to distinguish variations, or, if one is more common than the other, the less common variant is labelled an `alt` (alternative).
-- If a single graphic spans multiple pages, each page is considered a different graphic, with a sequential part number in brackets
+- If a single graphic spans multiple pages (or is split in some other way), each part is considered a different graphic, with a sequential part number in brackets.
 
-See: [Graphics Catalogue](graphics/README.md)
+See: [Graphics Catalogue](/graphics/README.md)
