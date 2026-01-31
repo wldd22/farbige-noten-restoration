@@ -288,13 +288,13 @@ def generate_grid_commands(
 def render_section_svg(
     section,
     out_path,
-    canvas_width=500,
+    canvas_width=600,
     margin=24,
     show_title=False,
     title_gap=32,
     path_gap=24,
     # grid parameters (passed into generate_grid_commands)
-    grid_cols=12,
+    grid_cols=16,
     grid_cell_size=24,
     grid_gap=8,
     grid_rx=2,
