@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="500" viewBox="0 0 500 624">
+<svg xmlns="http://www.w3.org/2000/svg" width="500" viewBox="0 0 500 584">
 <style>
 * { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Noto Sans", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji"; }
 .bg { fill: #0d1116; rx: 10px; ry: 10px; }
@@ -8,13 +8,11 @@
 .body { font: 16px sans-serif; fill: #fff; }
 .square { rx: 2px; fill: none; }
 .square.state-0 { fill: #161c23; }
-.square.state-1 { fill: #103D26; }
-.square.state-2 { fill: #065E2F; }
-.square.state-3 { fill: #108439; }
-.square.state-4 { fill: #2BAE45; }
-.square.state-5 { fill: #39d255; }
+.square.state-1 { fill: #09532B; }
+.square.state-2 { fill: #1B933D; }
+.square.state-3 { fill: #39d255; }
 </style>
-<rect x="0" y="0" width="500" height="624" rx="0" ry="0" class="bg" />
+<rect x="0" y="0" width="500" height="584" rx="0" ry="0" class="bg" />
 <text x="24" y="38" class="path">Plates</text>
 <g id="grid">
 <rect x="24" y="48" width="24" height="24" rx="2" ry="2" class="square state-1" />
@@ -51,33 +49,32 @@
 </g>
 <text x="24" y="198" class="path">Tables</text>
 <g id="grid">
-<rect x="24" y="208" width="24" height="24" rx="2" ry="2" class="square state-0" />
-<rect x="56" y="208" width="24" height="24" rx="2" ry="2" class="square state-0" />
-<rect x="88" y="208" width="24" height="24" rx="2" ry="2" class="square state-0" />
-<rect x="120" y="208" width="24" height="24" rx="2" ry="2" class="square state-0" />
-<rect x="152" y="208" width="24" height="24" rx="2" ry="2" class="square state-0" />
-<rect x="184" y="208" width="24" height="24" rx="2" ry="2" class="square state-0" />
-<rect x="216" y="208" width="24" height="24" rx="2" ry="2" class="square state-0" />
-<rect x="248" y="208" width="24" height="24" rx="2" ry="2" class="square state-0" />
-<rect x="280" y="208" width="24" height="24" rx="2" ry="2" class="square state-0" />
-<rect x="312" y="208" width="24" height="24" rx="2" ry="2" class="square state-0" />
-<rect x="344" y="208" width="24" height="24" rx="2" ry="2" class="square state-0" />
-<rect x="376" y="208" width="24" height="24" rx="2" ry="2" class="square state-0" />
-<rect x="24" y="240" width="24" height="24" rx="2" ry="2" class="square state-0" />
-<rect x="56" y="240" width="24" height="24" rx="2" ry="2" class="square state-0" />
-<rect x="88" y="240" width="24" height="24" rx="2" ry="2" class="square state-0" />
-<rect x="120" y="240" width="24" height="24" rx="2" ry="2" class="square state-0" />
-<rect x="152" y="240" width="24" height="24" rx="2" ry="2" class="square state-0" />
-<rect x="184" y="240" width="24" height="24" rx="2" ry="2" class="square state-0" />
-<rect x="216" y="240" width="24" height="24" rx="2" ry="2" class="square state-0" />
-<rect x="248" y="240" width="24" height="24" rx="2" ry="2" class="square state-0" />
-<rect x="280" y="240" width="24" height="24" rx="2" ry="2" class="square state-0" />
-<rect x="312" y="240" width="24" height="24" rx="2" ry="2" class="square state-0" />
-<rect x="344" y="240" width="24" height="24" rx="2" ry="2" class="square state-0" />
-<rect x="376" y="240" width="24" height="24" rx="2" ry="2" class="square state-0" />
-<rect x="24" y="272" width="24" height="24" rx="2" ry="2" class="square state-0" />
-<rect x="56" y="272" width="24" height="24" rx="2" ry="2" class="square state-0" />
-<rect x="88" y="272" width="24" height="24" rx="2" ry="2" class="square state-0" />
+<rect x="24" y="208" width="24" height="24" rx="2" ry="2" class="square state-1" />
+<rect x="56" y="208" width="24" height="24" rx="2" ry="2" class="square state-1" />
+<rect x="88" y="208" width="24" height="24" rx="2" ry="2" class="square state-1" />
+<rect x="120" y="208" width="24" height="24" rx="2" ry="2" class="square state-1" />
+<rect x="152" y="208" width="24" height="24" rx="2" ry="2" class="square state-1" />
+<rect x="184" y="208" width="24" height="24" rx="2" ry="2" class="square state-1" />
+<rect x="216" y="208" width="24" height="24" rx="2" ry="2" class="square state-1" />
+<rect x="248" y="208" width="24" height="24" rx="2" ry="2" class="square state-1" />
+<rect x="280" y="208" width="24" height="24" rx="2" ry="2" class="square state-1" />
+<rect x="312" y="208" width="24" height="24" rx="2" ry="2" class="square state-1" />
+<rect x="344" y="208" width="24" height="24" rx="2" ry="2" class="square state-1" />
+<rect x="376" y="208" width="24" height="24" rx="2" ry="2" class="square state-1" />
+<rect x="24" y="240" width="24" height="24" rx="2" ry="2" class="square state-1" />
+<rect x="56" y="240" width="24" height="24" rx="2" ry="2" class="square state-1" />
+<rect x="88" y="240" width="24" height="24" rx="2" ry="2" class="square state-1" />
+<rect x="120" y="240" width="24" height="24" rx="2" ry="2" class="square state-1" />
+<rect x="152" y="240" width="24" height="24" rx="2" ry="2" class="square state-1" />
+<rect x="184" y="240" width="24" height="24" rx="2" ry="2" class="square state-1" />
+<rect x="216" y="240" width="24" height="24" rx="2" ry="2" class="square state-1" />
+<rect x="248" y="240" width="24" height="24" rx="2" ry="2" class="square state-1" />
+<rect x="280" y="240" width="24" height="24" rx="2" ry="2" class="square state-1" />
+<rect x="312" y="240" width="24" height="24" rx="2" ry="2" class="square state-1" />
+<rect x="344" y="240" width="24" height="24" rx="2" ry="2" class="square state-1" />
+<rect x="376" y="240" width="24" height="24" rx="2" ry="2" class="square state-1" />
+<rect x="24" y="272" width="24" height="24" rx="2" ry="2" class="square state-1" />
+<rect x="56" y="272" width="24" height="24" rx="2" ry="2" class="square state-1" />
 </g>
 <text x="24" y="326" class="path">Diagrams</text>
 <g id="grid">
@@ -95,6 +92,8 @@
 <rect x="376" y="336" width="24" height="24" rx="2" ry="2" class="square state-0" />
 <rect x="24" y="368" width="24" height="24" rx="2" ry="2" class="square state-0" />
 <rect x="56" y="368" width="24" height="24" rx="2" ry="2" class="square state-0" />
+<rect x="88" y="368" width="24" height="24" rx="2" ry="2" class="square state-0" />
+<rect x="120" y="368" width="24" height="24" rx="2" ry="2" class="square state-0" />
 </g>
 <text x="24" y="422" class="path">Initials</text>
 <g id="grid">
@@ -106,13 +105,9 @@
 <rect x="24" y="474" width="16" height="16" rx="2" ry="2" class="square state-0" />
 <text x="48" y="488" class="legend">Not started</text>
 <rect x="24" y="494" width="16" height="16" rx="2" ry="2" class="square state-1" />
-<text x="48" y="508" class="legend">Catalogued (16/73 graphics, 21.9%)</text>
+<text x="48" y="508" class="legend">Catalogued (42/74 graphics, 56.8%)</text>
 <rect x="24" y="514" width="16" height="16" rx="2" ry="2" class="square state-2" />
-<text x="48" y="528" class="legend">Text transcribed (optional) (0/73 graphics, 0.0%)</text>
+<text x="48" y="528" class="legend">Designed (and optionally transcribed) (0/74 graphics, 0.0%)</text>
 <rect x="24" y="534" width="16" height="16" rx="2" ry="2" class="square state-3" />
-<text x="48" y="548" class="legend">Designed (0/73 graphics, 0.0%)</text>
-<rect x="24" y="554" width="16" height="16" rx="2" ry="2" class="square state-4" />
-<text x="48" y="568" class="legend">Text positioned (optional) (0/73 graphics, 0.0%)</text>
-<rect x="24" y="574" width="16" height="16" rx="2" ry="2" class="square state-5" />
-<text x="48" y="588" class="legend">Metadata complete (0/73 graphics, 0.0%)</text>
+<text x="48" y="548" class="legend">Metadata complete (0/74 graphics, 0.0%)</text>
 </svg>
