@@ -185,7 +185,23 @@ sections:
       - id: DI
         label: "Diagrams"
         total: 16
-        units: {}
+        units:
+          FN-GR-DI-01: 1
+          FN-GR-DI-02: 1
+          FN-GR-DI-03: 1
+          FN-GR-DI-04: 1
+          FN-GR-DI-05: 1
+          FN-GR-DI-06: 1
+          FN-GR-DI-07: 1
+          FN-GR-DI-08: 1
+          FN-GR-DI-09: 1
+          FN-GR-DI-10: 1
+          FN-GR-DI-11: 1
+          FN-GR-DI-12: 1
+          FN-GR-DI-13: 1
+          FN-GR-DI-14: 1
+          FN-GR-DI-15: 1
+          FN-GR-DI-16: 1
       - id: IN
         label: "Initials"
         total: 4
